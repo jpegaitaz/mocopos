@@ -1,0 +1,8 @@
+[github]
+api_base = "https://api.github.com"
+
+[report]
+output_path = "report.json"
+
+[scanner]
+max_bytes_per_file = 500000

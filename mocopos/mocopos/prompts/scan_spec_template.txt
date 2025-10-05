@@ -1,0 +1,6 @@
+Scan scope:
+- Secrets and credentials (API keys, tokens)
+- Obvious backdoors (hardcoded passwords, eval/exec with remote input)
+- Dependency risk hints (lockfiles, known risk markers)
+
+For each finding: path, rule_id, severity, reason, masked evidence if needed.

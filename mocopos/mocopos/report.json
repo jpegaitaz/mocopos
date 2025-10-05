@@ -1,0 +1,24 @@
+{
+  "session_id": "e043ab07-fc89-43c7-8ad1-3eab02e0b0e3",
+  "started_at": "2025-10-05T17:22:49.070283+00:00",
+  "finished_at": "2025-10-05T17:23:09.514468+00:00",
+  "repo": {
+    "owner": "stickerdaniel",
+    "name": "linkedin-mcp-server",
+    "ref": "main",
+    "commit": "c54e3fa518d2b5cd827262159771b9d85a6eae13"
+  },
+  "stats": {
+    "files_scanned": 46,
+    "bytes_scanned": 658505,
+    "scanners_used": [
+      "secrets",
+      "static_risk",
+      "deps_audit"
+    ]
+  },
+  "findings": [],
+  "classification": "Safe",
+  "summary": "No findings detected.",
+  "policy_flags": []
+}

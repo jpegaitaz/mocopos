@@ -1,0 +1,49 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Mocopos Scanner Report",
+  "type": "object",
+  "required": ["session_id", "started_at", "finished_at", "repo", "stats", "findings", "classification", "summary"],
+  "properties": {
+    "session_id": { "type": "string" },
+    "started_at": { "type": "string", "format": "date-time" },
+    "finished_at": { "type": "string", "format": "date-time" },
+    "repo": {
+      "type": "object",
+      "required": ["owner", "name", "ref", "commit"],
+      "properties": {
+        "owner": {"type": "string"},
+        "name": {"type": "string"},
+        "ref": {"type": "string"},
+        "commit": {"type": "string"}
+      }
+    },
+    "stats": {
+      "type": "object",
+      "required": ["files_scanned", "bytes_scanned", "scanners_used"],
+      "properties": {
+        "files_scanned": {"type": "integer"},
+        "bytes_scanned": {"type": "integer"},
+        "scanners_used": {"type": "array", "items": {"type": "string"}}
+      }
+    },
+    "findings": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["path", "scanner", "rule_id", "severity", "reason"],
+        "properties": {
+          "path": {"type": "string"},
+          "scanner": {"type": "string"},
+          "rule_id": {"type": "string"},
+          "severity": {"type": "string", "enum": ["low", "medium", "high", "critical"]},
+          "reason": {"type": "string"},
+          "evidence": {"type": "string"},
+          "code_span": {"type": "string"}
+        }
+      }
+    },
+    "classification": {"type": "string", "enum": ["Safe", "Potential Threat", "Threat"]},
+    "summary": {"type": "string"},
+    "policy_flags": {"type": "array", "items": {"type": "string"}}
+  }
+}
