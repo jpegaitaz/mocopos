@@ -1,6 +1,6 @@
 from __future__ import annotations
 import os
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from pathlib import Path
 
 try:
@@ -19,6 +19,12 @@ class ReportConfig:
 @dataclass
 class ScannerConfig:
     max_bytes_per_file: int = 500_000
+    ignore_globs: list[str] = field(default_factory=lambda: [
+        "**/.git/**", "**/.github/**", "**/node_modules/**", "**/dist/**", "**/build/**",
+        "**/.venv/**", "**/*.min.js", "**/*.min.css", "**/*.lock",
+        "**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp",
+        "**/*.pdf", "**/*.zip", "**/*.tar", "**/*.tgz", "**/*.gz",
+    ])
 
 @dataclass
 class Settings:
@@ -40,7 +46,9 @@ class Settings:
         rep = ReportConfig(
             output_path=data.get("report", {}).get("output_path", "report.json")
         )
+        scn_section = data.get("scanner", {})
         scn = ScannerConfig(
-            max_bytes_per_file=int(data.get("scanner", {}).get("max_bytes_per_file", 500_000))
+            max_bytes_per_file=int(scn_section.get("max_bytes_per_file", 500_000)),
+            ignore_globs=list(scn_section.get("ignore_globs", ScannerConfig().ignore_globs)),
         )
         return Settings(github=gh, report=rep, scanner=scn)

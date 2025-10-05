@@ -1,7 +1,7 @@
 {
-  "session_id": "e043ab07-fc89-43c7-8ad1-3eab02e0b0e3",
-  "started_at": "2025-10-05T17:22:49.070283+00:00",
-  "finished_at": "2025-10-05T17:23:09.514468+00:00",
+  "session_id": "a2b33933-b93e-494e-be7b-c0743cd20eb5",
+  "started_at": "2025-10-05T19:03:34.661419+00:00",
+  "finished_at": "2025-10-05T19:03:40.718419+00:00",
   "repo": {
     "owner": "stickerdaniel",
     "name": "linkedin-mcp-server",
@@ -13,6 +13,7 @@
     "bytes_scanned": 658505,
     "scanners_used": [
       "secrets",
+      "entropy_secrets",
       "static_risk",
       "deps_audit"
     ]

@@ -11,7 +11,8 @@ dependencies = [
   "python-dotenv",
   "requests",
   "jsonschema",
-  "tomli; python_version < '3.11'"
+  "tomli; python_version < '3.11'",
+  "yara-python>=4.3",
 ]
 
 [project.scripts]
