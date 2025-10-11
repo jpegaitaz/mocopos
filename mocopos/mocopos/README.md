@@ -52,6 +52,8 @@ uv run mcp-scan https://github.com/<owner>/<repo> \
 # custom output path
 uv run mcp-scan https://github.com/<owner>/<repo> --out ./report.json
 
+```bash
+
 ---
 
 ## Install / Quickstart
@@ -60,4 +62,6 @@ uv run mcp-scan https://github.com/<owner>/<repo> --out ./report.json
 uv venv && source .venv/bin/activate
 uv sync
 cp .env.example .env    # add your GitHub token
+
+```bash
 
