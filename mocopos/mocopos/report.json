@@ -1,25 +1,106 @@
 {
-  "session_id": "a2b33933-b93e-494e-be7b-c0743cd20eb5",
-  "started_at": "2025-10-05T19:03:34.661419+00:00",
-  "finished_at": "2025-10-05T19:03:40.718419+00:00",
+  "session_id": "3cb024e0-3603-4f03-94c8-17d539f8e126",
+  "started_at": "2025-10-11T11:29:46.629604+00:00",
+  "finished_at": "2025-10-11T11:29:53.383132+00:00",
   "repo": {
-    "owner": "stickerdaniel",
-    "name": "linkedin-mcp-server",
+    "owner": "CherryHQ",
+    "name": "cherry-studio",
     "ref": "main",
-    "commit": "c54e3fa518d2b5cd827262159771b9d85a6eae13"
+    "commit": "ee4c310725b3a6c7b784bbbf0eb9d20122f9517c"
   },
   "stats": {
-    "files_scanned": 46,
-    "bytes_scanned": 658505,
+    "files_scanned": 1432,
+    "bytes_scanned": 7801418,
     "scanners_used": [
       "secrets",
       "entropy_secrets",
       "static_risk",
-      "deps_audit"
+      "taint_risk",
+      "deps_audit",
+      "github_actions"
     ]
   },
-  "findings": [],
-  "classification": "Safe",
-  "summary": "No findings detected.",
+  "findings": [
+    {
+      "path": ".github/workflows/auto-i18n.yml",
+      "scanner": "github_actions",
+      "rule_id": "gha_uses_floating",
+      "severity": "medium",
+      "reason": "Action 'ad-m/github-push-action@master' pinned to floating ref 'master'."
+    },
+    {
+      "path": ".github/workflows/claude-translator.yml",
+      "scanner": "github_actions",
+      "rule_id": "gha_uses_floating",
+      "severity": "medium",
+      "reason": "Action 'anthropics/claude-code-action@main' pinned to floating ref 'main'."
+    },
+    {
+      "path": "src/renderer/src/config/models/default.ts",
+      "scanner": "entropy_secrets",
+      "rule_id": "high_entropy_candidate",
+      "severity": "medium",
+      "reason": "High-entropy token-like string near secret-ish context (entropy=4.47, len=41).",
+      "evidence": "****redacted****"
+    },
+    {
+      "path": "src/renderer/src/config/models/default.ts",
+      "scanner": "entropy_secrets",
+      "rule_id": "high_entropy_candidate",
+      "severity": "medium",
+      "reason": "High-entropy token-like string near secret-ish context (entropy=4.36, len=47).",
+      "evidence": "****redacted****"
+    },
+    {
+      "path": "src/renderer/src/config/providers.ts",
+      "scanner": "entropy_secrets",
+      "rule_id": "high_entropy_candidate",
+      "severity": "medium",
+      "reason": "High-entropy token-like string near secret-ish context (entropy=4.43, len=56).",
+      "evidence": "****redacted****"
+    },
+    {
+      "path": "src/renderer/src/utils/__tests__/blacklistMatchPattern.test.ts",
+      "scanner": "entropy_secrets",
+      "rule_id": "high_entropy_candidate",
+      "severity": "medium",
+      "reason": "High-entropy token-like string near secret-ish context (entropy=4.39, len=59).",
+      "evidence": "****redacted****"
+    },
+    {
+      "path": "src/renderer/src/utils/__tests__/download.test.ts",
+      "scanner": "entropy_secrets",
+      "rule_id": "high_entropy_candidate",
+      "severity": "medium",
+      "reason": "High-entropy token-like string near secret-ish context (entropy=4.48, len=96).",
+      "evidence": "****redacted****"
+    },
+    {
+      "path": "src/renderer/src/utils/__tests__/markdownConverter.test.ts",
+      "scanner": "entropy_secrets",
+      "rule_id": "high_entropy_candidate",
+      "severity": "medium",
+      "reason": "High-entropy token-like string near secret-ish context (entropy=4.74, len=71).",
+      "evidence": "****redacted****"
+    },
+    {
+      "path": "src/renderer/src/utils/__tests__/markdownConverter.test.ts",
+      "scanner": "entropy_secrets",
+      "rule_id": "high_entropy_candidate",
+      "severity": "medium",
+      "reason": "High-entropy token-like string near secret-ish context (entropy=4.74, len=71).",
+      "evidence": "****redacted****"
+    },
+    {
+      "path": "src/renderer/src/utils/style.ts",
+      "scanner": "entropy_secrets",
+      "rule_id": "high_entropy_candidate",
+      "severity": "medium",
+      "reason": "High-entropy token-like string near secret-ish context (entropy=4.39, len=94).",
+      "evidence": "****redacted****"
+    }
+  ],
+  "classification": "Potential Threat",
+  "summary": "Potentially sensitive tokens or patterns found.",
   "policy_flags": []
 }

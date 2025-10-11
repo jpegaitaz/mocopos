@@ -1,0 +1,92 @@
+:root{
+  --brand:#0B5FFF;
+  --ink:#111827;
+  --muted:#6B7280;
+  --border:#E5E7EB;          /* light border */
+  --border-strong:#9CA3AF;   /* table borders */
+  --bg:#FFFFFF;
+  --accent:#EEF2FF;
+}
+
+html,body{
+  font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans","Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
+  color:var(--ink);
+  background:var(--bg);
+  font-size:11pt;
+  line-height:1.55;
+}
+
+.cover{
+  display:flex; flex-direction:column; align-items:flex-start; justify-content:center;
+  min-height:85vh; padding:8mm 4mm;
+  border-left:6px solid var(--brand);
+  background:linear-gradient(180deg,#fff,var(--accent));
+}
+.cover .logo{ height:40px; margin-bottom:16px; }
+.cover h1{ font-size:28pt; margin:0 0 6px 0; color:var(--ink); }
+.cover .subtitle{ font-size:12pt; color:var(--muted); margin:0 0 18px 0; }
+.cover .meta{ display:grid; grid-template-columns:auto 1fr; gap:6px 12px; font-size:10.5pt; color:var(--ink); }
+
+.pagebreak{ page-break-after:always; }
+
+.content{ padding:2mm; }
+.content h1{ font-size:18pt; margin:14px 0 6px 0; }
+.content h2{ font-size:14pt; margin:12px 0 6px 0; }
+.content h3{ font-size:12pt; margin:10px 0 6px 0; }
+.content p{ margin:6px 0; }
+.content code, .content pre{
+  font-family:ui-monospace,SFMono-Regular,Menlo,Monaco,Consolas,"Liberation Mono","Courier New",monospace;
+}
+.content pre{
+  background:#0b5fff10; border:1px solid var(--border);
+  padding:8px; border-radius:6px; overflow-x:auto;
+}
+
+/* Tables */
+.content table{
+  width:100%;
+  border-collapse:collapse;
+  table-layout:fixed;                 /* consistent column widths */
+  margin:12px 0 16px 0;
+  border:1.2px solid var(--border-strong);
+}
+.content table th,
+.content table td{
+  border:1px solid var(--border-strong);
+  padding:8px 10px;
+  text-align:left;
+  vertical-align:top;
+  font-size:10.5pt;
+  overflow-wrap:anywhere;             /* prevent overflow for long repo names */
+}
+.content table th{
+  background:#F3F4F6;
+  color:#111827;
+  font-weight:600;
+}
+.content table tbody tr:nth-child(even) td{
+  background:#FAFAFB;                 /* zebra on body only */
+}
+.content table td.num,
+.content table th.num{
+  text-align:right;
+  white-space:nowrap;
+}
+
+/* Lists, quotes, rules */
+.content ul{ margin:6px 0 6px 16px; }
+.content li{ margin:2px 0; }
+blockquote{ border-left:4px solid var(--border); padding:6px 10px; color:var(--muted); background:#f9fafb; }
+hr{ border:none; border-top:1px solid var(--border); margin:12px 0; }
+
+/* Pagination control for print/PDF */
+table{ page-break-inside:auto; }
+thead, tfoot{ display:table-row-group; }  /* helps WeasyPrint keep headers with rows */
+tr, th, td{ page-break-inside:avoid; }
+h1, h2, h3{ page-break-after:avoid; }
+
+.content table,
+.content table th,
+.content table td { color: var(--ink) !important; }
+.content table th { background: #F3F4F6 !important; }
+.content table a { color: inherit !important; text-decoration: underline; }

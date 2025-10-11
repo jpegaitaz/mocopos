@@ -1,5 +1,6 @@
 [github]
 api_base = "https://api.github.com"
+prefer_archive = true
 
 [report]
 output_path = "report.json"
@@ -30,4 +31,24 @@ ignore_globs = [
   "**/*.tar",
   "**/*.tgz",
   "**/*.gz",
+  "**/package-lock.json",
+  "**/pnpm-lock.yaml", 
+  "**/yarn.lock", 
+  "**/*.lock",
+  "**/node_modules/**", 
+  "**/dist/**", 
+  "**/build/**", 
+  "**/.next/**", 
+  "**/.vite/**",
+  "**/docs/**", 
+  "**/website/**",
+  "**/example/**",
+  "**/demo/**",
+  "**/*mock*/**",
+  "**/*fixtures*/**",
+  "**/fixtures/**",
+  "**/mocks/**",
+  "**/*.spec.ts",
+  "**/*.test.ts",
+  "**/*.stories.ts*",
 ]

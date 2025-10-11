@@ -8,5 +8,5 @@ rule Suspicious_Python_Exec
     $b = /subprocess\.(Popen|call|run)\s*\(/
     $c = /shell\s*=\s*True/
   condition:
-    any of ($a,$b) and (uint16be(0) != 0)  // cheap non-binary check
+    any of ($a,$b) and (uint16be(0) != 0)
 }

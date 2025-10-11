@@ -1,0 +1,164 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <title>Portfolio Security Report</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <style>
+    @page {
+      size: A4;
+      margin: 20mm 16mm 22mm 16mm;
+      @top-left {
+        content: "ACME Cyber Risk";
+        font-size: 10pt;
+        color: #6b7280;
+      }
+      @top-right {
+        content: "Consolidated";
+        font-size: 10pt;
+        color: #6b7280;
+      }
+      @bottom-left {
+        content: "20251011_163028Z  •  6FQ2JW";
+        font-size: 9pt;
+        color: #9ca3af;
+      }
+      @bottom-right {
+        content: "Page " counter(page) " of " counter(pages);
+        font-size: 9pt;
+        color: #9ca3af;
+      }
+    }
+  </style>
+ <!-- <link rel="stylesheet" href="../assets/report.css"/> -->
+<style>
+  /* Minimal, self-contained table styles for debugging */
+  .content { color:#111827 !important; font-family: "DejaVu Sans", Arial, sans-serif; }
+  .content table { width:100%; border-collapse: collapse; margin:12px 0 16px; border:1px solid #999; }
+  .content th, .content td { border:1px solid #999; padding:8px 10px; text-align:left; vertical-align:top; background:#fff; }
+  .content th { background:#eee; font-weight:600; }
+  .content table, .content table * { color:#111827 !important; }
+  /* ensure numerals render even if a weird font gets picked */
+  .content table, .content table * { font-family: "DejaVu Sans", Arial, sans-serif !important; }
+  /* avoid splitting rows across pages */
+  thead, tfoot { display: table-row-group; }
+  tr, th, td { page-break-inside: avoid; }
+  /* Force numeric glyphs to render */
+  .content table, .content table * {
+  font-family: "DejaVu Sans", Arial, sans-serif !important;
+}
+</style>
+
+
+</head>
+<body>
+  <!-- Cover -->
+  <section class="cover">
+    
+    <h1>Portfolio Security Report</h1>
+    <p class="subtitle">Consolidated Batch Summary</p>
+    <div class="meta">
+      <div><strong>Company:</strong> ACME Cyber Risk</div>
+      <div><strong>Report Type:</strong> Consolidated</div>
+      <div><strong>Timestamp:</strong> 20251011_163028Z</div>
+      <div><strong>Session:</strong> 6FQ2JW</div>
+    </div>
+  </section>
+
+  <div class="pagebreak"></div>
+
+  <!-- Content -->
+  <main class="content">
+    <h1 id="executive-summary">Executive Summary</h1>
+<p>The overall risk posture across all repositories indicates a need for immediate attention, with 100% of repositories containing flagged files. Key findings include:</p>
+<ul>
+<li><strong>1</strong> repository scanned.</li>
+<li><strong>1,432</strong> total files scanned.</li>
+<li><strong>9</strong> flagged files, representing <strong>0.63%</strong> of total files.</li>
+<li><strong>100%</strong> of repositories have findings.</li>
+<li>Top categories: <strong>high_entropy_candidate</strong> (7 instances), <strong>gha_uses_floating</strong> (2 instances).</li>
+<li>All findings are of <strong>medium</strong> severity.</li>
+</ul>
+<h1 id="portfolio-level-statistics">Portfolio-Level Statistics</h1>
+<table>
+<thead>
+<tr>
+<th>Metric</th>
+<th>Total</th>
+<th>Rate/Percentage</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Repositories</td>
+<td><span style="color:#111827 !important;-webkit-text-fill-color:#111827 !important;opacity:1 !important;visibility:visible !important;mix-blend-mode:normal !important;filter:none !important;">1</span></td>
+<td><span style="color:#111827 !important;-webkit-text-fill-color:#111827 !important;opacity:1 !important;visibility:visible !important;mix-blend-mode:normal !important;filter:none !important;">100%</span></td>
+</tr>
+<tr>
+<td>Files Scanned</td>
+<td><span style="color:#111827 !important;-webkit-text-fill-color:#111827 !important;opacity:1 !important;visibility:visible !important;mix-blend-mode:normal !important;filter:none !important;">1,432</span></td>
+<td>-</td>
+</tr>
+<tr>
+<td>Flagged Files</td>
+<td><span style="color:#111827 !important;-webkit-text-fill-color:#111827 !important;opacity:1 !important;visibility:visible !important;mix-blend-mode:normal !important;filter:none !important;">9</span></td>
+<td><span style="color:#111827 !important;-webkit-text-fill-color:#111827 !important;opacity:1 !important;visibility:visible !important;mix-blend-mode:normal !important;filter:none !important;">0.63%</span></td>
+</tr>
+<tr>
+<td>Repos with Findings</td>
+<td><span style="color:#111827 !important;-webkit-text-fill-color:#111827 !important;opacity:1 !important;visibility:visible !important;mix-blend-mode:normal !important;filter:none !important;">1</span></td>
+<td><span style="color:#111827 !important;-webkit-text-fill-color:#111827 !important;opacity:1 !important;visibility:visible !important;mix-blend-mode:normal !important;filter:none !important;">100%</span></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Category</th>
+<th>Count</th>
+<th>% of Total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>High Entropy Candidate</td>
+<td><span style="color:#111827 !important;-webkit-text-fill-color:#111827 !important;opacity:1 !important;visibility:visible !important;mix-blend-mode:normal !important;filter:none !important;">7</span></td>
+<td><span style="color:#111827 !important;-webkit-text-fill-color:#111827 !important;opacity:1 !important;visibility:visible !important;mix-blend-mode:normal !important;filter:none !important;">77.78%</span></td>
+</tr>
+<tr>
+<td>GHA Uses Floating</td>
+<td><span style="color:#111827 !important;-webkit-text-fill-color:#111827 !important;opacity:1 !important;visibility:visible !important;mix-blend-mode:normal !important;filter:none !important;">2</span></td>
+<td><span style="color:#111827 !important;-webkit-text-fill-color:#111827 !important;opacity:1 !important;visibility:visible !important;mix-blend-mode:normal !important;filter:none !important;">22.22%</span></td>
+</tr>
+</tbody>
+</table>
+<ul>
+<li>Top repository by flagged count: <strong>CherryHQ/cherry-studio</strong> (9 flagged files).</li>
+<li>Median flagged files per repo: <strong>9</strong>.</li>
+<li>95th-percentile flagged files per repo: <strong>9</strong>.</li>
+</ul>
+<h1 id="systemic-risks-themes">Systemic Risks &amp; Themes</h1>
+<ul>
+<li><strong>High Entropy Candidates</strong>: Found in <strong>CherryHQ/cherry-studio</strong>, indicating potential secret exposure.</li>
+<li><strong>GHA Uses Floating</strong>: Detected in <strong>CherryHQ/cherry-studio</strong>, suggesting reliance on non-pinned dependencies.</li>
+</ul>
+<h1 id="prioritized-recommendations">Prioritized Recommendations</h1>
+<ul>
+<li><strong>P0</strong>: Immediate removal or rotation of exposed secrets in <strong>CherryHQ/cherry-studio</strong>. Success criteria: No high entropy findings in subsequent scans.</li>
+<li><strong>P1</strong>: Implement dependency pinning in CI/CD pipelines to prevent floating versions. Success criteria: No GHA uses floating findings.</li>
+<li><strong>P2</strong>: Enhance static analysis tooling to include dynamic checks for secret usage patterns.</li>
+</ul>
+<h1 id="notable-repositories">Notable Repositories</h1>
+<ul>
+<li><strong>Higher-Risk</strong>: <strong>CherryHQ/cherry-studio</strong> due to high entropy candidates and floating dependencies.</li>
+<li><strong>Standout-Safe</strong>: None identified in this batch.</li>
+</ul>
+<h1 id="methodology-notes">Methodology Notes</h1>
+<ul>
+<li>Scan scope included static analysis only; dynamic behaviors were not evaluated.</li>
+<li>Evidence excerpts are redacted or partial to maintain confidentiality.</li>
+<li>Assumptions: Findings prioritized over flags; if both absent, used stats.flagged_count or defaulted to 0.</li>
+</ul>
+  </main>
+</body>
+</html>
