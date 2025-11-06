@@ -1,0 +1,93 @@
+===== Commandes ======
+
+# which rules dominate?
+jq -r '.results[].findings[]?.rule_id' scan_results_py_by_month_test.json \
+ | sort | uniq -c | sort -nr | head
+
+# see remaining entropy paths
+jq -r '
+  .results[].findings[]
+  | select(.rule_id=="high_entropy_candidate")
+  | .path' scan_batch_01.json \
+ | sort | uniq -c | sort -nr | head -n 30
+
+ jq -r '
+  .results[].findings[]
+  | select(.rule_id=="high_entropy_candidate")
+  | [.path, (.line // 0), (.match // "")] | @tsv
+' scan_results_py_by_month_test.json | column -t
+
+# extensions distribution for entropy
+jq -r '
+  .results[].findings[]
+  | select(.rule_id=="high_entropy_candidate")
+  | (.path | split(".") | last // "none")
+' scan_results_py_by_month_test.json \
+| tr "[:upper:]" "[:lower:]" | sort | uniq -c | sort -nr | head
+
+# Scan a single repository
+uv run mcp-scan repository_url.git
+
+# Search Scan by date 
+mcp-scan-search -q 'mcp server language:Python created:2025-05-02..2025-06-01' \
+  --pages 10 --per-page 100 \
+  --save-repos repos_py_by_month.json \
+  --out scan_results_py_by_month.json
+
+mcp-scan-search -q 'mcp server language:Python created:2025-02-01..2025-02-28' \
+  --pages 10 --per-page 100 \
+  --save-repos repos_py_month.json \
+  --out scan_results_py_month.json \
+  --include '**/*.py,**/*.ts,**/*.tsx,**/*.go,**/*.rs' \
+  --exclude '**/*.json,**/*.yaml,**/*.yml'
+
+mcp-scan-search -q 'mcp server language:TypeScript created:2025-02-01..2025-02-28' \
+  --pages 10 --per-page 100 \
+  --save-repos repos_ts_month.json \
+  --out scan_results_ts_month.jsonl \
+  --include '**/*.py,**/*.ts,**/*.tsx,**/*.go,**/*.rs' \
+  --exclude '**/*.json,**/*.yaml,**/*.yml'
+
+# Scan batch 
+mcp-scan-search -q "mcp server" --pages 1 --per-page 10 --out filename.json  
+
+# Check github api limits
+curl -s -H "Authorization: Bearer $GITHUB_TOKEN" https://api.github.com/user | jq
+
+curl -i -s -H "Authorization: Bearer $GITHUB_TOKEN" https://api.github.com/rate_limit \
+ | sed -n '1,15p'
+
+curl -s -H "Authorization: Bearer $GITHUB_TOKEN" https://api.github.com/rate_limit | jq .resources
+
+curl -i -s -H "Authorization: Bearer $GITHUB_TOKEN" \
+  https://api.github.com/repos/octocat/Hello-World \
+  | sed -n '1,30p'
+
+# Transform UTC to local time CH
+TZ=Europe/Zurich date -r  1759953125
+
+# Generate Report (Batch)
+python -m mocopos.cli.generate_reports \
+  --inputs scan_results_py_month_final.jsonl.partial.jsonl \
+  --out-dir reports
+
+# Generate Report (single repository)
+python -m mocopos.cli.generate_reports \                                      
+ --inputs report.json \
+ --out-dir reports
+
+# Generate corporate-grade pdf report
+uv run -m mocopos.cli.generate_reports \
+  --inputs scan_results_py_month_final.jsonl.partial.jsonl \
+  --out-dir reports \
+  --only-consolidated \
+  --pdf \
+  --pdf-scope consolidated \
+  --company "ACME Cyber Risk" \
+  --session-id 6FQ2JW
+
+# per-repo PDFs only
+uv run -m mocopos.cli.generate_reports ... --pdf --pdf-scope per-repo
+
+# both consolidated and per-repo PDFs
+uv run -m mocopos.cli.generate_reports ... --consolidate --pdf --pdf-scope both
