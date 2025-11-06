@@ -1,16 +1,16 @@
 {
-  "session_id": "3cb024e0-3603-4f03-94c8-17d539f8e126",
-  "started_at": "2025-10-11T11:29:46.629604+00:00",
-  "finished_at": "2025-10-11T11:29:53.383132+00:00",
+  "session_id": "6a3f1dde-a6b8-4372-868c-4445b08945c3",
+  "started_at": "2025-11-06T13:11:02.007509+00:00",
+  "finished_at": "2025-11-06T13:11:04.825140+00:00",
   "repo": {
-    "owner": "CherryHQ",
-    "name": "cherry-studio",
+    "owner": "jpegaitaz",
+    "name": "valuation_crypto",
     "ref": "main",
-    "commit": "ee4c310725b3a6c7b784bbbf0eb9d20122f9517c"
+    "commit": "83cb0cdcb9d74dfaa03fa53ebe03a39fb5708b0f"
   },
   "stats": {
-    "files_scanned": 1432,
-    "bytes_scanned": 7801418,
+    "files_scanned": 9,
+    "bytes_scanned": 35678,
     "scanners_used": [
       "secrets",
       "entropy_secrets",
@@ -20,87 +20,8 @@
       "github_actions"
     ]
   },
-  "findings": [
-    {
-      "path": ".github/workflows/auto-i18n.yml",
-      "scanner": "github_actions",
-      "rule_id": "gha_uses_floating",
-      "severity": "medium",
-      "reason": "Action 'ad-m/github-push-action@master' pinned to floating ref 'master'."
-    },
-    {
-      "path": ".github/workflows/claude-translator.yml",
-      "scanner": "github_actions",
-      "rule_id": "gha_uses_floating",
-      "severity": "medium",
-      "reason": "Action 'anthropics/claude-code-action@main' pinned to floating ref 'main'."
-    },
-    {
-      "path": "src/renderer/src/config/models/default.ts",
-      "scanner": "entropy_secrets",
-      "rule_id": "high_entropy_candidate",
-      "severity": "medium",
-      "reason": "High-entropy token-like string near secret-ish context (entropy=4.47, len=41).",
-      "evidence": "****redacted****"
-    },
-    {
-      "path": "src/renderer/src/config/models/default.ts",
-      "scanner": "entropy_secrets",
-      "rule_id": "high_entropy_candidate",
-      "severity": "medium",
-      "reason": "High-entropy token-like string near secret-ish context (entropy=4.36, len=47).",
-      "evidence": "****redacted****"
-    },
-    {
-      "path": "src/renderer/src/config/providers.ts",
-      "scanner": "entropy_secrets",
-      "rule_id": "high_entropy_candidate",
-      "severity": "medium",
-      "reason": "High-entropy token-like string near secret-ish context (entropy=4.43, len=56).",
-      "evidence": "****redacted****"
-    },
-    {
-      "path": "src/renderer/src/utils/__tests__/blacklistMatchPattern.test.ts",
-      "scanner": "entropy_secrets",
-      "rule_id": "high_entropy_candidate",
-      "severity": "medium",
-      "reason": "High-entropy token-like string near secret-ish context (entropy=4.39, len=59).",
-      "evidence": "****redacted****"
-    },
-    {
-      "path": "src/renderer/src/utils/__tests__/download.test.ts",
-      "scanner": "entropy_secrets",
-      "rule_id": "high_entropy_candidate",
-      "severity": "medium",
-      "reason": "High-entropy token-like string near secret-ish context (entropy=4.48, len=96).",
-      "evidence": "****redacted****"
-    },
-    {
-      "path": "src/renderer/src/utils/__tests__/markdownConverter.test.ts",
-      "scanner": "entropy_secrets",
-      "rule_id": "high_entropy_candidate",
-      "severity": "medium",
-      "reason": "High-entropy token-like string near secret-ish context (entropy=4.74, len=71).",
-      "evidence": "****redacted****"
-    },
-    {
-      "path": "src/renderer/src/utils/__tests__/markdownConverter.test.ts",
-      "scanner": "entropy_secrets",
-      "rule_id": "high_entropy_candidate",
-      "severity": "medium",
-      "reason": "High-entropy token-like string near secret-ish context (entropy=4.74, len=71).",
-      "evidence": "****redacted****"
-    },
-    {
-      "path": "src/renderer/src/utils/style.ts",
-      "scanner": "entropy_secrets",
-      "rule_id": "high_entropy_candidate",
-      "severity": "medium",
-      "reason": "High-entropy token-like string near secret-ish context (entropy=4.39, len=94).",
-      "evidence": "****redacted****"
-    }
-  ],
-  "classification": "Potential Threat",
-  "summary": "Potentially sensitive tokens or patterns found.",
+  "findings": [],
+  "classification": "Safe",
+  "summary": "No findings detected.",
   "policy_flags": []
 }
