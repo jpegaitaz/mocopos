@@ -1,16 +1,16 @@
 {
-  "session_id": "8aac8bde-49aa-410e-a8b9-6ea2fc8ce914",
-  "started_at": "2025-11-06T13:28:41.587729+00:00",
-  "finished_at": "2025-11-06T13:28:44.412671+00:00",
+  "session_id": "8d024d64-8135-432c-bdd3-3bc9481eecee",
+  "started_at": "2025-11-06T14:25:05.944883+00:00",
+  "finished_at": "2025-11-06T14:25:15.393381+00:00",
   "repo": {
     "owner": "jpegaitaz",
-    "name": "valuation_crypto",
+    "name": "jox",
     "ref": "main",
-    "commit": "83cb0cdcb9d74dfaa03fa53ebe03a39fb5708b0f"
+    "commit": "e4cecb441bda87d15d6275ca69015bcc10714a0e"
   },
   "stats": {
-    "files_scanned": 9,
-    "bytes_scanned": 35678,
+    "files_scanned": 83,
+    "bytes_scanned": 238051,
     "scanners_used": [
       "secrets",
       "entropy_secrets",
