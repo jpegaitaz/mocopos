@@ -3,7 +3,7 @@ api_base = "https://api.github.com"
 prefer_archive = true
 
 [report]
-output_path = "report.json"
+output_path = "reports/scan_results/single_repo_results.json"
 
 [scanner]
 max_bytes_per_file = 500000
