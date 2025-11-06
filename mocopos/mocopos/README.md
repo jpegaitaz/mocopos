@@ -1,4 +1,17 @@
-# MOCOPOS (MODEL CONTEXT PROTOCOL SCANNER)
+# MOCOPOS (Model Context Protocol Scanner)
+
+```text
+
+M   M  OOO   CCCC  OOO  PPPP   OOO   SSS 
+MM MM O   O C     O   O P   P O   O S    
+M M M O   O C     O   O PPPP  O   O  SSS 
+M   M O   O C     O   O P     O   O     S
+M   M  OOO   CCCC  OOO  P      OOO   SSS 
+
+    MODEL CONTEXT PROTOCOL SCANNER
+             BY DarkMatter
+
+```
 
 MOCOPOS is a terminal-first toolkit for auditing GitHub repositories for secrets, high-entropy blobs, and risky Model Context Protocol (MCP) behaviours. It combines multiple heuristics into a single workflow, produces machine-readable results, and can batch-scan entire portfolios.
 
@@ -128,5 +141,3 @@ Before opening a PR, ensure lint/tests pass and consider enabling the `precommit
 - **Rate limiting**: Adjust `MOCOPOS_CORE_RPS`, `MOCOPOS_SEARCH_RPS`, and `MOCOPOS_BUCKET_CAP` via environment variables.
 - **PDF rendering fails**: Install the optional `report` extras and system packages listed above.
 - **Large repositories**: Tune `scanner.max_bytes_per_file` and ignore lists in `configs/settings.toml` to focus on relevant files.
-
-Happy scanning!
