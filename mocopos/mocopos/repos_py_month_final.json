@@ -1,0 +1,6066 @@
+[
+  {
+    "owner": "JamesonRGrieve",
+    "name": "ServerFramework",
+    "full_name": "JamesonRGrieve/ServerFramework",
+    "html_url": "https://github.com/JamesonRGrieve/ServerFramework",
+    "stargazers_count": 21,
+    "default_branch": "main"
+  },
+  {
+    "owner": "aryaminus",
+    "name": "h1b-job-search-mcp",
+    "full_name": "aryaminus/h1b-job-search-mcp",
+    "html_url": "https://github.com/aryaminus/h1b-job-search-mcp",
+    "stargazers_count": 9,
+    "default_branch": "main"
+  },
+  {
+    "owner": "ohnicholas93",
+    "name": "payload-mcp-server",
+    "full_name": "ohnicholas93/payload-mcp-server",
+    "html_url": "https://github.com/ohnicholas93/payload-mcp-server",
+    "stargazers_count": 8,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Lekssays",
+    "name": "joern-mcp",
+    "full_name": "Lekssays/joern-mcp",
+    "html_url": "https://github.com/Lekssays/joern-mcp",
+    "stargazers_count": 7,
+    "default_branch": "main"
+  },
+  {
+    "owner": "lensesio",
+    "name": "lenses-mcp",
+    "full_name": "lensesio/lenses-mcp",
+    "html_url": "https://github.com/lensesio/lenses-mcp",
+    "stargazers_count": 5,
+    "default_branch": "main"
+  },
+  {
+    "owner": "aparsoft",
+    "name": "kokoro-mcp-server",
+    "full_name": "aparsoft/kokoro-mcp-server",
+    "html_url": "https://github.com/aparsoft/kokoro-mcp-server",
+    "stargazers_count": 5,
+    "default_branch": "main"
+  },
+  {
+    "owner": "kevinbtalbert",
+    "name": "NiFi-MCP-Server",
+    "full_name": "kevinbtalbert/NiFi-MCP-Server",
+    "html_url": "https://github.com/kevinbtalbert/NiFi-MCP-Server",
+    "stargazers_count": 5,
+    "default_branch": "main"
+  },
+  {
+    "owner": "paolobtl",
+    "name": "gtm-mcp",
+    "full_name": "paolobtl/gtm-mcp",
+    "html_url": "https://github.com/paolobtl/gtm-mcp",
+    "stargazers_count": 5,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Wunrry",
+    "name": "Universal-SQL-MCP-Server",
+    "full_name": "Wunrry/Universal-SQL-MCP-Server",
+    "html_url": "https://github.com/Wunrry/Universal-SQL-MCP-Server",
+    "stargazers_count": 4,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ReNewator",
+    "name": "MCP-WYGIWYH",
+    "full_name": "ReNewator/MCP-WYGIWYH",
+    "html_url": "https://github.com/ReNewator/MCP-WYGIWYH",
+    "stargazers_count": 4,
+    "default_branch": "main"
+  },
+  {
+    "owner": "identitymonk",
+    "name": "mcp-standard-finder",
+    "full_name": "identitymonk/mcp-standard-finder",
+    "html_url": "https://github.com/identitymonk/mcp-standard-finder",
+    "stargazers_count": 4,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Ahrentlov",
+    "name": "appledeepdoc-mcp",
+    "full_name": "Ahrentlov/appledeepdoc-mcp",
+    "html_url": "https://github.com/Ahrentlov/appledeepdoc-mcp",
+    "stargazers_count": 4,
+    "default_branch": "main"
+  },
+  {
+    "owner": "SamurAIGPT",
+    "name": "muapi-mcp-server",
+    "full_name": "SamurAIGPT/muapi-mcp-server",
+    "html_url": "https://github.com/SamurAIGPT/muapi-mcp-server",
+    "stargazers_count": 3,
+    "default_branch": "main"
+  },
+  {
+    "owner": "ShawhinT",
+    "name": "yt-mcp-agent",
+    "full_name": "ShawhinT/yt-mcp-agent",
+    "html_url": "https://github.com/ShawhinT/yt-mcp-agent",
+    "stargazers_count": 3,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Lnxtanx",
+    "name": "LinkedIn-MCP",
+    "full_name": "Lnxtanx/LinkedIn-MCP",
+    "html_url": "https://github.com/Lnxtanx/LinkedIn-MCP",
+    "stargazers_count": 3,
+    "default_branch": "main"
+  },
+  {
+    "owner": "briandconnelly",
+    "name": "orbnet",
+    "full_name": "briandconnelly/orbnet",
+    "html_url": "https://github.com/briandconnelly/orbnet",
+    "stargazers_count": 3,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Astroa7m",
+    "name": "MailNet-MCP-Server",
+    "full_name": "Astroa7m/MailNet-MCP-Server",
+    "html_url": "https://github.com/Astroa7m/MailNet-MCP-Server",
+    "stargazers_count": 2,
+    "default_branch": "main"
+  },
+  {
+    "owner": "LayeSec006",
+    "name": "pentest-mcp-server",
+    "full_name": "LayeSec006/pentest-mcp-server",
+    "html_url": "https://github.com/LayeSec006/pentest-mcp-server",
+    "stargazers_count": 2,
+    "default_branch": "main"
+  },
+  {
+    "owner": "bugparty",
+    "name": "resume-mcp-server",
+    "full_name": "bugparty/resume-mcp-server",
+    "html_url": "https://github.com/bugparty/resume-mcp-server",
+    "stargazers_count": 2,
+    "default_branch": "main"
+  },
+  {
+    "owner": "illancillotto",
+    "name": "twitter-mcp-server",
+    "full_name": "illancillotto/twitter-mcp-server",
+    "html_url": "https://github.com/illancillotto/twitter-mcp-server",
+    "stargazers_count": 2,
+    "default_branch": "main"
+  },
+  {
+    "owner": "gmen1057",
+    "name": "headhunter-mcp-server",
+    "full_name": "gmen1057/headhunter-mcp-server",
+    "html_url": "https://github.com/gmen1057/headhunter-mcp-server",
+    "stargazers_count": 2,
+    "default_branch": "main"
+  },
+  {
+    "owner": "BrooksIan",
+    "name": "SSB-MCP-Server",
+    "full_name": "BrooksIan/SSB-MCP-Server",
+    "html_url": "https://github.com/BrooksIan/SSB-MCP-Server",
+    "stargazers_count": 2,
+    "default_branch": "main"
+  },
+  {
+    "owner": "jon2allen",
+    "name": "mcptest1",
+    "full_name": "jon2allen/mcptest1",
+    "html_url": "https://github.com/jon2allen/mcptest1",
+    "stargazers_count": 2,
+    "default_branch": "main"
+  },
+  {
+    "owner": "eshan1347",
+    "name": "gitlab-agent-mcp",
+    "full_name": "eshan1347/gitlab-agent-mcp",
+    "html_url": "https://github.com/eshan1347/gitlab-agent-mcp",
+    "stargazers_count": 2,
+    "default_branch": "main"
+  },
+  {
+    "owner": "guozheng",
+    "name": "mcp-server-google-ads",
+    "full_name": "guozheng/mcp-server-google-ads",
+    "html_url": "https://github.com/guozheng/mcp-server-google-ads",
+    "stargazers_count": 2,
+    "default_branch": "main"
+  },
+  {
+    "owner": "vinit-devops",
+    "name": "sumologic_mcp",
+    "full_name": "vinit-devops/sumologic_mcp",
+    "html_url": "https://github.com/vinit-devops/sumologic_mcp",
+    "stargazers_count": 2,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Temuujin-Munkhtsetseg",
+    "name": "jules-mcp",
+    "full_name": "Temuujin-Munkhtsetseg/jules-mcp",
+    "html_url": "https://github.com/Temuujin-Munkhtsetseg/jules-mcp",
+    "stargazers_count": 2,
+    "default_branch": "main"
+  },
+  {
+    "owner": "protocoldaemon-sec",
+    "name": "goplus-security-mcp-server",
+    "full_name": "protocoldaemon-sec/goplus-security-mcp-server",
+    "html_url": "https://github.com/protocoldaemon-sec/goplus-security-mcp-server",
+    "stargazers_count": 2,
+    "default_branch": "main"
+  },
+  {
+    "owner": "axyr",
+    "name": "rechtspraak-solr-mcp-server",
+    "full_name": "axyr/rechtspraak-solr-mcp-server",
+    "html_url": "https://github.com/axyr/rechtspraak-solr-mcp-server",
+    "stargazers_count": 2,
+    "default_branch": "main"
+  },
+  {
+    "owner": "EBonura",
+    "name": "pico8-mcp-server",
+    "full_name": "EBonura/pico8-mcp-server",
+    "html_url": "https://github.com/EBonura/pico8-mcp-server",
+    "stargazers_count": 2,
+    "default_branch": "main"
+  },
+  {
+    "owner": "infosec-us-team",
+    "name": "Immunefi-MCP-Server-Unofficial",
+    "full_name": "infosec-us-team/Immunefi-MCP-Server-Unofficial",
+    "html_url": "https://github.com/infosec-us-team/Immunefi-MCP-Server-Unofficial",
+    "stargazers_count": 2,
+    "default_branch": "main"
+  },
+  {
+    "owner": "sw1sh",
+    "name": "WolframMCP",
+    "full_name": "sw1sh/WolframMCP",
+    "html_url": "https://github.com/sw1sh/WolframMCP",
+    "stargazers_count": 2,
+    "default_branch": "main"
+  },
+  {
+    "owner": "JoKFA",
+    "name": "MCP-Security-Framework",
+    "full_name": "JoKFA/MCP-Security-Framework",
+    "html_url": "https://github.com/JoKFA/MCP-Security-Framework",
+    "stargazers_count": 2,
+    "default_branch": "main"
+  },
+  {
+    "owner": "umuterturk",
+    "name": "mcp-proto",
+    "full_name": "umuterturk/mcp-proto",
+    "html_url": "https://github.com/umuterturk/mcp-proto",
+    "stargazers_count": 2,
+    "default_branch": "main"
+  },
+  {
+    "owner": "BurtTheCoder",
+    "name": "mcp-mem.ai",
+    "full_name": "BurtTheCoder/mcp-mem.ai",
+    "html_url": "https://github.com/BurtTheCoder/mcp-mem.ai",
+    "stargazers_count": 2,
+    "default_branch": "main"
+  },
+  {
+    "owner": "aitrados",
+    "name": "finance-trading-ai-agents-mcp",
+    "full_name": "aitrados/finance-trading-ai-agents-mcp",
+    "html_url": "https://github.com/aitrados/finance-trading-ai-agents-mcp",
+    "stargazers_count": 2,
+    "default_branch": "main"
+  },
+  {
+    "owner": "arifpucit",
+    "name": "MCP-Server1",
+    "full_name": "arifpucit/MCP-Server1",
+    "html_url": "https://github.com/arifpucit/MCP-Server1",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "GoldenGYQ",
+    "name": "mcp_server",
+    "full_name": "GoldenGYQ/mcp_server",
+    "html_url": "https://github.com/GoldenGYQ/mcp_server",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Akshay-hub-007",
+    "name": "mcp-server",
+    "full_name": "Akshay-hub-007/mcp-server",
+    "html_url": "https://github.com/Akshay-hub-007/mcp-server",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "AlexLin1234",
+    "name": "smithsonian-mcp-server",
+    "full_name": "AlexLin1234/smithsonian-mcp-server",
+    "html_url": "https://github.com/AlexLin1234/smithsonian-mcp-server",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "BrooksIan",
+    "name": "SMM-MCP-Server",
+    "full_name": "BrooksIan/SMM-MCP-Server",
+    "html_url": "https://github.com/BrooksIan/SMM-MCP-Server",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "chandrabosep",
+    "name": "zkverify-mcp-server",
+    "full_name": "chandrabosep/zkverify-mcp-server",
+    "html_url": "https://github.com/chandrabosep/zkverify-mcp-server",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "deniskrds",
+    "name": "clickup-mcp-server",
+    "full_name": "deniskrds/clickup-mcp-server",
+    "html_url": "https://github.com/deniskrds/clickup-mcp-server",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "AIwithhassan",
+    "name": "mcp-server-python",
+    "full_name": "AIwithhassan/mcp-server-python",
+    "html_url": "https://github.com/AIwithhassan/mcp-server-python",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "touchmeangel",
+    "name": "twitter-mcp-server",
+    "full_name": "touchmeangel/twitter-mcp-server",
+    "html_url": "https://github.com/touchmeangel/twitter-mcp-server",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "marcmodin",
+    "name": "mcp-prompt-server",
+    "full_name": "marcmodin/mcp-prompt-server",
+    "html_url": "https://github.com/marcmodin/mcp-prompt-server",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "agarib",
+    "name": "homeassistant-mcp-server",
+    "full_name": "agarib/homeassistant-mcp-server",
+    "html_url": "https://github.com/agarib/homeassistant-mcp-server",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "marklechner",
+    "name": "kali-mcp-server",
+    "full_name": "marklechner/kali-mcp-server",
+    "html_url": "https://github.com/marklechner/kali-mcp-server",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "CodeAgentBridge",
+    "name": "jules-mcp-server",
+    "full_name": "CodeAgentBridge/jules-mcp-server",
+    "html_url": "https://github.com/CodeAgentBridge/jules-mcp-server",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "haggaishachar",
+    "name": "gym-mcp-server",
+    "full_name": "haggaishachar/gym-mcp-server",
+    "html_url": "https://github.com/haggaishachar/gym-mcp-server",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "subhashdasyam",
+    "name": "mem0-server-mcp",
+    "full_name": "subhashdasyam/mem0-server-mcp",
+    "html_url": "https://github.com/subhashdasyam/mem0-server-mcp",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Punitkumar0000",
+    "name": "Expense-tracking-MCP-Server",
+    "full_name": "Punitkumar0000/Expense-tracking-MCP-Server",
+    "html_url": "https://github.com/Punitkumar0000/Expense-tracking-MCP-Server",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "RyutoYoda",
+    "name": "snowflake-simple-mcp-server",
+    "full_name": "RyutoYoda/snowflake-simple-mcp-server",
+    "html_url": "https://github.com/RyutoYoda/snowflake-simple-mcp-server",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "alicenjr",
+    "name": "WhatsApp-MCP-Server",
+    "full_name": "alicenjr/WhatsApp-MCP-Server",
+    "html_url": "https://github.com/alicenjr/WhatsApp-MCP-Server",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "AryaAkman",
+    "name": "Open-F1-MCP-Server",
+    "full_name": "AryaAkman/Open-F1-MCP-Server",
+    "html_url": "https://github.com/AryaAkman/Open-F1-MCP-Server",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "benjaminfh",
+    "name": "research-mcp",
+    "full_name": "benjaminfh/research-mcp",
+    "html_url": "https://github.com/benjaminfh/research-mcp",
+    "stargazers_count": 1,
+    "default_branch": "master"
+  },
+  {
+    "owner": "AlexLin1234",
+    "name": "harvard-art-museums-mcp-server",
+    "full_name": "AlexLin1234/harvard-art-museums-mcp-server",
+    "html_url": "https://github.com/AlexLin1234/harvard-art-museums-mcp-server",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "senko",
+    "name": "cijene-mcp",
+    "full_name": "senko/cijene-mcp",
+    "html_url": "https://github.com/senko/cijene-mcp",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "michaelfmnk",
+    "name": "mcp-composer",
+    "full_name": "michaelfmnk/mcp-composer",
+    "html_url": "https://github.com/michaelfmnk/mcp-composer",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "007jbks",
+    "name": "mmcp",
+    "full_name": "007jbks/mmcp",
+    "html_url": "https://github.com/007jbks/mmcp",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "mmjaberi",
+    "name": "Unsafe-Browser-MCP",
+    "full_name": "mmjaberi/Unsafe-Browser-MCP",
+    "html_url": "https://github.com/mmjaberi/Unsafe-Browser-MCP",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "ZYNIQ-AI-Driven-Development-Firm",
+    "name": "DARK-MATER-Kali-Linux-MCP-Server",
+    "full_name": "ZYNIQ-AI-Driven-Development-Firm/DARK-MATER-Kali-Linux-MCP-Server",
+    "html_url": "https://github.com/ZYNIQ-AI-Driven-Development-Firm/DARK-MATER-Kali-Linux-MCP-Server",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "netixc",
+    "name": "SearxngMCP",
+    "full_name": "netixc/SearxngMCP",
+    "html_url": "https://github.com/netixc/SearxngMCP",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "AHM215",
+    "name": "LeetCode-MCP",
+    "full_name": "AHM215/LeetCode-MCP",
+    "html_url": "https://github.com/AHM215/LeetCode-MCP",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "StanleyChanH",
+    "name": "vllm-mcp",
+    "full_name": "StanleyChanH/vllm-mcp",
+    "html_url": "https://github.com/StanleyChanH/vllm-mcp",
+    "stargazers_count": 1,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hawier-dev",
+    "name": "adb_screenshot_mcp",
+    "full_name": "hawier-dev/adb_screenshot_mcp",
+    "html_url": "https://github.com/hawier-dev/adb_screenshot_mcp",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "hakant66",
+    "name": "mcp-calculator-demo",
+    "full_name": "hakant66/mcp-calculator-demo",
+    "html_url": "https://github.com/hakant66/mcp-calculator-demo",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "kukapay",
+    "name": "dex-pools-mcp",
+    "full_name": "kukapay/dex-pools-mcp",
+    "html_url": "https://github.com/kukapay/dex-pools-mcp",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "molanojustin",
+    "name": "smithsonian-mcp",
+    "full_name": "molanojustin/smithsonian-mcp",
+    "html_url": "https://github.com/molanojustin/smithsonian-mcp",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "madebygps",
+    "name": "obsidian-diary-mcp",
+    "full_name": "madebygps/obsidian-diary-mcp",
+    "html_url": "https://github.com/madebygps/obsidian-diary-mcp",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "vinit-devops",
+    "name": "repo-architecture-mcp",
+    "full_name": "vinit-devops/repo-architecture-mcp",
+    "html_url": "https://github.com/vinit-devops/repo-architecture-mcp",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "onehumanbeing",
+    "name": "large_json_edit_mcp",
+    "full_name": "onehumanbeing/large_json_edit_mcp",
+    "html_url": "https://github.com/onehumanbeing/large_json_edit_mcp",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "wsteele68",
+    "name": "scammer-bot",
+    "full_name": "wsteele68/scammer-bot",
+    "html_url": "https://github.com/wsteele68/scammer-bot",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "NullYing",
+    "name": "Printer-AI-MCP",
+    "full_name": "NullYing/Printer-AI-MCP",
+    "html_url": "https://github.com/NullYing/Printer-AI-MCP",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "mmayeras",
+    "name": "customer-jira-tracker-mcp",
+    "full_name": "mmayeras/customer-jira-tracker-mcp",
+    "html_url": "https://github.com/mmayeras/customer-jira-tracker-mcp",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "execveat",
+    "name": "polyagent-mcp",
+    "full_name": "execveat/polyagent-mcp",
+    "html_url": "https://github.com/execveat/polyagent-mcp",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "mostafa-drz",
+    "name": "claude-code-mcp-controller",
+    "full_name": "mostafa-drz/claude-code-mcp-controller",
+    "html_url": "https://github.com/mostafa-drz/claude-code-mcp-controller",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "lev-corrupted",
+    "name": "TradingViewMCPServer",
+    "full_name": "lev-corrupted/TradingViewMCPServer",
+    "html_url": "https://github.com/lev-corrupted/TradingViewMCPServer",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "mangobanaani",
+    "name": "metarmcp",
+    "full_name": "mangobanaani/metarmcp",
+    "html_url": "https://github.com/mangobanaani/metarmcp",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "MuLIAICHI",
+    "name": "mcp-prompts-library",
+    "full_name": "MuLIAICHI/mcp-prompts-library",
+    "html_url": "https://github.com/MuLIAICHI/mcp-prompts-library",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "hakant66",
+    "name": "mcp-insights-assistant",
+    "full_name": "hakant66/mcp-insights-assistant",
+    "html_url": "https://github.com/hakant66/mcp-insights-assistant",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "0xReLogic",
+    "name": "Cognio",
+    "full_name": "0xReLogic/Cognio",
+    "html_url": "https://github.com/0xReLogic/Cognio",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "RezaMahmood",
+    "name": "AI-Testing",
+    "full_name": "RezaMahmood/AI-Testing",
+    "html_url": "https://github.com/RezaMahmood/AI-Testing",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "agricopilot",
+    "name": "agricopilot",
+    "full_name": "agricopilot/agricopilot",
+    "html_url": "https://github.com/agricopilot/agricopilot",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "simplemindedbot",
+    "name": "mnemex",
+    "full_name": "simplemindedbot/mnemex",
+    "html_url": "https://github.com/simplemindedbot/mnemex",
+    "stargazers_count": 1,
+    "default_branch": "main"
+  },
+  {
+    "owner": "SainadhAmul",
+    "name": "MCP",
+    "full_name": "SainadhAmul/MCP",
+    "html_url": "https://github.com/SainadhAmul/MCP",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "duplocloud",
+    "name": "mcp",
+    "full_name": "duplocloud/mcp",
+    "html_url": "https://github.com/duplocloud/mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "thpnt",
+    "name": "mcp",
+    "full_name": "thpnt/mcp",
+    "html_url": "https://github.com/thpnt/mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "coreBOS",
+    "name": "MCP",
+    "full_name": "coreBOS/MCP",
+    "html_url": "https://github.com/coreBOS/MCP",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "elonmsk",
+    "name": "mcp",
+    "full_name": "elonmsk/mcp",
+    "html_url": "https://github.com/elonmsk/mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "th0rn0",
+    "name": "mcp-tool-server",
+    "full_name": "th0rn0/mcp-tool-server",
+    "html_url": "https://github.com/th0rn0/mcp-tool-server",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "haris-khan-dev",
+    "name": "MCP-server",
+    "full_name": "haris-khan-dev/MCP-server",
+    "html_url": "https://github.com/haris-khan-dev/MCP-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "ranjithmadheswaran",
+    "name": "mcpServer",
+    "full_name": "ranjithmadheswaran/mcpServer",
+    "html_url": "https://github.com/ranjithmadheswaran/mcpServer",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "AfzalRaja001",
+    "name": "expense-tracker-mcp-server",
+    "full_name": "AfzalRaja001/expense-tracker-mcp-server",
+    "html_url": "https://github.com/AfzalRaja001/expense-tracker-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "WasawatMaleeThailand",
+    "name": "MCP-Excel",
+    "full_name": "WasawatMaleeThailand/MCP-Excel",
+    "html_url": "https://github.com/WasawatMaleeThailand/MCP-Excel",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "idogat",
+    "name": "MCP-server",
+    "full_name": "idogat/MCP-server",
+    "html_url": "https://github.com/idogat/MCP-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "swatidhn",
+    "name": "McpServer",
+    "full_name": "swatidhn/McpServer",
+    "html_url": "https://github.com/swatidhn/McpServer",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "DeepPandya30",
+    "name": "Expense_Tracker_mcp",
+    "full_name": "DeepPandya30/Expense_Tracker_mcp",
+    "html_url": "https://github.com/DeepPandya30/Expense_Tracker_mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "CiudadAlex",
+    "name": "ServerMCP",
+    "full_name": "CiudadAlex/ServerMCP",
+    "html_url": "https://github.com/CiudadAlex/ServerMCP",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ankit-raj00",
+    "name": "test-remote-mcp-server",
+    "full_name": "ankit-raj00/test-remote-mcp-server",
+    "html_url": "https://github.com/ankit-raj00/test-remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "chinmay5367",
+    "name": "remote_mcp_server_mcpcloud",
+    "full_name": "chinmay5367/remote_mcp_server_mcpcloud",
+    "html_url": "https://github.com/chinmay5367/remote_mcp_server_mcpcloud",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "kazhian",
+    "name": "mcp_server",
+    "full_name": "kazhian/mcp_server",
+    "html_url": "https://github.com/kazhian/mcp_server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "BilalAltundag",
+    "name": "mcp-server",
+    "full_name": "BilalAltundag/mcp-server",
+    "html_url": "https://github.com/BilalAltundag/mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "MeenaKasbekar",
+    "name": "mcp_server_project",
+    "full_name": "MeenaKasbekar/mcp_server_project",
+    "html_url": "https://github.com/MeenaKasbekar/mcp_server_project",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "lichenr3",
+    "name": "MCP-server",
+    "full_name": "lichenr3/MCP-server",
+    "html_url": "https://github.com/lichenr3/MCP-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "rahul2261999",
+    "name": "mcp-server",
+    "full_name": "rahul2261999/mcp-server",
+    "html_url": "https://github.com/rahul2261999/mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "NimbleBrainInc",
+    "name": "mcp-twilio",
+    "full_name": "NimbleBrainInc/mcp-twilio",
+    "html_url": "https://github.com/NimbleBrainInc/mcp-twilio",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "ManishPrajapat001",
+    "name": "Math-Text-chat-app",
+    "full_name": "ManishPrajapat001/Math-Text-chat-app",
+    "html_url": "https://github.com/ManishPrajapat001/Math-Text-chat-app",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "NimbleBrainInc",
+    "name": "mcp-todoist",
+    "full_name": "NimbleBrainInc/mcp-todoist",
+    "html_url": "https://github.com/NimbleBrainInc/mcp-todoist",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "jmceleney",
+    "name": "gocardless-mcp",
+    "full_name": "jmceleney/gocardless-mcp",
+    "html_url": "https://github.com/jmceleney/gocardless-mcp",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "NimbleBrainInc",
+    "name": "mcp-claude",
+    "full_name": "NimbleBrainInc/mcp-claude",
+    "html_url": "https://github.com/NimbleBrainInc/mcp-claude",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "NimbleBrainInc",
+    "name": "mcp-context7",
+    "full_name": "NimbleBrainInc/mcp-context7",
+    "html_url": "https://github.com/NimbleBrainInc/mcp-context7",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "NimbleBrainInc",
+    "name": "mcp-pinecone",
+    "full_name": "NimbleBrainInc/mcp-pinecone",
+    "html_url": "https://github.com/NimbleBrainInc/mcp-pinecone",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Yogendra-Kumar-Yadav",
+    "name": "test-mcp-remote-server",
+    "full_name": "Yogendra-Kumar-Yadav/test-mcp-remote-server",
+    "html_url": "https://github.com/Yogendra-Kumar-Yadav/test-mcp-remote-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "NimbleBrainInc",
+    "name": "mcp-deepl",
+    "full_name": "NimbleBrainInc/mcp-deepl",
+    "html_url": "https://github.com/NimbleBrainInc/mcp-deepl",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "fvanevski",
+    "name": "trafilatura_mcp",
+    "full_name": "fvanevski/trafilatura_mcp",
+    "html_url": "https://github.com/fvanevski/trafilatura_mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "NimbleBrainInc",
+    "name": "mcp-linear",
+    "full_name": "NimbleBrainInc/mcp-linear",
+    "html_url": "https://github.com/NimbleBrainInc/mcp-linear",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "NimbleBrainInc",
+    "name": "mcp-huggingface",
+    "full_name": "NimbleBrainInc/mcp-huggingface",
+    "html_url": "https://github.com/NimbleBrainInc/mcp-huggingface",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "NimbleBrainInc",
+    "name": "mcp-openai",
+    "full_name": "NimbleBrainInc/mcp-openai",
+    "html_url": "https://github.com/NimbleBrainInc/mcp-openai",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "prashantmpol",
+    "name": "test-remote-mcp-server",
+    "full_name": "prashantmpol/test-remote-mcp-server",
+    "html_url": "https://github.com/prashantmpol/test-remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "NimbleBrainInc",
+    "name": "mcp-clickup",
+    "full_name": "NimbleBrainInc/mcp-clickup",
+    "html_url": "https://github.com/NimbleBrainInc/mcp-clickup",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "NimbleBrainInc",
+    "name": "mcp-asana",
+    "full_name": "NimbleBrainInc/mcp-asana",
+    "html_url": "https://github.com/NimbleBrainInc/mcp-asana",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "navneetkang",
+    "name": "test-remote-mcp-server",
+    "full_name": "navneetkang/test-remote-mcp-server",
+    "html_url": "https://github.com/navneetkang/test-remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "NimbleBrainInc",
+    "name": "mcp-sentry",
+    "full_name": "NimbleBrainInc/mcp-sentry",
+    "html_url": "https://github.com/NimbleBrainInc/mcp-sentry",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "NimbleBrainInc",
+    "name": "mcp-gitlab",
+    "full_name": "NimbleBrainInc/mcp-gitlab",
+    "html_url": "https://github.com/NimbleBrainInc/mcp-gitlab",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "aman-pandey24",
+    "name": "remote-mcp-server",
+    "full_name": "aman-pandey24/remote-mcp-server",
+    "html_url": "https://github.com/aman-pandey24/remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "NimbleBrainInc",
+    "name": "mcp-pdfco",
+    "full_name": "NimbleBrainInc/mcp-pdfco",
+    "html_url": "https://github.com/NimbleBrainInc/mcp-pdfco",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "NimbleBrainInc",
+    "name": "mcp-gemini",
+    "full_name": "NimbleBrainInc/mcp-gemini",
+    "html_url": "https://github.com/NimbleBrainInc/mcp-gemini",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "moshadchow",
+    "name": "custom-remote-mcp-server",
+    "full_name": "moshadchow/custom-remote-mcp-server",
+    "html_url": "https://github.com/moshadchow/custom-remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "cpetra",
+    "name": "mcpservertest",
+    "full_name": "cpetra/mcpservertest",
+    "html_url": "https://github.com/cpetra/mcpservertest",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "NimbleBrainInc",
+    "name": "mcp-openweathermap",
+    "full_name": "NimbleBrainInc/mcp-openweathermap",
+    "html_url": "https://github.com/NimbleBrainInc/mcp-openweathermap",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Roy-S11",
+    "name": "Demo-remote-mcp-server",
+    "full_name": "Roy-S11/Demo-remote-mcp-server",
+    "html_url": "https://github.com/Roy-S11/Demo-remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "ry-ops",
+    "name": "cloudflare-mcp-server",
+    "full_name": "ry-ops/cloudflare-mcp-server",
+    "html_url": "https://github.com/ry-ops/cloudflare-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "vinayakumarvs",
+    "name": "test-remote-mcp-server",
+    "full_name": "vinayakumarvs/test-remote-mcp-server",
+    "html_url": "https://github.com/vinayakumarvs/test-remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "NimbleBrainInc",
+    "name": "mcp-tmdb",
+    "full_name": "NimbleBrainInc/mcp-tmdb",
+    "html_url": "https://github.com/NimbleBrainInc/mcp-tmdb",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "khanzeet",
+    "name": "test-mcp-server",
+    "full_name": "khanzeet/test-mcp-server",
+    "html_url": "https://github.com/khanzeet/test-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "dhtwelvegit",
+    "name": "mcp-weather",
+    "full_name": "dhtwelvegit/mcp-weather",
+    "html_url": "https://github.com/dhtwelvegit/mcp-weather",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "sergeial1972-dev",
+    "name": "WeatherMCP",
+    "full_name": "sergeial1972-dev/WeatherMCP",
+    "html_url": "https://github.com/sergeial1972-dev/WeatherMCP",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "NimbleBrainInc",
+    "name": "mcp-airtable",
+    "full_name": "NimbleBrainInc/mcp-airtable",
+    "html_url": "https://github.com/NimbleBrainInc/mcp-airtable",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "NimbleBrainInc",
+    "name": "mcp-stripe",
+    "full_name": "NimbleBrainInc/mcp-stripe",
+    "html_url": "https://github.com/NimbleBrainInc/mcp-stripe",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "myanees284",
+    "name": "sitespeed-mcp-server",
+    "full_name": "myanees284/sitespeed-mcp-server",
+    "html_url": "https://github.com/myanees284/sitespeed-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "LuckyHuXing",
+    "name": "mcp-server-demo",
+    "full_name": "LuckyHuXing/mcp-server-demo",
+    "html_url": "https://github.com/LuckyHuXing/mcp-server-demo",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "eliezerraj",
+    "name": "py-mcp-server",
+    "full_name": "eliezerraj/py-mcp-server",
+    "html_url": "https://github.com/eliezerraj/py-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "manojjhasigma1",
+    "name": "MCP_Server_Sample",
+    "full_name": "manojjhasigma1/MCP_Server_Sample",
+    "html_url": "https://github.com/manojjhasigma1/MCP_Server_Sample",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "rrahul1011",
+    "name": "mcp-server2",
+    "full_name": "rrahul1011/mcp-server2",
+    "html_url": "https://github.com/rrahul1011/mcp-server2",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "NimbleBrainInc",
+    "name": "mcp-mailchimp",
+    "full_name": "NimbleBrainInc/mcp-mailchimp",
+    "html_url": "https://github.com/NimbleBrainInc/mcp-mailchimp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "NimbleBrainInc",
+    "name": "mcp-coingecko",
+    "full_name": "NimbleBrainInc/mcp-coingecko",
+    "html_url": "https://github.com/NimbleBrainInc/mcp-coingecko",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "applemk2-git",
+    "name": "mcp-server-with-fastapi_mcp",
+    "full_name": "applemk2-git/mcp-server-with-fastapi_mcp",
+    "html_url": "https://github.com/applemk2-git/mcp-server-with-fastapi_mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "yashpatel2988",
+    "name": "mcp-servers",
+    "full_name": "yashpatel2988/mcp-servers",
+    "html_url": "https://github.com/yashpatel2988/mcp-servers",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "MuhammadShayanUmarX",
+    "name": "MCP-Server",
+    "full_name": "MuhammadShayanUmarX/MCP-Server",
+    "html_url": "https://github.com/MuhammadShayanUmarX/MCP-Server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "aqibqureshi786",
+    "name": "MCP-Server-using-FAST-MCP",
+    "full_name": "aqibqureshi786/MCP-Server-using-FAST-MCP",
+    "html_url": "https://github.com/aqibqureshi786/MCP-Server-using-FAST-MCP",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "MalikAqsa-cloud",
+    "name": "MCP-Server-using-FAST-MCP",
+    "full_name": "MalikAqsa-cloud/MCP-Server-using-FAST-MCP",
+    "html_url": "https://github.com/MalikAqsa-cloud/MCP-Server-using-FAST-MCP",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "salmasaleem01",
+    "name": "MCP-Server-using-FAST-MCP",
+    "full_name": "salmasaleem01/MCP-Server-using-FAST-MCP",
+    "html_url": "https://github.com/salmasaleem01/MCP-Server-using-FAST-MCP",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "developj",
+    "name": "add-mcp-server",
+    "full_name": "developj/add-mcp-server",
+    "html_url": "https://github.com/developj/add-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "ssarpit",
+    "name": "remote_mcp_server",
+    "full_name": "ssarpit/remote_mcp_server",
+    "html_url": "https://github.com/ssarpit/remote_mcp_server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "BGarber42",
+    "name": "MCPaaS",
+    "full_name": "BGarber42/MCPaaS",
+    "html_url": "https://github.com/BGarber42/MCPaaS",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "akilat-spec",
+    "name": "my-mcp-server",
+    "full_name": "akilat-spec/my-mcp-server",
+    "html_url": "https://github.com/akilat-spec/my-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "RaghuGitit",
+    "name": "remote-mcp-server1",
+    "full_name": "RaghuGitit/remote-mcp-server1",
+    "html_url": "https://github.com/RaghuGitit/remote-mcp-server1",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dvbarselona-cloud",
+    "name": "alpaca-mcp-server1",
+    "full_name": "dvbarselona-cloud/alpaca-mcp-server1",
+    "html_url": "https://github.com/dvbarselona-cloud/alpaca-mcp-server1",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Rikesh-shah",
+    "name": "Remote-Mcp-server",
+    "full_name": "Rikesh-shah/Remote-Mcp-server",
+    "html_url": "https://github.com/Rikesh-shah/Remote-Mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "archetipo",
+    "name": "geonames-mcp-server",
+    "full_name": "archetipo/geonames-mcp-server",
+    "html_url": "https://github.com/archetipo/geonames-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "ydvbobby",
+    "name": "remote_mcp_server",
+    "full_name": "ydvbobby/remote_mcp_server",
+    "html_url": "https://github.com/ydvbobby/remote_mcp_server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Videothek",
+    "name": "xo-mcp-server",
+    "full_name": "Videothek/xo-mcp-server",
+    "html_url": "https://github.com/Videothek/xo-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Ashish96300",
+    "name": "Test-Remote-Servers",
+    "full_name": "Ashish96300/Test-Remote-Servers",
+    "html_url": "https://github.com/Ashish96300/Test-Remote-Servers",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "stdlpx",
+    "name": "mcpservertest3",
+    "full_name": "stdlpx/mcpservertest3",
+    "html_url": "https://github.com/stdlpx/mcpservertest3",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "rishav-learnerml",
+    "name": "mcp-servers",
+    "full_name": "rishav-learnerml/mcp-servers",
+    "html_url": "https://github.com/rishav-learnerml/mcp-servers",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "OMCHOKSI108",
+    "name": "MCP-SERVER",
+    "full_name": "OMCHOKSI108/MCP-SERVER",
+    "html_url": "https://github.com/OMCHOKSI108/MCP-SERVER",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "romanpeters",
+    "name": "mcp-server",
+    "full_name": "romanpeters/mcp-server",
+    "html_url": "https://github.com/romanpeters/mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Dawoodayaz20",
+    "name": "MCP_Server",
+    "full_name": "Dawoodayaz20/MCP_Server",
+    "html_url": "https://github.com/Dawoodayaz20/MCP_Server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "razram92",
+    "name": "MCP-SERVER",
+    "full_name": "razram92/MCP-SERVER",
+    "html_url": "https://github.com/razram92/MCP-SERVER",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "jacekciszkowski-plum",
+    "name": "mcp-servers",
+    "full_name": "jacekciszkowski-plum/mcp-servers",
+    "html_url": "https://github.com/jacekciszkowski-plum/mcp-servers",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rebase-master",
+    "name": "mcp-servers",
+    "full_name": "rebase-master/mcp-servers",
+    "html_url": "https://github.com/rebase-master/mcp-servers",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "pulkitdabur",
+    "name": "MCP-Server",
+    "full_name": "pulkitdabur/MCP-Server",
+    "html_url": "https://github.com/pulkitdabur/MCP-Server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Tasmiya-k",
+    "name": "mcp_server",
+    "full_name": "Tasmiya-k/mcp_server",
+    "html_url": "https://github.com/Tasmiya-k/mcp_server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "ApoorvBrooklyn",
+    "name": "MCP-Server",
+    "full_name": "ApoorvBrooklyn/MCP-Server",
+    "html_url": "https://github.com/ApoorvBrooklyn/MCP-Server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "sumanth2729",
+    "name": "mcp-server",
+    "full_name": "sumanth2729/mcp-server",
+    "html_url": "https://github.com/sumanth2729/mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "seepala98",
+    "name": "mcp_server",
+    "full_name": "seepala98/mcp_server",
+    "html_url": "https://github.com/seepala98/mcp_server",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "chandra-pangea",
+    "name": "MCP_SERVER",
+    "full_name": "chandra-pangea/MCP_SERVER",
+    "html_url": "https://github.com/chandra-pangea/MCP_SERVER",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "lexaai-app",
+    "name": "mcp-server",
+    "full_name": "lexaai-app/mcp-server",
+    "html_url": "https://github.com/lexaai-app/mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "amanbelwal",
+    "name": "mcp-server",
+    "full_name": "amanbelwal/mcp-server",
+    "html_url": "https://github.com/amanbelwal/mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Devanshu1609",
+    "name": "mcp_server",
+    "full_name": "Devanshu1609/mcp_server",
+    "html_url": "https://github.com/Devanshu1609/mcp_server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "vaibhav-arde",
+    "name": "McpLanggraph",
+    "full_name": "vaibhav-arde/McpLanggraph",
+    "html_url": "https://github.com/vaibhav-arde/McpLanggraph",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "PoojaUpd",
+    "name": "MCP-server",
+    "full_name": "PoojaUpd/MCP-server",
+    "html_url": "https://github.com/PoojaUpd/MCP-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "sausi-7",
+    "name": "MCP_Server",
+    "full_name": "sausi-7/MCP_Server",
+    "html_url": "https://github.com/sausi-7/MCP_Server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Sahilcrossml",
+    "name": "MCP-server-",
+    "full_name": "Sahilcrossml/MCP-server-",
+    "html_url": "https://github.com/Sahilcrossml/MCP-server-",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "shivamdattapurkayastha99",
+    "name": "mcp-server",
+    "full_name": "shivamdattapurkayastha99/mcp-server",
+    "html_url": "https://github.com/shivamdattapurkayastha99/mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jonathancrawford05",
+    "name": "mcp-server",
+    "full_name": "jonathancrawford05/mcp-server",
+    "html_url": "https://github.com/jonathancrawford05/mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "obafisayo",
+    "name": "mcp-server",
+    "full_name": "obafisayo/mcp-server",
+    "html_url": "https://github.com/obafisayo/mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "AbuZar-Ansarii",
+    "name": "MCP-server",
+    "full_name": "AbuZar-Ansarii/MCP-server",
+    "html_url": "https://github.com/AbuZar-Ansarii/MCP-server",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bagasta",
+    "name": "mcp-server",
+    "full_name": "bagasta/mcp-server",
+    "html_url": "https://github.com/bagasta/mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "sbn-raju",
+    "name": "mcp_server",
+    "full_name": "sbn-raju/mcp_server",
+    "html_url": "https://github.com/sbn-raju/mcp_server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Pinakisingharoy",
+    "name": "test-remote-mcp-server",
+    "full_name": "Pinakisingharoy/test-remote-mcp-server",
+    "html_url": "https://github.com/Pinakisingharoy/test-remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "tyleryouk",
+    "name": "mcp-servers",
+    "full_name": "tyleryouk/mcp-servers",
+    "html_url": "https://github.com/tyleryouk/mcp-servers",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "manishdhull1990",
+    "name": "mcp-server",
+    "full_name": "manishdhull1990/mcp-server",
+    "html_url": "https://github.com/manishdhull1990/mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "gabrielpopa",
+    "name": "mcp-server",
+    "full_name": "gabrielpopa/mcp-server",
+    "html_url": "https://github.com/gabrielpopa/mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Hyder605",
+    "name": "mcp_server",
+    "full_name": "Hyder605/mcp_server",
+    "html_url": "https://github.com/Hyder605/mcp_server",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "KNIHAL",
+    "name": "MCP-Servers",
+    "full_name": "KNIHAL/MCP-Servers",
+    "html_url": "https://github.com/KNIHAL/MCP-Servers",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "AmitabhAnand04",
+    "name": "MCP_Server",
+    "full_name": "AmitabhAnand04/MCP_Server",
+    "html_url": "https://github.com/AmitabhAnand04/MCP_Server",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RGConsulting12",
+    "name": "MCP_Server",
+    "full_name": "RGConsulting12/MCP_Server",
+    "html_url": "https://github.com/RGConsulting12/MCP_Server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "SannketNikam",
+    "name": "test-remote-mcp-server",
+    "full_name": "SannketNikam/test-remote-mcp-server",
+    "html_url": "https://github.com/SannketNikam/test-remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gulesakeena-svg",
+    "name": "test-remote-mcp-server",
+    "full_name": "gulesakeena-svg/test-remote-mcp-server",
+    "html_url": "https://github.com/gulesakeena-svg/test-remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Rishabhmannu",
+    "name": "test-remote-mcp-server",
+    "full_name": "Rishabhmannu/test-remote-mcp-server",
+    "html_url": "https://github.com/Rishabhmannu/test-remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Bishwarup-Das",
+    "name": "mcp-server",
+    "full_name": "Bishwarup-Das/mcp-server",
+    "html_url": "https://github.com/Bishwarup-Das/mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "xzwyn",
+    "name": "mcp_server",
+    "full_name": "xzwyn/mcp_server",
+    "html_url": "https://github.com/xzwyn/mcp_server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "axnasim",
+    "name": "mcp-server",
+    "full_name": "axnasim/mcp-server",
+    "html_url": "https://github.com/axnasim/mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dkbearsong",
+    "name": "MCP_Server",
+    "full_name": "dkbearsong/MCP_Server",
+    "html_url": "https://github.com/dkbearsong/MCP_Server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "raoabdulrafay05",
+    "name": "remote-mcp-expense-server",
+    "full_name": "raoabdulrafay05/remote-mcp-expense-server",
+    "html_url": "https://github.com/raoabdulrafay05/remote-mcp-expense-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Ajs2207",
+    "name": "test-remote-mcp-server",
+    "full_name": "Ajs2207/test-remote-mcp-server",
+    "html_url": "https://github.com/Ajs2207/test-remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "sampadadiwan",
+    "name": "test-remote-mcp-server",
+    "full_name": "sampadadiwan/test-remote-mcp-server",
+    "html_url": "https://github.com/sampadadiwan/test-remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Han-taz",
+    "name": "mcp-server",
+    "full_name": "Han-taz/mcp-server",
+    "html_url": "https://github.com/Han-taz/mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "PATRAKECU",
+    "name": "MCP-Server",
+    "full_name": "PATRAKECU/MCP-Server",
+    "html_url": "https://github.com/PATRAKECU/MCP-Server",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "hychou33server",
+    "name": "qweather_mcp_server_sse",
+    "full_name": "hychou33server/qweather_mcp_server_sse",
+    "html_url": "https://github.com/hychou33server/qweather_mcp_server_sse",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "jeetsharma91",
+    "name": "test-remote-mcp-server",
+    "full_name": "jeetsharma91/test-remote-mcp-server",
+    "html_url": "https://github.com/jeetsharma91/test-remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "ShiryuCodes",
+    "name": "test-remote-mcp-server",
+    "full_name": "ShiryuCodes/test-remote-mcp-server",
+    "html_url": "https://github.com/ShiryuCodes/test-remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "antonioschaffert",
+    "name": "my-dev-mcp",
+    "full_name": "antonioschaffert/my-dev-mcp",
+    "html_url": "https://github.com/antonioschaffert/my-dev-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "sudhirknerist",
+    "name": "test-remote-mcp-server",
+    "full_name": "sudhirknerist/test-remote-mcp-server",
+    "html_url": "https://github.com/sudhirknerist/test-remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "sandeepmaini",
+    "name": "MCP-Server-Expense-Tracking",
+    "full_name": "sandeepmaini/MCP-Server-Expense-Tracking",
+    "html_url": "https://github.com/sandeepmaini/MCP-Server-Expense-Tracking",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "IceWreck",
+    "name": "SearxNG-MCP-Server",
+    "full_name": "IceWreck/SearxNG-MCP-Server",
+    "html_url": "https://github.com/IceWreck/SearxNG-MCP-Server",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "atiyil",
+    "name": "simple-mcp-server",
+    "full_name": "atiyil/simple-mcp-server",
+    "html_url": "https://github.com/atiyil/simple-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Duafatima-2902",
+    "name": "MCP-Server-App-using-FAST-MCP",
+    "full_name": "Duafatima-2902/MCP-Server-App-using-FAST-MCP",
+    "html_url": "https://github.com/Duafatima-2902/MCP-Server-App-using-FAST-MCP",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "brandonnash-sketch",
+    "name": "workato-mcp-gmail-server",
+    "full_name": "brandonnash-sketch/workato-mcp-gmail-server",
+    "html_url": "https://github.com/brandonnash-sketch/workato-mcp-gmail-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "gaikwadsantosh",
+    "name": "testremotemcp",
+    "full_name": "gaikwadsantosh/testremotemcp",
+    "html_url": "https://github.com/gaikwadsantosh/testremotemcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "NimbleBrainInc",
+    "name": "mcp-alpha-vantage",
+    "full_name": "NimbleBrainInc/mcp-alpha-vantage",
+    "html_url": "https://github.com/NimbleBrainInc/mcp-alpha-vantage",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "sathwick06",
+    "name": "test-remote-mcp-server",
+    "full_name": "sathwick06/test-remote-mcp-server",
+    "html_url": "https://github.com/sathwick06/test-remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Thridev",
+    "name": "weathermcp",
+    "full_name": "Thridev/weathermcp",
+    "html_url": "https://github.com/Thridev/weathermcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "M1778M",
+    "name": "orewaagentmcp",
+    "full_name": "M1778M/orewaagentmcp",
+    "html_url": "https://github.com/M1778M/orewaagentmcp",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Aryan-sawant",
+    "name": "test-remote-mcp-server",
+    "full_name": "Aryan-sawant/test-remote-mcp-server",
+    "html_url": "https://github.com/Aryan-sawant/test-remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SiddhiPatwardhan",
+    "name": "test-remote-mcp-server",
+    "full_name": "SiddhiPatwardhan/test-remote-mcp-server",
+    "html_url": "https://github.com/SiddhiPatwardhan/test-remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "raajshekhar19",
+    "name": "remote-expensetracker-mcp-server",
+    "full_name": "raajshekhar19/remote-expensetracker-mcp-server",
+    "html_url": "https://github.com/raajshekhar19/remote-expensetracker-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "saiteja-puttoju",
+    "name": "test-remote-mcp-server-from-teja",
+    "full_name": "saiteja-puttoju/test-remote-mcp-server-from-teja",
+    "html_url": "https://github.com/saiteja-puttoju/test-remote-mcp-server-from-teja",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "muhammadUsman31254",
+    "name": "ExpenseTracker",
+    "full_name": "muhammadUsman31254/ExpenseTracker",
+    "html_url": "https://github.com/muhammadUsman31254/ExpenseTracker",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "sriKritarth",
+    "name": "test-remote",
+    "full_name": "sriKritarth/test-remote",
+    "html_url": "https://github.com/sriKritarth/test-remote",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "mvemualk",
+    "name": "mcp-dockerserver-demo",
+    "full_name": "mvemualk/mcp-dockerserver-demo",
+    "html_url": "https://github.com/mvemualk/mcp-dockerserver-demo",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "lovecatchuan",
+    "name": "cloudreve-mcp",
+    "full_name": "lovecatchuan/cloudreve-mcp",
+    "html_url": "https://github.com/lovecatchuan/cloudreve-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Musab712",
+    "name": "expense-tracker-mcp",
+    "full_name": "Musab712/expense-tracker-mcp",
+    "html_url": "https://github.com/Musab712/expense-tracker-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "sifat004bk",
+    "name": "woocommerce-mcp",
+    "full_name": "sifat004bk/woocommerce-mcp",
+    "html_url": "https://github.com/sifat004bk/woocommerce-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "NimbleBrainInc",
+    "name": "mcp-abstract-api",
+    "full_name": "NimbleBrainInc/mcp-abstract-api",
+    "html_url": "https://github.com/NimbleBrainInc/mcp-abstract-api",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "NimbleBrainInc",
+    "name": "mcp-news-api",
+    "full_name": "NimbleBrainInc/mcp-news-api",
+    "html_url": "https://github.com/NimbleBrainInc/mcp-news-api",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "NimbleBrainInc",
+    "name": "mcp-brave-search",
+    "full_name": "NimbleBrainInc/mcp-brave-search",
+    "html_url": "https://github.com/NimbleBrainInc/mcp-brave-search",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "kumar-ambuj",
+    "name": "remote-mcp-server",
+    "full_name": "kumar-ambuj/remote-mcp-server",
+    "html_url": "https://github.com/kumar-ambuj/remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "sramkrishna",
+    "name": "ratatoskr-mcp-server",
+    "full_name": "sramkrishna/ratatoskr-mcp-server",
+    "html_url": "https://github.com/sramkrishna/ratatoskr-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "amanmaurya121212",
+    "name": "MCP_remote_server",
+    "full_name": "amanmaurya121212/MCP_remote_server",
+    "html_url": "https://github.com/amanmaurya121212/MCP_remote_server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "GalSened",
+    "name": "mcp-filesystem-server",
+    "full_name": "GalSened/mcp-filesystem-server",
+    "html_url": "https://github.com/GalSened/mcp-filesystem-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Gautamgith",
+    "name": "db-mcp-server",
+    "full_name": "Gautamgith/db-mcp-server",
+    "html_url": "https://github.com/Gautamgith/db-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Aryangp",
+    "name": "mongo_mcp_server",
+    "full_name": "Aryangp/mongo_mcp_server",
+    "html_url": "https://github.com/Aryangp/mongo_mcp_server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "jeweis",
+    "name": "mcp-server-template",
+    "full_name": "jeweis/mcp-server-template",
+    "html_url": "https://github.com/jeweis/mcp-server-template",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "InfraMCP",
+    "name": "phpipam-mcp-server",
+    "full_name": "InfraMCP/phpipam-mcp-server",
+    "html_url": "https://github.com/InfraMCP/phpipam-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "atommych",
+    "name": "de-mcp-server",
+    "full_name": "atommych/de-mcp-server",
+    "html_url": "https://github.com/atommych/de-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Navneet1710",
+    "name": "csv_mcp_server",
+    "full_name": "Navneet1710/csv_mcp_server",
+    "html_url": "https://github.com/Navneet1710/csv_mcp_server",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "charkhaniakash",
+    "name": "my_mcp_servers",
+    "full_name": "charkhaniakash/my_mcp_servers",
+    "html_url": "https://github.com/charkhaniakash/my_mcp_servers",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "RohitBind123",
+    "name": "Remote_mcp_server",
+    "full_name": "RohitBind123/Remote_mcp_server",
+    "html_url": "https://github.com/RohitBind123/Remote_mcp_server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "alexhuangc",
+    "name": "excel-mcp-server",
+    "full_name": "alexhuangc/excel-mcp-server",
+    "html_url": "https://github.com/alexhuangc/excel-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "racheltomasetti",
+    "name": "oura-mcp-server",
+    "full_name": "racheltomasetti/oura-mcp-server",
+    "html_url": "https://github.com/racheltomasetti/oura-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "ry-ops",
+    "name": "proxmox-mcp-server",
+    "full_name": "ry-ops/proxmox-mcp-server",
+    "html_url": "https://github.com/ry-ops/proxmox-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "kuhu2707",
+    "name": "mcp_remote_server",
+    "full_name": "kuhu2707/mcp_remote_server",
+    "html_url": "https://github.com/kuhu2707/mcp_remote_server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "khshanovskyi",
+    "name": "duckduckgo-mcp-server",
+    "full_name": "khshanovskyi/duckduckgo-mcp-server",
+    "html_url": "https://github.com/khshanovskyi/duckduckgo-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "aihenryai",
+    "name": "youtube-mcp-server",
+    "full_name": "aihenryai/youtube-mcp-server",
+    "html_url": "https://github.com/aihenryai/youtube-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Cassiopo7",
+    "name": "servicenow-mcp-server",
+    "full_name": "Cassiopo7/servicenow-mcp-server",
+    "html_url": "https://github.com/Cassiopo7/servicenow-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Asif-bot0",
+    "name": "Remote-mcp-server",
+    "full_name": "Asif-bot0/Remote-mcp-server",
+    "html_url": "https://github.com/Asif-bot0/Remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "kshptl",
+    "name": "Databricks-MCP-Server",
+    "full_name": "kshptl/Databricks-MCP-Server",
+    "html_url": "https://github.com/kshptl/Databricks-MCP-Server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "pablo-camprubi",
+    "name": "salesforce-mcp-server",
+    "full_name": "pablo-camprubi/salesforce-mcp-server",
+    "html_url": "https://github.com/pablo-camprubi/salesforce-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "asdknkwqndknqkfw",
+    "name": "personal_mcp_server",
+    "full_name": "asdknkwqndknqkfw/personal_mcp_server",
+    "html_url": "https://github.com/asdknkwqndknqkfw/personal_mcp_server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "lambda-tuber",
+    "name": "pvv-mcp-server",
+    "full_name": "lambda-tuber/pvv-mcp-server",
+    "html_url": "https://github.com/lambda-tuber/pvv-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "GeorgeLiu-it",
+    "name": "infinity_mcp_server",
+    "full_name": "GeorgeLiu-it/infinity_mcp_server",
+    "html_url": "https://github.com/GeorgeLiu-it/infinity_mcp_server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "AhmS3cOps",
+    "name": "FPL-MCP-Server",
+    "full_name": "AhmS3cOps/FPL-MCP-Server",
+    "html_url": "https://github.com/AhmS3cOps/FPL-MCP-Server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "CalvinLiuu",
+    "name": "stock_mcp_server",
+    "full_name": "CalvinLiuu/stock_mcp_server",
+    "html_url": "https://github.com/CalvinLiuu/stock_mcp_server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "hkaanengin",
+    "name": "opendota-mcp-server",
+    "full_name": "hkaanengin/opendota-mcp-server",
+    "html_url": "https://github.com/hkaanengin/opendota-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "WilliamSchweitzer",
+    "name": "kali-mcp-server",
+    "full_name": "WilliamSchweitzer/kali-mcp-server",
+    "html_url": "https://github.com/WilliamSchweitzer/kali-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "thorsenk",
+    "name": "rffl-mcp-server",
+    "full_name": "thorsenk/rffl-mcp-server",
+    "html_url": "https://github.com/thorsenk/rffl-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "sudojacob",
+    "name": "todoist-mcp",
+    "full_name": "sudojacob/todoist-mcp",
+    "html_url": "https://github.com/sudojacob/todoist-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "AryanDadhich26",
+    "name": "mcp_server_1",
+    "full_name": "AryanDadhich26/mcp_server_1",
+    "html_url": "https://github.com/AryanDadhich26/mcp_server_1",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Santhosh785",
+    "name": "MCP_Server_Demo",
+    "full_name": "Santhosh785/MCP_Server_Demo",
+    "html_url": "https://github.com/Santhosh785/MCP_Server_Demo",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "cbwinslow",
+    "name": "mcp-server-project",
+    "full_name": "cbwinslow/mcp-server-project",
+    "html_url": "https://github.com/cbwinslow/mcp-server-project",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "AliQambari",
+    "name": "unified-mcp-server",
+    "full_name": "AliQambari/unified-mcp-server",
+    "html_url": "https://github.com/AliQambari/unified-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "8297689202",
+    "name": "Mcp-local_server",
+    "full_name": "8297689202/Mcp-local_server",
+    "html_url": "https://github.com/8297689202/Mcp-local_server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "remborba",
+    "name": "gohighlevel-mcp-server",
+    "full_name": "remborba/gohighlevel-mcp-server",
+    "html_url": "https://github.com/remborba/gohighlevel-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "nasarali03",
+    "name": "todo-mcp-server",
+    "full_name": "nasarali03/todo-mcp-server",
+    "html_url": "https://github.com/nasarali03/todo-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "adarsh1405",
+    "name": "Kuma-MCP-server",
+    "full_name": "adarsh1405/Kuma-MCP-server",
+    "html_url": "https://github.com/adarsh1405/Kuma-MCP-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "themythwell",
+    "name": "mcp-github-server",
+    "full_name": "themythwell/mcp-github-server",
+    "html_url": "https://github.com/themythwell/mcp-github-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Ambatwarsachu",
+    "name": "YFinance-MCP-Server",
+    "full_name": "Ambatwarsachu/YFinance-MCP-Server",
+    "html_url": "https://github.com/Ambatwarsachu/YFinance-MCP-Server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "subham012005",
+    "name": "test-remote-mcp-server",
+    "full_name": "subham012005/test-remote-mcp-server",
+    "html_url": "https://github.com/subham012005/test-remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "bartolofj",
+    "name": "mcp-server-weather",
+    "full_name": "bartolofj/mcp-server-weather",
+    "html_url": "https://github.com/bartolofj/mcp-server-weather",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "mo7justin",
+    "name": "accounting-mcp-server",
+    "full_name": "mo7justin/accounting-mcp-server",
+    "html_url": "https://github.com/mo7justin/accounting-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "armadditech",
+    "name": "mcp-server-toolintegration",
+    "full_name": "armadditech/mcp-server-toolintegration",
+    "html_url": "https://github.com/armadditech/mcp-server-toolintegration",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "M-Awais-Hussain",
+    "name": "remote-mcp-server",
+    "full_name": "M-Awais-Hussain/remote-mcp-server",
+    "html_url": "https://github.com/M-Awais-Hussain/remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "mohitagr18",
+    "name": "github-mcp-server",
+    "full_name": "mohitagr18/github-mcp-server",
+    "html_url": "https://github.com/mohitagr18/github-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Yoshua-Carrera",
+    "name": "python-mcp-server",
+    "full_name": "Yoshua-Carrera/python-mcp-server",
+    "html_url": "https://github.com/Yoshua-Carrera/python-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "arshadblouch81",
+    "name": "fast-mcp-server",
+    "full_name": "arshadblouch81/fast-mcp-server",
+    "html_url": "https://github.com/arshadblouch81/fast-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "sahilmhatr3",
+    "name": "MCP_Server_Core",
+    "full_name": "sahilmhatr3/MCP_Server_Core",
+    "html_url": "https://github.com/sahilmhatr3/MCP_Server_Core",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "sahilkoditkar",
+    "name": "sentinel-mcp-server",
+    "full_name": "sahilkoditkar/sentinel-mcp-server",
+    "html_url": "https://github.com/sahilkoditkar/sentinel-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "AbuZar-Ansarii",
+    "name": "Email-MCP-Server",
+    "full_name": "AbuZar-Ansarii/Email-MCP-Server",
+    "html_url": "https://github.com/AbuZar-Ansarii/Email-MCP-Server",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "PRANAVGKASHYAP",
+    "name": "gmail-MCP-Server",
+    "full_name": "PRANAVGKASHYAP/gmail-MCP-Server",
+    "html_url": "https://github.com/PRANAVGKASHYAP/gmail-MCP-Server",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alicenjr",
+    "name": "Basic-mcp-server",
+    "full_name": "alicenjr/Basic-mcp-server",
+    "html_url": "https://github.com/alicenjr/Basic-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "gavined7",
+    "name": "khqr-mcp-server",
+    "full_name": "gavined7/khqr-mcp-server",
+    "html_url": "https://github.com/gavined7/khqr-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "PrinceStanley",
+    "name": "claude-mcp-servers",
+    "full_name": "PrinceStanley/claude-mcp-servers",
+    "html_url": "https://github.com/PrinceStanley/claude-mcp-servers",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "manishh",
+    "name": "mcp-server-demo",
+    "full_name": "manishh/mcp-server-demo",
+    "html_url": "https://github.com/manishh/mcp-server-demo",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "DevWhiz1",
+    "name": "mcp-server-fastapp",
+    "full_name": "DevWhiz1/mcp-server-fastapp",
+    "html_url": "https://github.com/DevWhiz1/mcp-server-fastapp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Pravat-21",
+    "name": "Remote-MCP-server",
+    "full_name": "Pravat-21/Remote-MCP-server",
+    "html_url": "https://github.com/Pravat-21/Remote-MCP-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "vincentporte",
+    "name": "basic_mcp_server",
+    "full_name": "vincentporte/basic_mcp_server",
+    "html_url": "https://github.com/vincentporte/basic_mcp_server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "khizarsait",
+    "name": "test-mcp-server",
+    "full_name": "khizarsait/test-mcp-server",
+    "html_url": "https://github.com/khizarsait/test-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ChrisW-priv",
+    "name": "mcp-tts-server",
+    "full_name": "ChrisW-priv/mcp-tts-server",
+    "html_url": "https://github.com/ChrisW-priv/mcp-tts-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "AbhishekPandey91",
+    "name": "MCP_Server_Client",
+    "full_name": "AbhishekPandey91/MCP_Server_Client",
+    "html_url": "https://github.com/AbhishekPandey91/MCP_Server_Client",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Muna1971",
+    "name": "elevenlabs-mcp-server",
+    "full_name": "Muna1971/elevenlabs-mcp-server",
+    "html_url": "https://github.com/Muna1971/elevenlabs-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Jatin0702",
+    "name": "Test_MCP_Server",
+    "full_name": "Jatin0702/Test_MCP_Server",
+    "html_url": "https://github.com/Jatin0702/Test_MCP_Server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "dario-suckfuell",
+    "name": "pinecone-mcp-server",
+    "full_name": "dario-suckfuell/pinecone-mcp-server",
+    "html_url": "https://github.com/dario-suckfuell/pinecone-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "kiddulu916",
+    "name": "kali-mcp-server",
+    "full_name": "kiddulu916/kali-mcp-server",
+    "html_url": "https://github.com/kiddulu916/kali-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "krish9495",
+    "name": "remote-mcp-server",
+    "full_name": "krish9495/remote-mcp-server",
+    "html_url": "https://github.com/krish9495/remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "readapttm",
+    "name": "bigquery-mcp-server",
+    "full_name": "readapttm/bigquery-mcp-server",
+    "html_url": "https://github.com/readapttm/bigquery-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Ntlahla80",
+    "name": "MCP-Server-Domain",
+    "full_name": "Ntlahla80/MCP-Server-Domain",
+    "html_url": "https://github.com/Ntlahla80/MCP-Server-Domain",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Marty-Kim",
+    "name": "test-mcp-server",
+    "full_name": "Marty-Kim/test-mcp-server",
+    "html_url": "https://github.com/Marty-Kim/test-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Arghyann",
+    "name": "mcp-server-test",
+    "full_name": "Arghyann/mcp-server-test",
+    "html_url": "https://github.com/Arghyann/mcp-server-test",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ChrisW-priv",
+    "name": "mcp-transcriptions-server",
+    "full_name": "ChrisW-priv/mcp-transcriptions-server",
+    "html_url": "https://github.com/ChrisW-priv/mcp-transcriptions-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "ahad-raza24",
+    "name": "PSX-MCP-Server",
+    "full_name": "ahad-raza24/PSX-MCP-Server",
+    "html_url": "https://github.com/ahad-raza24/PSX-MCP-Server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "N0NameN0",
+    "name": "SantoMcpServer",
+    "full_name": "N0NameN0/SantoMcpServer",
+    "html_url": "https://github.com/N0NameN0/SantoMcpServer",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "akshattewari",
+    "name": "MCP-Server-Demo",
+    "full_name": "akshattewari/MCP-Server-Demo",
+    "html_url": "https://github.com/akshattewari/MCP-Server-Demo",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Harshithaboinepally",
+    "name": "Claude---MCP-server",
+    "full_name": "Harshithaboinepally/Claude---MCP-server",
+    "html_url": "https://github.com/Harshithaboinepally/Claude---MCP-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "zaheer23831-dev",
+    "name": "mcp_country_server",
+    "full_name": "zaheer23831-dev/mcp_country_server",
+    "html_url": "https://github.com/zaheer23831-dev/mcp_country_server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "tchardonnens",
+    "name": "coconuts-mcp-server",
+    "full_name": "tchardonnens/coconuts-mcp-server",
+    "html_url": "https://github.com/tchardonnens/coconuts-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "yejelim",
+    "name": "vitaldb-mcp-server",
+    "full_name": "yejelim/vitaldb-mcp-server",
+    "html_url": "https://github.com/yejelim/vitaldb-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "marklechner",
+    "name": "kev-mcp-server",
+    "full_name": "marklechner/kev-mcp-server",
+    "html_url": "https://github.com/marklechner/kev-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Lnxtanx",
+    "name": "demo-mcp-server",
+    "full_name": "Lnxtanx/demo-mcp-server",
+    "html_url": "https://github.com/Lnxtanx/demo-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Akshat-kay",
+    "name": "mcp-server-demo",
+    "full_name": "Akshat-kay/mcp-server-demo",
+    "html_url": "https://github.com/Akshat-kay/mcp-server-demo",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "subhayanghosh",
+    "name": "weather-mcp-server",
+    "full_name": "subhayanghosh/weather-mcp-server",
+    "html_url": "https://github.com/subhayanghosh/weather-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "dvbarselona-cloud",
+    "name": "alpaca-mcp-server",
+    "full_name": "dvbarselona-cloud/alpaca-mcp-server",
+    "html_url": "https://github.com/dvbarselona-cloud/alpaca-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "galihwi",
+    "name": "mcp-research-server",
+    "full_name": "galihwi/mcp-research-server",
+    "html_url": "https://github.com/galihwi/mcp-research-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "SWBTS-Faith",
+    "name": "echo-mcp-server",
+    "full_name": "SWBTS-Faith/echo-mcp-server",
+    "html_url": "https://github.com/SWBTS-Faith/echo-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "sanjeevkoppal1",
+    "name": "simple_jama_mcp",
+    "full_name": "sanjeevkoppal1/simple_jama_mcp",
+    "html_url": "https://github.com/sanjeevkoppal1/simple_jama_mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "venkateswari2754",
+    "name": "remote-mcp-server",
+    "full_name": "venkateswari2754/remote-mcp-server",
+    "html_url": "https://github.com/venkateswari2754/remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "AyushiBhujade",
+    "name": "homegenie-mcp-server",
+    "full_name": "AyushiBhujade/homegenie-mcp-server",
+    "html_url": "https://github.com/AyushiBhujade/homegenie-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "gonzalalli",
+    "name": "mcp-server-example",
+    "full_name": "gonzalalli/mcp-server-example",
+    "html_url": "https://github.com/gonzalalli/mcp-server-example",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "AdithDinish",
+    "name": "MCP-SERVER-MEDICAL-",
+    "full_name": "AdithDinish/MCP-SERVER-MEDICAL-",
+    "html_url": "https://github.com/AdithDinish/MCP-SERVER-MEDICAL-",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "danielscholl",
+    "name": "mvn-mcp-server",
+    "full_name": "danielscholl/mvn-mcp-server",
+    "html_url": "https://github.com/danielscholl/mvn-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "faith-tools",
+    "name": "echo-mcp-server",
+    "full_name": "faith-tools/echo-mcp-server",
+    "html_url": "https://github.com/faith-tools/echo-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Pranay5519",
+    "name": "test-mcp-server",
+    "full_name": "Pranay5519/test-mcp-server",
+    "html_url": "https://github.com/Pranay5519/test-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Girish10-AGENTIC-AI",
+    "name": "Teams-MCP-Server",
+    "full_name": "Girish10-AGENTIC-AI/Teams-MCP-Server",
+    "html_url": "https://github.com/Girish10-AGENTIC-AI/Teams-MCP-Server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "developj",
+    "name": "remote-mcp-server",
+    "full_name": "developj/remote-mcp-server",
+    "html_url": "https://github.com/developj/remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "umairahmed786",
+    "name": "mcp-sql-server",
+    "full_name": "umairahmed786/mcp-sql-server",
+    "html_url": "https://github.com/umairahmed786/mcp-sql-server",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sandeepreddygantla",
+    "name": "sql_server_mcp",
+    "full_name": "sandeepreddygantla/sql_server_mcp",
+    "html_url": "https://github.com/sandeepreddygantla/sql_server_mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Tanuj2005",
+    "name": "KG-MCP-SERVER",
+    "full_name": "Tanuj2005/KG-MCP-SERVER",
+    "html_url": "https://github.com/Tanuj2005/KG-MCP-SERVER",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "techstudy893",
+    "name": "mcp-server-demo",
+    "full_name": "techstudy893/mcp-server-demo",
+    "html_url": "https://github.com/techstudy893/mcp-server-demo",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "hansobvius",
+    "name": "mcp-server-example",
+    "full_name": "hansobvius/mcp-server-example",
+    "html_url": "https://github.com/hansobvius/mcp-server-example",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "ayuugoyal",
+    "name": "mcp-remote-server",
+    "full_name": "ayuugoyal/mcp-remote-server",
+    "html_url": "https://github.com/ayuugoyal/mcp-remote-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Dawoodayaz20",
+    "name": "MCP_Client-Server",
+    "full_name": "Dawoodayaz20/MCP_Client-Server",
+    "html_url": "https://github.com/Dawoodayaz20/MCP_Client-Server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "shubhradeep23",
+    "name": "simple-mcp-server",
+    "full_name": "shubhradeep23/simple-mcp-server",
+    "html_url": "https://github.com/shubhradeep23/simple-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "rsvasanth",
+    "name": "frappe-mcp-server",
+    "full_name": "rsvasanth/frappe-mcp-server",
+    "html_url": "https://github.com/rsvasanth/frappe-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Nik-bos",
+    "name": "remote_mcp_server",
+    "full_name": "Nik-bos/remote_mcp_server",
+    "html_url": "https://github.com/Nik-bos/remote_mcp_server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Phionx",
+    "name": "weather-mcp",
+    "full_name": "Phionx/weather-mcp",
+    "html_url": "https://github.com/Phionx/weather-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "heeraknpsingh",
+    "name": "mcp-streamable-server",
+    "full_name": "heeraknpsingh/mcp-streamable-server",
+    "html_url": "https://github.com/heeraknpsingh/mcp-streamable-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "g20271",
+    "name": "kdeconnect-mcp-server",
+    "full_name": "g20271/kdeconnect-mcp-server",
+    "html_url": "https://github.com/g20271/kdeconnect-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Phionx",
+    "name": "mcp-hello-server",
+    "full_name": "Phionx/mcp-hello-server",
+    "html_url": "https://github.com/Phionx/mcp-hello-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "JohnDroben",
+    "name": "mcp-server-docker",
+    "full_name": "JohnDroben/mcp-server-docker",
+    "html_url": "https://github.com/JohnDroben/mcp-server-docker",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "projektckmt",
+    "name": "ckmt-mcp-server",
+    "full_name": "projektckmt/ckmt-mcp-server",
+    "html_url": "https://github.com/projektckmt/ckmt-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "ShaofengChu",
+    "name": "mcp-instance-server",
+    "full_name": "ShaofengChu/mcp-instance-server",
+    "html_url": "https://github.com/ShaofengChu/mcp-instance-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "mr-rakesh-ranjan",
+    "name": "trail_mcp_server",
+    "full_name": "mr-rakesh-ranjan/trail_mcp_server",
+    "html_url": "https://github.com/mr-rakesh-ranjan/trail_mcp_server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "lka",
+    "name": "mcp_server_prompt",
+    "full_name": "lka/mcp_server_prompt",
+    "html_url": "https://github.com/lka/mcp_server_prompt",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "moawizbinyamin",
+    "name": "Fastapi-mcp-server-",
+    "full_name": "moawizbinyamin/Fastapi-mcp-server-",
+    "html_url": "https://github.com/moawizbinyamin/Fastapi-mcp-server-",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jjyaoao",
+    "name": "weather-mcp-server",
+    "full_name": "jjyaoao/weather-mcp-server",
+    "html_url": "https://github.com/jjyaoao/weather-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "KAP-AI",
+    "name": "MCP-PDF-Server",
+    "full_name": "KAP-AI/MCP-PDF-Server",
+    "html_url": "https://github.com/KAP-AI/MCP-PDF-Server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "pvliesdonk",
+    "name": "mcp-file-server",
+    "full_name": "pvliesdonk/mcp-file-server",
+    "html_url": "https://github.com/pvliesdonk/mcp-file-server",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "rishidholkheria",
+    "name": "exploring-mcp-server",
+    "full_name": "rishidholkheria/exploring-mcp-server",
+    "html_url": "https://github.com/rishidholkheria/exploring-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "eliu243",
+    "name": "oura-mcp-server",
+    "full_name": "eliu243/oura-mcp-server",
+    "html_url": "https://github.com/eliu243/oura-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "hnbc6667777",
+    "name": "hoogle-mcp-server",
+    "full_name": "hnbc6667777/hoogle-mcp-server",
+    "html_url": "https://github.com/hnbc6667777/hoogle-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "stanibaj",
+    "name": "dns-mcp-server",
+    "full_name": "stanibaj/dns-mcp-server",
+    "html_url": "https://github.com/stanibaj/dns-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "programmaraditya123",
+    "name": "remote-mcp-server",
+    "full_name": "programmaraditya123/remote-mcp-server",
+    "html_url": "https://github.com/programmaraditya123/remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "bhavyas0811",
+    "name": "learning-mcp-server",
+    "full_name": "bhavyas0811/learning-mcp-server",
+    "html_url": "https://github.com/bhavyas0811/learning-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Pranav-Nannaware",
+    "name": "mcp-server-1",
+    "full_name": "Pranav-Nannaware/mcp-server-1",
+    "html_url": "https://github.com/Pranav-Nannaware/mcp-server-1",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "oslianyabel",
+    "name": "odoo_mcp_server",
+    "full_name": "oslianyabel/odoo_mcp_server",
+    "html_url": "https://github.com/oslianyabel/odoo_mcp_server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Kei-K23",
+    "name": "mcp-server-101",
+    "full_name": "Kei-K23/mcp-server-101",
+    "html_url": "https://github.com/Kei-K23/mcp-server-101",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "JacquesKruger",
+    "name": "Capital-MCP-Server",
+    "full_name": "JacquesKruger/Capital-MCP-Server",
+    "html_url": "https://github.com/JacquesKruger/Capital-MCP-Server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "bostrovsky",
+    "name": "tastytrade_MCP_Server",
+    "full_name": "bostrovsky/tastytrade_MCP_Server",
+    "html_url": "https://github.com/bostrovsky/tastytrade_MCP_Server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "sdesani",
+    "name": "mcp-server-collection",
+    "full_name": "sdesani/mcp-server-collection",
+    "html_url": "https://github.com/sdesani/mcp-server-collection",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "pappucode",
+    "name": "remote_mcp_server",
+    "full_name": "pappucode/remote_mcp_server",
+    "html_url": "https://github.com/pappucode/remote_mcp_server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "laHeud",
+    "name": "kodi-mcp-server",
+    "full_name": "laHeud/kodi-mcp-server",
+    "html_url": "https://github.com/laHeud/kodi-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "superssonicc",
+    "name": "remote-mcp-servers",
+    "full_name": "superssonicc/remote-mcp-servers",
+    "html_url": "https://github.com/superssonicc/remote-mcp-servers",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "jacksonon",
+    "name": "mcp-server-demo",
+    "full_name": "jacksonon/mcp-server-demo",
+    "html_url": "https://github.com/jacksonon/mcp-server-demo",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "jhonnyyy",
+    "name": "mcp_server_paint",
+    "full_name": "jhonnyyy/mcp_server_paint",
+    "html_url": "https://github.com/jhonnyyy/mcp_server_paint",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "IuriGuerreiro",
+    "name": "Discord-MCP-Server",
+    "full_name": "IuriGuerreiro/Discord-MCP-Server",
+    "html_url": "https://github.com/IuriGuerreiro/Discord-MCP-Server",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "zainab318",
+    "name": "mcp-fastapi-server",
+    "full_name": "zainab318/mcp-fastapi-server",
+    "html_url": "https://github.com/zainab318/mcp-fastapi-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Edmh1",
+    "name": "mini-mcp-server",
+    "full_name": "Edmh1/mini-mcp-server",
+    "html_url": "https://github.com/Edmh1/mini-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Mickycun1",
+    "name": "dynafex-mcp-server",
+    "full_name": "Mickycun1/dynafex-mcp-server",
+    "html_url": "https://github.com/Mickycun1/dynafex-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "AngusHsu",
+    "name": "lunar-mcp-server",
+    "full_name": "AngusHsu/lunar-mcp-server",
+    "html_url": "https://github.com/AngusHsu/lunar-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "igorvan2005",
+    "name": "wikipedia_mcp_server",
+    "full_name": "igorvan2005/wikipedia_mcp_server",
+    "html_url": "https://github.com/igorvan2005/wikipedia_mcp_server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "manish-bagdwal1",
+    "name": "remote-mcp-server",
+    "full_name": "manish-bagdwal1/remote-mcp-server",
+    "html_url": "https://github.com/manish-bagdwal1/remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "ganhammar",
+    "name": "hass-mcp-server",
+    "full_name": "ganhammar/hass-mcp-server",
+    "html_url": "https://github.com/ganhammar/hass-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Harshtech1",
+    "name": "MCP_Remort_server",
+    "full_name": "Harshtech1/MCP_Remort_server",
+    "html_url": "https://github.com/Harshtech1/MCP_Remort_server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "aafsar",
+    "name": "weather-mcp-server",
+    "full_name": "aafsar/weather-mcp-server",
+    "html_url": "https://github.com/aafsar/weather-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Sandesh-hase",
+    "name": "jira-mcp-server",
+    "full_name": "Sandesh-hase/jira-mcp-server",
+    "html_url": "https://github.com/Sandesh-hase/jira-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "BernhardRode",
+    "name": "loxone-mcp-server",
+    "full_name": "BernhardRode/loxone-mcp-server",
+    "html_url": "https://github.com/BernhardRode/loxone-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "kevinbtalbert",
+    "name": "senzing-mcp-server",
+    "full_name": "kevinbtalbert/senzing-mcp-server",
+    "html_url": "https://github.com/kevinbtalbert/senzing-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "EmanManco",
+    "name": "advancedMcpServers",
+    "full_name": "EmanManco/advancedMcpServers",
+    "html_url": "https://github.com/EmanManco/advancedMcpServers",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "srinivaspv77",
+    "name": "bonanza-mcp-server-",
+    "full_name": "srinivaspv77/bonanza-mcp-server-",
+    "html_url": "https://github.com/srinivaspv77/bonanza-mcp-server-",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "TheSilentPatch",
+    "name": "discord-mcp-server",
+    "full_name": "TheSilentPatch/discord-mcp-server",
+    "html_url": "https://github.com/TheSilentPatch/discord-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "hamzarehman2003",
+    "name": "custom_mcp_server",
+    "full_name": "hamzarehman2003/custom_mcp_server",
+    "html_url": "https://github.com/hamzarehman2003/custom_mcp_server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "pklaudat",
+    "name": "trello-mcp-server",
+    "full_name": "pklaudat/trello-mcp-server",
+    "html_url": "https://github.com/pklaudat/trello-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "turnono",
+    "name": "datacommons-mcp-server",
+    "full_name": "turnono/datacommons-mcp-server",
+    "html_url": "https://github.com/turnono/datacommons-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "darwinacharya3",
+    "name": "remote-mcp-server",
+    "full_name": "darwinacharya3/remote-mcp-server",
+    "html_url": "https://github.com/darwinacharya3/remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "lihongwen",
+    "name": "stock-mcp-server",
+    "full_name": "lihongwen/stock-mcp-server",
+    "html_url": "https://github.com/lihongwen/stock-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "pl974",
+    "name": "mcp-server-boilerplate",
+    "full_name": "pl974/mcp-server-boilerplate",
+    "html_url": "https://github.com/pl974/mcp-server-boilerplate",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "bonashen",
+    "name": "xlsx-mcp-server",
+    "full_name": "bonashen/xlsx-mcp-server",
+    "html_url": "https://github.com/bonashen/xlsx-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ravisharma1062",
+    "name": "mcp-server-demo",
+    "full_name": "ravisharma1062/mcp-server-demo",
+    "html_url": "https://github.com/ravisharma1062/mcp-server-demo",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "etsomni-cpu",
+    "name": "Guruzen-mcp-server",
+    "full_name": "etsomni-cpu/Guruzen-mcp-server",
+    "html_url": "https://github.com/etsomni-cpu/Guruzen-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "global-mysterysnailrevolution",
+    "name": "Opentrons-mcp-server",
+    "full_name": "global-mysterysnailrevolution/Opentrons-mcp-server",
+    "html_url": "https://github.com/global-mysterysnailrevolution/Opentrons-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "ZooTi9er",
+    "name": "zen-mcp-server",
+    "full_name": "ZooTi9er/zen-mcp-server",
+    "html_url": "https://github.com/ZooTi9er/zen-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "ravikirany88",
+    "name": "remote-mcp-server",
+    "full_name": "ravikirany88/remote-mcp-server",
+    "html_url": "https://github.com/ravikirany88/remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Ash-Blanc",
+    "name": "kia-mcp-serverrr",
+    "full_name": "Ash-Blanc/kia-mcp-serverrr",
+    "html_url": "https://github.com/Ash-Blanc/kia-mcp-serverrr",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "narmaku",
+    "name": "linux-mcp-server",
+    "full_name": "narmaku/linux-mcp-server",
+    "html_url": "https://github.com/narmaku/linux-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "PrabhudattaPatra",
+    "name": "expense-tracking-remote-mcp-server",
+    "full_name": "PrabhudattaPatra/expense-tracking-remote-mcp-server",
+    "html_url": "https://github.com/PrabhudattaPatra/expense-tracking-remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "vkdwived",
+    "name": "mcpserverexample",
+    "full_name": "vkdwived/mcpserverexample",
+    "html_url": "https://github.com/vkdwived/mcpserverexample",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "stdlpx",
+    "name": "mcpserverexample",
+    "full_name": "stdlpx/mcpserverexample",
+    "html_url": "https://github.com/stdlpx/mcpserverexample",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "kumar-ambuj",
+    "name": "mcp-remote-expense-tracker-server",
+    "full_name": "kumar-ambuj/mcp-remote-expense-tracker-server",
+    "html_url": "https://github.com/kumar-ambuj/mcp-remote-expense-tracker-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "SteveCInVA",
+    "name": "WeatherMCP",
+    "full_name": "SteveCInVA/WeatherMCP",
+    "html_url": "https://github.com/SteveCInVA/WeatherMCP",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "benagricola",
+    "name": "odoo-mcp",
+    "full_name": "benagricola/odoo-mcp",
+    "html_url": "https://github.com/benagricola/odoo-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "SumitPariyar",
+    "name": "MultiServeAI",
+    "full_name": "SumitPariyar/MultiServeAI",
+    "html_url": "https://github.com/SumitPariyar/MultiServeAI",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "ammarpersonal550-dot",
+    "name": "test-remote-mcp-server",
+    "full_name": "ammarpersonal550-dot/test-remote-mcp-server",
+    "html_url": "https://github.com/ammarpersonal550-dot/test-remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "khshanovskyi",
+    "name": "mcp-python-code-interpreter",
+    "full_name": "khshanovskyi/mcp-python-code-interpreter",
+    "html_url": "https://github.com/khshanovskyi/mcp-python-code-interpreter",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "kaldren",
+    "name": "build-remote-mcp-server-with-azure",
+    "full_name": "kaldren/build-remote-mcp-server-with-azure",
+    "html_url": "https://github.com/kaldren/build-remote-mcp-server-with-azure",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "bhushangitfull",
+    "name": "file-mcp-smith",
+    "full_name": "bhushangitfull/file-mcp-smith",
+    "html_url": "https://github.com/bhushangitfull/file-mcp-smith",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "igorssh",
+    "name": "mcp-python",
+    "full_name": "igorssh/mcp-python",
+    "html_url": "https://github.com/igorssh/mcp-python",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Mafzii",
+    "name": "mcp-filter",
+    "full_name": "Mafzii/mcp-filter",
+    "html_url": "https://github.com/Mafzii/mcp-filter",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "mbelik07",
+    "name": "timetablemaster-mcp",
+    "full_name": "mbelik07/timetablemaster-mcp",
+    "html_url": "https://github.com/mbelik07/timetablemaster-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "skyforge-labs",
+    "name": "skyforge-mcp",
+    "full_name": "skyforge-labs/skyforge-mcp",
+    "html_url": "https://github.com/skyforge-labs/skyforge-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "asabla",
+    "name": "microsoft-documentation-mcp-server",
+    "full_name": "asabla/microsoft-documentation-mcp-server",
+    "html_url": "https://github.com/asabla/microsoft-documentation-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "superssonicc",
+    "name": "bearer-remtote-mcp-server",
+    "full_name": "superssonicc/bearer-remtote-mcp-server",
+    "html_url": "https://github.com/superssonicc/bearer-remtote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "lallym",
+    "name": "multi-db-mcp-server",
+    "full_name": "lallym/multi-db-mcp-server",
+    "html_url": "https://github.com/lallym/multi-db-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Asish-Bothsa",
+    "name": "test_remote_mcp_server",
+    "full_name": "Asish-Bothsa/test_remote_mcp_server",
+    "html_url": "https://github.com/Asish-Bothsa/test_remote_mcp_server",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "LeonardoYaranga",
+    "name": "mcp-server-network-automation",
+    "full_name": "LeonardoYaranga/mcp-server-network-automation",
+    "html_url": "https://github.com/LeonardoYaranga/mcp-server-network-automation",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "ppdanbo",
+    "name": "mcp-server-aa-course",
+    "full_name": "ppdanbo/mcp-server-aa-course",
+    "html_url": "https://github.com/ppdanbo/mcp-server-aa-course",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "arungopi",
+    "name": "fastmcp-server-starter",
+    "full_name": "arungopi/fastmcp-server-starter",
+    "html_url": "https://github.com/arungopi/fastmcp-server-starter",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "cheeyeo",
+    "name": "MCP_LEARNING",
+    "full_name": "cheeyeo/MCP_LEARNING",
+    "html_url": "https://github.com/cheeyeo/MCP_LEARNING",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "sagar0023",
+    "name": "Expense-Tracker-Mcp-Server",
+    "full_name": "sagar0023/Expense-Tracker-Mcp-Server",
+    "html_url": "https://github.com/sagar0023/Expense-Tracker-Mcp-Server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Abhinav140203",
+    "name": "Remote-Math-MCP-server",
+    "full_name": "Abhinav140203/Remote-Math-MCP-server",
+    "html_url": "https://github.com/Abhinav140203/Remote-Math-MCP-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "bhavuk1409",
+    "name": "remote-mcp-server-tst",
+    "full_name": "bhavuk1409/remote-mcp-server-tst",
+    "html_url": "https://github.com/bhavuk1409/remote-mcp-server-tst",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "BojanMakivic",
+    "name": "strava-activity-mcp-server",
+    "full_name": "BojanMakivic/strava-activity-mcp-server",
+    "html_url": "https://github.com/BojanMakivic/strava-activity-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "rdwj",
+    "name": "weather-mcp",
+    "full_name": "rdwj/weather-mcp",
+    "html_url": "https://github.com/rdwj/weather-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Colinster327",
+    "name": "todo-mcp",
+    "full_name": "Colinster327/todo-mcp",
+    "html_url": "https://github.com/Colinster327/todo-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "SayamAlt",
+    "name": "test-remote-mcp-server",
+    "full_name": "SayamAlt/test-remote-mcp-server",
+    "html_url": "https://github.com/SayamAlt/test-remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "paulie57",
+    "name": "repo-mcp-server-dev",
+    "full_name": "paulie57/repo-mcp-server-dev",
+    "html_url": "https://github.com/paulie57/repo-mcp-server-dev",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "lka",
+    "name": "mcp_server_image_selector",
+    "full_name": "lka/mcp_server_image_selector",
+    "html_url": "https://github.com/lka/mcp_server_image_selector",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "brack101",
+    "name": "AspenPlus-MCP-Server",
+    "full_name": "brack101/AspenPlus-MCP-Server",
+    "html_url": "https://github.com/brack101/AspenPlus-MCP-Server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Phionx",
+    "name": "first-mcp",
+    "full_name": "Phionx/first-mcp",
+    "html_url": "https://github.com/Phionx/first-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "naveen-894",
+    "name": "remote-test-mcp-server",
+    "full_name": "naveen-894/remote-test-mcp-server",
+    "html_url": "https://github.com/naveen-894/remote-test-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "manuelsiuro",
+    "name": "mcp-android-server-python",
+    "full_name": "manuelsiuro/mcp-android-server-python",
+    "html_url": "https://github.com/manuelsiuro/mcp-android-server-python",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Hassan-asim",
+    "name": "Story-builder-MCP-Server",
+    "full_name": "Hassan-asim/Story-builder-MCP-Server",
+    "html_url": "https://github.com/Hassan-asim/Story-builder-MCP-Server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "aceandro2812",
+    "name": "Git-PR-MCP-Server",
+    "full_name": "aceandro2812/Git-PR-MCP-Server",
+    "html_url": "https://github.com/aceandro2812/Git-PR-MCP-Server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Deepak-Leveledge",
+    "name": "remote-mcp-server-calculator",
+    "full_name": "Deepak-Leveledge/remote-mcp-server-calculator",
+    "html_url": "https://github.com/Deepak-Leveledge/remote-mcp-server-calculator",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Vishwajeet3007",
+    "name": "test-remote-mcp-server",
+    "full_name": "Vishwajeet3007/test-remote-mcp-server",
+    "html_url": "https://github.com/Vishwajeet3007/test-remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "SumitPariyar",
+    "name": "Custom-MCP-Calculator-Server",
+    "full_name": "SumitPariyar/Custom-MCP-Calculator-Server",
+    "html_url": "https://github.com/SumitPariyar/Custom-MCP-Calculator-Server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "ry-ops",
+    "name": "starlink-enterprise-mcp-server",
+    "full_name": "ry-ops/starlink-enterprise-mcp-server",
+    "html_url": "https://github.com/ry-ops/starlink-enterprise-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "bartmichalak",
+    "name": "mcp-server-python-sample",
+    "full_name": "bartmichalak/mcp-server-python-sample",
+    "html_url": "https://github.com/bartmichalak/mcp-server-python-sample",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "Akshayredekar07",
+    "name": "Test-remote-mcp-server",
+    "full_name": "Akshayredekar07/Test-remote-mcp-server",
+    "html_url": "https://github.com/Akshayredekar07/Test-remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "sanjeevkoppal1",
+    "name": "jama_mcp_server_latest",
+    "full_name": "sanjeevkoppal1/jama_mcp_server_latest",
+    "html_url": "https://github.com/sanjeevkoppal1/jama_mcp_server_latest",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "faith-tools",
+    "name": "mcp-server-template-py",
+    "full_name": "faith-tools/mcp-server-template-py",
+    "html_url": "https://github.com/faith-tools/mcp-server-template-py",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Anmol369",
+    "name": "Pattern-Learning-MCP-Server",
+    "full_name": "Anmol369/Pattern-Learning-MCP-Server",
+    "html_url": "https://github.com/Anmol369/Pattern-Learning-MCP-Server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "aswinss18",
+    "name": "simple-basic-mcp-server",
+    "full_name": "aswinss18/simple-basic-mcp-server",
+    "html_url": "https://github.com/aswinss18/simple-basic-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "rmisegal",
+    "name": "rmi-agent-mcp-server",
+    "full_name": "rmisegal/rmi-agent-mcp-server",
+    "html_url": "https://github.com/rmisegal/rmi-agent-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "sumanthhabib96",
+    "name": "Claude_Remote_mcp_server",
+    "full_name": "sumanthhabib96/Claude_Remote_mcp_server",
+    "html_url": "https://github.com/sumanthhabib96/Claude_Remote_mcp_server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "changju784",
+    "name": "chi311-mcp-server",
+    "full_name": "changju784/chi311-mcp-server",
+    "html_url": "https://github.com/changju784/chi311-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Lnxtanx",
+    "name": "expense-tracker-mcp-server",
+    "full_name": "Lnxtanx/expense-tracker-mcp-server",
+    "html_url": "https://github.com/Lnxtanx/expense-tracker-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "SalmanFaris7",
+    "name": "kali-penetrationtest-mcp-server",
+    "full_name": "SalmanFaris7/kali-penetrationtest-mcp-server",
+    "html_url": "https://github.com/SalmanFaris7/kali-penetrationtest-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "finianoneill",
+    "name": "mcp_fastapi_server_example",
+    "full_name": "finianoneill/mcp_fastapi_server_example",
+    "html_url": "https://github.com/finianoneill/mcp_fastapi_server_example",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Ayush-Rawat-1",
+    "name": "ExpenseTracker_MCP_Server",
+    "full_name": "Ayush-Rawat-1/ExpenseTracker_MCP_Server",
+    "html_url": "https://github.com/Ayush-Rawat-1/ExpenseTracker_MCP_Server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "AbuZar-Ansarii",
+    "name": "Email-Sender-MCP-Server",
+    "full_name": "AbuZar-Ansarii/Email-Sender-MCP-Server",
+    "html_url": "https://github.com/AbuZar-Ansarii/Email-Sender-MCP-Server",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nitisbig",
+    "name": "expense_tracker_mcp_server",
+    "full_name": "nitisbig/expense_tracker_mcp_server",
+    "html_url": "https://github.com/nitisbig/expense_tracker_mcp_server",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dripston",
+    "name": "mcp-server-agent1",
+    "full_name": "dripston/mcp-server-agent1",
+    "html_url": "https://github.com/dripston/mcp-server-agent1",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "asmaamohamed0264",
+    "name": "reddit-sentiment-mcp-server",
+    "full_name": "asmaamohamed0264/reddit-sentiment-mcp-server",
+    "html_url": "https://github.com/asmaamohamed0264/reddit-sentiment-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Mohit-Harsh",
+    "name": "AgentforceMCP",
+    "full_name": "Mohit-Harsh/AgentforceMCP",
+    "html_url": "https://github.com/Mohit-Harsh/AgentforceMCP",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "ntrogh",
+    "name": "my-python-mcp-server",
+    "full_name": "ntrogh/my-python-mcp-server",
+    "html_url": "https://github.com/ntrogh/my-python-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "athavala",
+    "name": "POC_MCP_Server_client",
+    "full_name": "athavala/POC_MCP_Server_client",
+    "html_url": "https://github.com/athavala/POC_MCP_Server_client",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "DRITI2906",
+    "name": "LocalFile-MCP-Server",
+    "full_name": "DRITI2906/LocalFile-MCP-Server",
+    "html_url": "https://github.com/DRITI2906/LocalFile-MCP-Server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "HamzaaAftab",
+    "name": "expense-tracker-mcp-server",
+    "full_name": "HamzaaAftab/expense-tracker-mcp-server",
+    "html_url": "https://github.com/HamzaaAftab/expense-tracker-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "arianpasquali",
+    "name": "mcp-server-template-python",
+    "full_name": "arianpasquali/mcp-server-template-python",
+    "html_url": "https://github.com/arianpasquali/mcp-server-template-python",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Gokul-gitman",
+    "name": "mcp-client-server-communication",
+    "full_name": "Gokul-gitman/mcp-client-server-communication",
+    "html_url": "https://github.com/Gokul-gitman/mcp-client-server-communication",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Prabhat9801",
+    "name": "Expence_tracker_MCP_server",
+    "full_name": "Prabhat9801/Expence_tracker_MCP_server",
+    "html_url": "https://github.com/Prabhat9801/Expence_tracker_MCP_server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "deliaworld99-cyber",
+    "name": "mcp-build-chess-server",
+    "full_name": "deliaworld99-cyber/mcp-build-chess-server",
+    "html_url": "https://github.com/deliaworld99-cyber/mcp-build-chess-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "gnews-io",
+    "name": "gnews-io-mcp-server",
+    "full_name": "gnews-io/gnews-io-mcp-server",
+    "html_url": "https://github.com/gnews-io/gnews-io-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "MarioDeFelipe",
+    "name": "sap-datasphere-mcp-server",
+    "full_name": "MarioDeFelipe/sap-datasphere-mcp-server",
+    "html_url": "https://github.com/MarioDeFelipe/sap-datasphere-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "DataScientist00",
+    "name": "MCP-Server-TODO-app",
+    "full_name": "DataScientist00/MCP-Server-TODO-app",
+    "html_url": "https://github.com/DataScientist00/MCP-Server-TODO-app",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "RohitBind123",
+    "name": "expense-tracker-mcp-server",
+    "full_name": "RohitBind123/expense-tracker-mcp-server",
+    "html_url": "https://github.com/RohitBind123/expense-tracker-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "ShiryuCodes",
+    "name": "expense-tracker-mcp-server",
+    "full_name": "ShiryuCodes/expense-tracker-mcp-server",
+    "html_url": "https://github.com/ShiryuCodes/expense-tracker-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "LeonardoYaranga",
+    "name": "mcp-server-net-command",
+    "full_name": "LeonardoYaranga/mcp-server-net-command",
+    "html_url": "https://github.com/LeonardoYaranga/mcp-server-net-command",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "oscar-fern-labs",
+    "name": "historical-facts-mcp-server",
+    "full_name": "oscar-fern-labs/historical-facts-mcp-server",
+    "html_url": "https://github.com/oscar-fern-labs/historical-facts-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "nnennandukwe",
+    "name": "qodo-evil-mcp-server",
+    "full_name": "nnennandukwe/qodo-evil-mcp-server",
+    "html_url": "https://github.com/nnennandukwe/qodo-evil-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Maruf200008",
+    "name": "test-remote-mcp-server",
+    "full_name": "Maruf200008/test-remote-mcp-server",
+    "html_url": "https://github.com/Maruf200008/test-remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "ahmedarif-687",
+    "name": "Cal.com-mcp-server",
+    "full_name": "ahmedarif-687/Cal.com-mcp-server",
+    "html_url": "https://github.com/ahmedarif-687/Cal.com-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "varshney-ansh",
+    "name": "aws-documentation-mcp-server",
+    "full_name": "varshney-ansh/aws-documentation-mcp-server",
+    "html_url": "https://github.com/varshney-ansh/aws-documentation-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "harsherchauhan18",
+    "name": "test-remote-mcp-server",
+    "full_name": "harsherchauhan18/test-remote-mcp-server",
+    "html_url": "https://github.com/harsherchauhan18/test-remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "dashayus",
+    "name": "AliceBlue-MCP-Server",
+    "full_name": "dashayus/AliceBlue-MCP-Server",
+    "html_url": "https://github.com/dashayus/AliceBlue-MCP-Server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "ZeeshanML",
+    "name": "expense-tracker-mcp-server",
+    "full_name": "ZeeshanML/expense-tracker-mcp-server",
+    "html_url": "https://github.com/ZeeshanML/expense-tracker-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "quietstormio",
+    "name": "qs-wmata-mcp-server",
+    "full_name": "quietstormio/qs-wmata-mcp-server",
+    "html_url": "https://github.com/quietstormio/qs-wmata-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "ssRhy",
+    "name": "mcp-server-of-xiaozhi",
+    "full_name": "ssRhy/mcp-server-of-xiaozhi",
+    "html_url": "https://github.com/ssRhy/mcp-server-of-xiaozhi",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "leolech14",
+    "name": "sniper-gun-mcp-server",
+    "full_name": "leolech14/sniper-gun-mcp-server",
+    "html_url": "https://github.com/leolech14/sniper-gun-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "enesgnl",
+    "name": "mcp-server-slides-converter",
+    "full_name": "enesgnl/mcp-server-slides-converter",
+    "html_url": "https://github.com/enesgnl/mcp-server-slides-converter",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "walkerpauldavid",
+    "name": "device_auth_mcp_server",
+    "full_name": "walkerpauldavid/device_auth_mcp_server",
+    "html_url": "https://github.com/walkerpauldavid/device_auth_mcp_server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "amit78kum",
+    "name": "pysr-mcp-server-amit",
+    "full_name": "amit78kum/pysr-mcp-server-amit",
+    "html_url": "https://github.com/amit78kum/pysr-mcp-server-amit",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "MuhammadDastgeer",
+    "name": "Proxy_MCP_Server_App",
+    "full_name": "MuhammadDastgeer/Proxy_MCP_Server_App",
+    "html_url": "https://github.com/MuhammadDastgeer/Proxy_MCP_Server_App",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "bhavuk1409",
+    "name": "expense-tracker-mcp-server",
+    "full_name": "bhavuk1409/expense-tracker-mcp-server",
+    "html_url": "https://github.com/bhavuk1409/expense-tracker-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "pradeepkumargunda",
+    "name": "expense-tracker-mcp-server",
+    "full_name": "pradeepkumargunda/expense-tracker-mcp-server",
+    "html_url": "https://github.com/pradeepkumargunda/expense-tracker-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "happy-rawat1",
+    "name": "ExpenseTracker_MCP_Server",
+    "full_name": "happy-rawat1/ExpenseTracker_MCP_Server",
+    "html_url": "https://github.com/happy-rawat1/ExpenseTracker_MCP_Server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "bharatsuradkar09",
+    "name": "test-remote-mcp-server",
+    "full_name": "bharatsuradkar09/test-remote-mcp-server",
+    "html_url": "https://github.com/bharatsuradkar09/test-remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "iasjkk",
+    "name": "test-remote-mcp-server",
+    "full_name": "iasjkk/test-remote-mcp-server",
+    "html_url": "https://github.com/iasjkk/test-remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "rajeshgoyalg",
+    "name": "expense-tracker-mcp-server",
+    "full_name": "rajeshgoyalg/expense-tracker-mcp-server",
+    "html_url": "https://github.com/rajeshgoyalg/expense-tracker-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "SalmanFaris7",
+    "name": "kali-pentest-mcp-server",
+    "full_name": "SalmanFaris7/kali-pentest-mcp-server",
+    "html_url": "https://github.com/SalmanFaris7/kali-pentest-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "bisVo159",
+    "name": "Expense-tracker-mcp-server",
+    "full_name": "bisVo159/Expense-tracker-mcp-server",
+    "html_url": "https://github.com/bisVo159/Expense-tracker-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "David-mo",
+    "name": "fb-ads-mcp-server",
+    "full_name": "David-mo/fb-ads-mcp-server",
+    "html_url": "https://github.com/David-mo/fb-ads-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "topiclakeinsights-crypto",
+    "name": "topiclake-mcp-server-typescript",
+    "full_name": "topiclakeinsights-crypto/topiclake-mcp-server-typescript",
+    "html_url": "https://github.com/topiclakeinsights-crypto/topiclake-mcp-server-typescript",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "rajeshgoyalg",
+    "name": "test-remote-mcp-server",
+    "full_name": "rajeshgoyalg/test-remote-mcp-server",
+    "html_url": "https://github.com/rajeshgoyalg/test-remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "raajshekhar19",
+    "name": "Local-MCP-server-basics",
+    "full_name": "raajshekhar19/Local-MCP-server-basics",
+    "html_url": "https://github.com/raajshekhar19/Local-MCP-server-basics",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "gonzalalli",
+    "name": "mcp-server-http-streamable",
+    "full_name": "gonzalalli/mcp-server-http-streamable",
+    "html_url": "https://github.com/gonzalalli/mcp-server-http-streamable",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alicenjr",
+    "name": "BeautifulSoup-MCP-Server",
+    "full_name": "alicenjr/BeautifulSoup-MCP-Server",
+    "html_url": "https://github.com/alicenjr/BeautifulSoup-MCP-Server",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dhevenb",
+    "name": "dheven-spec3-mcp-server",
+    "full_name": "dhevenb/dheven-spec3-mcp-server",
+    "html_url": "https://github.com/dhevenb/dheven-spec3-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "mrosata",
+    "name": "mcp-fhir",
+    "full_name": "mrosata/mcp-fhir",
+    "html_url": "https://github.com/mrosata/mcp-fhir",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "shahinvx",
+    "name": "MCP.vx",
+    "full_name": "shahinvx/MCP.vx",
+    "html_url": "https://github.com/shahinvx/MCP.vx",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "NimbleBrainInc",
+    "name": "mcp-github",
+    "full_name": "NimbleBrainInc/mcp-github",
+    "html_url": "https://github.com/NimbleBrainInc/mcp-github",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "ohnotnow",
+    "name": "ytdlp-mcp",
+    "full_name": "ohnotnow/ytdlp-mcp",
+    "html_url": "https://github.com/ohnotnow/ytdlp-mcp",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "oilst",
+    "name": "kraken-mcp",
+    "full_name": "oilst/kraken-mcp",
+    "html_url": "https://github.com/oilst/kraken-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "duranbe",
+    "name": "weather-mcp",
+    "full_name": "duranbe/weather-mcp",
+    "html_url": "https://github.com/duranbe/weather-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "berkbirkan",
+    "name": "sora-mcp",
+    "full_name": "berkbirkan/sora-mcp",
+    "html_url": "https://github.com/berkbirkan/sora-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "JaineelPandya",
+    "name": "aadhar_mcp",
+    "full_name": "JaineelPandya/aadhar_mcp",
+    "html_url": "https://github.com/JaineelPandya/aadhar_mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "slyderc",
+    "name": "climate_mssql_mcp",
+    "full_name": "slyderc/climate_mssql_mcp",
+    "html_url": "https://github.com/slyderc/climate_mssql_mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "kumarAbhishek2004",
+    "name": "mcp-expense_manage",
+    "full_name": "kumarAbhishek2004/mcp-expense_manage",
+    "html_url": "https://github.com/kumarAbhishek2004/mcp-expense_manage",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "devnullvoid",
+    "name": "mcp-ssh-session",
+    "full_name": "devnullvoid/mcp-ssh-session",
+    "html_url": "https://github.com/devnullvoid/mcp-ssh-session",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "skywall34",
+    "name": "trip-tracker-mcp",
+    "full_name": "skywall34/trip-tracker-mcp",
+    "html_url": "https://github.com/skywall34/trip-tracker-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "chrisguidry",
+    "name": "etrade-mcp",
+    "full_name": "chrisguidry/etrade-mcp",
+    "html_url": "https://github.com/chrisguidry/etrade-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "jpalvarezb",
+    "name": "meta_graph_mcp",
+    "full_name": "jpalvarezb/meta_graph_mcp",
+    "html_url": "https://github.com/jpalvarezb/meta_graph_mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "memoriesdead",
+    "name": "SupabaseMCP-Server-custom-made",
+    "full_name": "memoriesdead/SupabaseMCP-Server-custom-made",
+    "html_url": "https://github.com/memoriesdead/SupabaseMCP-Server-custom-made",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "beedev",
+    "name": "MCP-Provenance",
+    "full_name": "beedev/MCP-Provenance",
+    "html_url": "https://github.com/beedev/MCP-Provenance",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "vashisthrahul13",
+    "name": "mcp-remote",
+    "full_name": "vashisthrahul13/mcp-remote",
+    "html_url": "https://github.com/vashisthrahul13/mcp-remote",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "tebinraouf",
+    "name": "hue-mcp",
+    "full_name": "tebinraouf/hue-mcp",
+    "html_url": "https://github.com/tebinraouf/hue-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Varun20112001",
+    "name": "Youtube-MCP",
+    "full_name": "Varun20112001/Youtube-MCP",
+    "html_url": "https://github.com/Varun20112001/Youtube-MCP",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "gopalsab",
+    "name": "scheduler-migration-toolkit-mcp-server",
+    "full_name": "gopalsab/scheduler-migration-toolkit-mcp-server",
+    "html_url": "https://github.com/gopalsab/scheduler-migration-toolkit-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "PankajSAgarwal",
+    "name": "simple-mcp-client-server-python",
+    "full_name": "PankajSAgarwal/simple-mcp-client-server-python",
+    "html_url": "https://github.com/PankajSAgarwal/simple-mcp-client-server-python",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "lyantovski",
+    "name": "mcp-servers-multiple-python-instrumentation",
+    "full_name": "lyantovski/mcp-servers-multiple-python-instrumentation",
+    "html_url": "https://github.com/lyantovski/mcp-servers-multiple-python-instrumentation",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "jhderojasUVa",
+    "name": "mcp2api",
+    "full_name": "jhderojasUVa/mcp2api",
+    "html_url": "https://github.com/jhderojasUVa/mcp2api",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "sudhanshu2043",
+    "name": "Expense_Tracker_mcp_remote_server",
+    "full_name": "sudhanshu2043/Expense_Tracker_mcp_remote_server",
+    "html_url": "https://github.com/sudhanshu2043/Expense_Tracker_mcp_remote_server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "zimejin07",
+    "name": "Simple-Note-Taking-MCP-Server",
+    "full_name": "zimejin07/Simple-Note-Taking-MCP-Server",
+    "html_url": "https://github.com/zimejin07/Simple-Note-Taking-MCP-Server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Ani2599",
+    "name": "Expense_tracker",
+    "full_name": "Ani2599/Expense_tracker",
+    "html_url": "https://github.com/Ani2599/Expense_tracker",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "nordeim",
+    "name": "Security-MCP-Server-v3",
+    "full_name": "nordeim/Security-MCP-Server-v3",
+    "html_url": "https://github.com/nordeim/Security-MCP-Server-v3",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "niladri54",
+    "name": "test-demo-local-mcp-server",
+    "full_name": "niladri54/test-demo-local-mcp-server",
+    "html_url": "https://github.com/niladri54/test-demo-local-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "saikat37",
+    "name": "expense-tracker-remote-MCP-Server",
+    "full_name": "saikat37/expense-tracker-remote-MCP-Server",
+    "html_url": "https://github.com/saikat37/expense-tracker-remote-MCP-Server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Surya-KF",
+    "name": "Expenses-Tracker---MCP-Server-_Client",
+    "full_name": "Surya-KF/Expenses-Tracker---MCP-Server-_Client",
+    "html_url": "https://github.com/Surya-KF/Expenses-Tracker---MCP-Server-_Client",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "manav8826",
+    "name": "MCP_EXPENSE_TRACKER",
+    "full_name": "manav8826/MCP_EXPENSE_TRACKER",
+    "html_url": "https://github.com/manav8826/MCP_EXPENSE_TRACKER",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "neil-ac",
+    "name": "send-email-mcp",
+    "full_name": "neil-ac/send-email-mcp",
+    "html_url": "https://github.com/neil-ac/send-email-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "thiagomendes",
+    "name": "poc-mcp-server-with-proxy",
+    "full_name": "thiagomendes/poc-mcp-server-with-proxy",
+    "html_url": "https://github.com/thiagomendes/poc-mcp-server-with-proxy",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Praveen-MIRJI",
+    "name": "Expense-Tracker-MCP-Remote-Server",
+    "full_name": "Praveen-MIRJI/Expense-Tracker-MCP-Remote-Server",
+    "html_url": "https://github.com/Praveen-MIRJI/Expense-Tracker-MCP-Remote-Server",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "8297689202",
+    "name": "Expense-tracker-Remote-Mcp-server",
+    "full_name": "8297689202/Expense-tracker-Remote-Mcp-server",
+    "html_url": "https://github.com/8297689202/Expense-tracker-Remote-Mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "anilpraneeth",
+    "name": "coding-best-practices-mcp-server",
+    "full_name": "anilpraneeth/coding-best-practices-mcp-server",
+    "html_url": "https://github.com/anilpraneeth/coding-best-practices-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Sugun-ravipalli",
+    "name": "snowflake-Cortex-agent-mcp-server",
+    "full_name": "Sugun-ravipalli/snowflake-Cortex-agent-mcp-server",
+    "html_url": "https://github.com/Sugun-ravipalli/snowflake-Cortex-agent-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Deepak-Leveledge",
+    "name": "Expenses-tracker-remote-mcp-server",
+    "full_name": "Deepak-Leveledge/Expenses-tracker-remote-mcp-server",
+    "html_url": "https://github.com/Deepak-Leveledge/Expenses-tracker-remote-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "tusharmishra288",
+    "name": "mcp_proj_remote",
+    "full_name": "tusharmishra288/mcp_proj_remote",
+    "html_url": "https://github.com/tusharmishra288/mcp_proj_remote",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "RezzFayyazi",
+    "name": "AI4IA-MCP-Server",
+    "full_name": "RezzFayyazi/AI4IA-MCP-Server",
+    "html_url": "https://github.com/RezzFayyazi/AI4IA-MCP-Server",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "masaomi",
+    "name": "minimal_sushi_mcp_server_2025",
+    "full_name": "masaomi/minimal_sushi_mcp_server_2025",
+    "html_url": "https://github.com/masaomi/minimal_sushi_mcp_server_2025",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "AusierNeto",
+    "name": "Fast-MCP-Application",
+    "full_name": "AusierNeto/Fast-MCP-Application",
+    "html_url": "https://github.com/AusierNeto/Fast-MCP-Application",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "tonkatsutoast",
+    "name": "doc_processor_mcp",
+    "full_name": "tonkatsutoast/doc_processor_mcp",
+    "html_url": "https://github.com/tonkatsutoast/doc_processor_mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "neil-ac",
+    "name": "property-search-mcp",
+    "full_name": "neil-ac/property-search-mcp",
+    "html_url": "https://github.com/neil-ac/property-search-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "praveen647",
+    "name": "GoogleMaps-MCP",
+    "full_name": "praveen647/GoogleMaps-MCP",
+    "html_url": "https://github.com/praveen647/GoogleMaps-MCP",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "ry-ops",
+    "name": "n8n-mcp-server",
+    "full_name": "ry-ops/n8n-mcp-server",
+    "html_url": "https://github.com/ry-ops/n8n-mcp-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "saikat37",
+    "name": "expense-tracker-mcp-local-server",
+    "full_name": "saikat37/expense-tracker-mcp-local-server",
+    "html_url": "https://github.com/saikat37/expense-tracker-mcp-local-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "MuhammadDastgeer",
+    "name": "First_Remote-_Mcp_Server_App",
+    "full_name": "MuhammadDastgeer/First_Remote-_Mcp_Server_App",
+    "html_url": "https://github.com/MuhammadDastgeer/First_Remote-_Mcp_Server_App",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Red5d",
+    "name": "memos_mcp",
+    "full_name": "Red5d/memos_mcp",
+    "html_url": "https://github.com/Red5d/memos_mcp",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "TimWue",
+    "name": "mcp-auth",
+    "full_name": "TimWue/mcp-auth",
+    "html_url": "https://github.com/TimWue/mcp-auth",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "ag1357",
+    "name": "hkc-memory-server",
+    "full_name": "ag1357/hkc-memory-server",
+    "html_url": "https://github.com/ag1357/hkc-memory-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "cloudbro-draupnir",
+    "name": "mcp-sesrver",
+    "full_name": "cloudbro-draupnir/mcp-sesrver",
+    "html_url": "https://github.com/cloudbro-draupnir/mcp-sesrver",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "cyverse-de",
+    "name": "formation-mcp",
+    "full_name": "cyverse-de/formation-mcp",
+    "html_url": "https://github.com/cyverse-de/formation-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "RuslanPeresy",
+    "name": "mcp-example",
+    "full_name": "RuslanPeresy/mcp-example",
+    "html_url": "https://github.com/RuslanPeresy/mcp-example",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "benwilkes9",
+    "name": "obsidian-mcp",
+    "full_name": "benwilkes9/obsidian-mcp",
+    "html_url": "https://github.com/benwilkes9/obsidian-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "maxholman",
+    "name": "mcp-gdbmi",
+    "full_name": "maxholman/mcp-gdbmi",
+    "html_url": "https://github.com/maxholman/mcp-gdbmi",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "0xGval",
+    "name": "evm-python-mcp",
+    "full_name": "0xGval/evm-python-mcp",
+    "html_url": "https://github.com/0xGval/evm-python-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "eXpire163",
+    "name": "mcp_dice_roller",
+    "full_name": "eXpire163/mcp_dice_roller",
+    "html_url": "https://github.com/eXpire163/mcp_dice_roller",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "dgalarza",
+    "name": "ynab-mcp-dgalarza",
+    "full_name": "dgalarza/ynab-mcp-dgalarza",
+    "html_url": "https://github.com/dgalarza/ynab-mcp-dgalarza",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Wayy-Research",
+    "name": "notion-mcp",
+    "full_name": "Wayy-Research/notion-mcp",
+    "html_url": "https://github.com/Wayy-Research/notion-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "markuskreitzer",
+    "name": "picoscope_mcp",
+    "full_name": "markuskreitzer/picoscope_mcp",
+    "html_url": "https://github.com/markuskreitzer/picoscope_mcp",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "kishanrao92",
+    "name": "infra-mcp",
+    "full_name": "kishanrao92/infra-mcp",
+    "html_url": "https://github.com/kishanrao92/infra-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "akilat-spec",
+    "name": "leave-manager-mcp",
+    "full_name": "akilat-spec/leave-manager-mcp",
+    "html_url": "https://github.com/akilat-spec/leave-manager-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "rumbleveer-spec",
+    "name": "eklavya-mcp",
+    "full_name": "rumbleveer-spec/eklavya-mcp",
+    "html_url": "https://github.com/rumbleveer-spec/eklavya-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "GhufranBarcha",
+    "name": "fastmcp-demo-remote-server",
+    "full_name": "GhufranBarcha/fastmcp-demo-remote-server",
+    "html_url": "https://github.com/GhufranBarcha/fastmcp-demo-remote-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "oshea00",
+    "name": "tavily-mcp",
+    "full_name": "oshea00/tavily-mcp",
+    "html_url": "https://github.com/oshea00/tavily-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Kamaljit12",
+    "name": "getting-started-with-mcp",
+    "full_name": "Kamaljit12/getting-started-with-mcp",
+    "html_url": "https://github.com/Kamaljit12/getting-started-with-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Deepak-Leveledge",
+    "name": "Demo-server-mcp-with-claude-Desktop",
+    "full_name": "Deepak-Leveledge/Demo-server-mcp-with-claude-Desktop",
+    "html_url": "https://github.com/Deepak-Leveledge/Demo-server-mcp-with-claude-Desktop",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Yash-Pandey007",
+    "name": "kali-pentest-mcp-server-v2",
+    "full_name": "Yash-Pandey007/kali-pentest-mcp-server-v2",
+    "html_url": "https://github.com/Yash-Pandey007/kali-pentest-mcp-server-v2",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "geneontology",
+    "name": "noctua-mcp",
+    "full_name": "geneontology/noctua-mcp",
+    "html_url": "https://github.com/geneontology/noctua-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "stancld",
+    "name": "rossum-mcp",
+    "full_name": "stancld/rossum-mcp",
+    "html_url": "https://github.com/stancld/rossum-mcp",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "alexcantarero",
+    "name": "MCPServer-Flights",
+    "full_name": "alexcantarero/MCPServer-Flights",
+    "html_url": "https://github.com/alexcantarero/MCPServer-Flights",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "granludo",
+    "name": "postgresql_mcp_lite",
+    "full_name": "granludo/postgresql_mcp_lite",
+    "html_url": "https://github.com/granludo/postgresql_mcp_lite",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "JacqCrous",
+    "name": "mcp_example",
+    "full_name": "JacqCrous/mcp_example",
+    "html_url": "https://github.com/JacqCrous/mcp_example",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "aihehuo",
+    "name": "aihehuo_mcp",
+    "full_name": "aihehuo/aihehuo_mcp",
+    "html_url": "https://github.com/aihehuo/aihehuo_mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "pragyanaischool",
+    "name": "Super_30_MCP_YoutubeSearch_Server",
+    "full_name": "pragyanaischool/Super_30_MCP_YoutubeSearch_Server",
+    "html_url": "https://github.com/pragyanaischool/Super_30_MCP_YoutubeSearch_Server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "xinrong-meng",
+    "name": "daily-work-status-mcp",
+    "full_name": "xinrong-meng/daily-work-status-mcp",
+    "html_url": "https://github.com/xinrong-meng/daily-work-status-mcp",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "shiragannavar",
+    "name": "Demo-MCP-server-for-Managing-Fruits",
+    "full_name": "shiragannavar/Demo-MCP-server-for-Managing-Fruits",
+    "html_url": "https://github.com/shiragannavar/Demo-MCP-server-for-Managing-Fruits",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "anandharidas",
+    "name": "anthropic-eg-sampling",
+    "full_name": "anandharidas/anthropic-eg-sampling",
+    "html_url": "https://github.com/anandharidas/anthropic-eg-sampling",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "soyrochus",
+    "name": "escarabajo",
+    "full_name": "soyrochus/escarabajo",
+    "html_url": "https://github.com/soyrochus/escarabajo",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "TEBIAN",
+    "name": "gemini-repo",
+    "full_name": "TEBIAN/gemini-repo",
+    "html_url": "https://github.com/TEBIAN/gemini-repo",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "jwilger",
+    "name": "mcp-pytest-runner",
+    "full_name": "jwilger/mcp-pytest-runner",
+    "html_url": "https://github.com/jwilger/mcp-pytest-runner",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "bartmichalak",
+    "name": "fit-happens-mcp",
+    "full_name": "bartmichalak/fit-happens-mcp",
+    "html_url": "https://github.com/bartmichalak/fit-happens-mcp",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "nosolosoft",
+    "name": "ccglm-mcp",
+    "full_name": "nosolosoft/ccglm-mcp",
+    "html_url": "https://github.com/nosolosoft/ccglm-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Ravenight13",
+    "name": "codebase-mcp",
+    "full_name": "Ravenight13/codebase-mcp",
+    "html_url": "https://github.com/Ravenight13/codebase-mcp",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "SilVerBell0109",
+    "name": "etirement-planning-mcp",
+    "full_name": "SilVerBell0109/etirement-planning-mcp",
+    "html_url": "https://github.com/SilVerBell0109/etirement-planning-mcp",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "AIBlockOfficial",
+    "name": "modelcontextprotocol",
+    "full_name": "AIBlockOfficial/modelcontextprotocol",
+    "html_url": "https://github.com/AIBlockOfficial/modelcontextprotocol",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "dp-pcs",
+    "name": "noah_hw_mcp",
+    "full_name": "dp-pcs/noah_hw_mcp",
+    "html_url": "https://github.com/dp-pcs/noah_hw_mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Wuodan",
+    "name": "mcp-base64",
+    "full_name": "Wuodan/mcp-base64",
+    "html_url": "https://github.com/Wuodan/mcp-base64",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "ViktorMotor",
+    "name": "mcp-comet-browser",
+    "full_name": "ViktorMotor/mcp-comet-browser",
+    "html_url": "https://github.com/ViktorMotor/mcp-comet-browser",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "samirsaci",
+    "name": "mcp-webscraper",
+    "full_name": "samirsaci/mcp-webscraper",
+    "html_url": "https://github.com/samirsaci/mcp-webscraper",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "everdeep",
+    "name": "yfinance-mcp",
+    "full_name": "everdeep/yfinance-mcp",
+    "html_url": "https://github.com/everdeep/yfinance-mcp",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "scarr7981",
+    "name": "engmanager-mcp",
+    "full_name": "scarr7981/engmanager-mcp",
+    "html_url": "https://github.com/scarr7981/engmanager-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "jritsema",
+    "name": "agentcore-runtime-mcp",
+    "full_name": "jritsema/agentcore-runtime-mcp",
+    "html_url": "https://github.com/jritsema/agentcore-runtime-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "kuzhang",
+    "name": "picture2excel-mcp",
+    "full_name": "kuzhang/picture2excel-mcp",
+    "html_url": "https://github.com/kuzhang/picture2excel-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "egrigokhan",
+    "name": "brainbase-mcp",
+    "full_name": "egrigokhan/brainbase-mcp",
+    "html_url": "https://github.com/egrigokhan/brainbase-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "ramarimei",
+    "name": "healthcare-compliance-mcp",
+    "full_name": "ramarimei/healthcare-compliance-mcp",
+    "html_url": "https://github.com/ramarimei/healthcare-compliance-mcp",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "harrysayers7",
+    "name": "claudelife-obsidian-mcp",
+    "full_name": "harrysayers7/claudelife-obsidian-mcp",
+    "html_url": "https://github.com/harrysayers7/claudelife-obsidian-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "anaskhaann",
+    "name": "MCP_Tutorials",
+    "full_name": "anaskhaann/MCP_Tutorials",
+    "html_url": "https://github.com/anaskhaann/MCP_Tutorials",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "akilat-spec",
+    "name": "tt-leave-manager-mcp",
+    "full_name": "akilat-spec/tt-leave-manager-mcp",
+    "html_url": "https://github.com/akilat-spec/tt-leave-manager-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Shailender-Youtube",
+    "name": "Azure-AI-Agent-Remote-MCP",
+    "full_name": "Shailender-Youtube/Azure-AI-Agent-Remote-MCP",
+    "html_url": "https://github.com/Shailender-Youtube/Azure-AI-Agent-Remote-MCP",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Pavel730309",
+    "name": "VCc02.Using_MCP_servers_in_Cursor",
+    "full_name": "Pavel730309/VCc02.Using_MCP_servers_in_Cursor",
+    "html_url": "https://github.com/Pavel730309/VCc02.Using_MCP_servers_in_Cursor",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "geq1fan",
+    "name": "context-mcp",
+    "full_name": "geq1fan/context-mcp",
+    "html_url": "https://github.com/geq1fan/context-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "sasaoka-company",
+    "name": "jsfit-helpdesk-rag_mcp_server_http_01",
+    "full_name": "sasaoka-company/jsfit-helpdesk-rag_mcp_server_http_01",
+    "html_url": "https://github.com/sasaoka-company/jsfit-helpdesk-rag_mcp_server_http_01",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "sasaoka-company",
+    "name": "jsfit-helpdesk-rag_mcp_server_stdio_02",
+    "full_name": "sasaoka-company/jsfit-helpdesk-rag_mcp_server_stdio_02",
+    "html_url": "https://github.com/sasaoka-company/jsfit-helpdesk-rag_mcp_server_stdio_02",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "itsmethahseer",
+    "name": "MCP-servers-with-Strands-framworks-for-Agents",
+    "full_name": "itsmethahseer/MCP-servers-with-Strands-framworks-for-Agents",
+    "html_url": "https://github.com/itsmethahseer/MCP-servers-with-Strands-framworks-for-Agents",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "BilalAltundag",
+    "name": "Audio-Intelligence-MCP",
+    "full_name": "BilalAltundag/Audio-Intelligence-MCP",
+    "html_url": "https://github.com/BilalAltundag/Audio-Intelligence-MCP",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "pragyanaischool",
+    "name": "Super30_FastMCP_Stock_info_Server",
+    "full_name": "pragyanaischool/Super30_FastMCP_Stock_info_Server",
+    "html_url": "https://github.com/pragyanaischool/Super30_FastMCP_Stock_info_Server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "joshmsimpson",
+    "name": "ExifTool_MCP",
+    "full_name": "joshmsimpson/ExifTool_MCP",
+    "html_url": "https://github.com/joshmsimpson/ExifTool_MCP",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "lev-corrupted",
+    "name": "CryptoPortfolioMCPServer",
+    "full_name": "lev-corrupted/CryptoPortfolioMCPServer",
+    "html_url": "https://github.com/lev-corrupted/CryptoPortfolioMCPServer",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "sasaoka-company",
+    "name": "jsfit-helpdesk-rag_mcp_server_stdio_01",
+    "full_name": "sasaoka-company/jsfit-helpdesk-rag_mcp_server_stdio_01",
+    "html_url": "https://github.com/sasaoka-company/jsfit-helpdesk-rag_mcp_server_stdio_01",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "AryanDadhich26",
+    "name": "MCP_expensetracker_1",
+    "full_name": "AryanDadhich26/MCP_expensetracker_1",
+    "html_url": "https://github.com/AryanDadhich26/MCP_expensetracker_1",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "D-Beech",
+    "name": "pikachu_mcp",
+    "full_name": "D-Beech/pikachu_mcp",
+    "html_url": "https://github.com/D-Beech/pikachu_mcp",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sasaoka-company",
+    "name": "jsfit-helpdesk-rag_mcp_server_http_02",
+    "full_name": "sasaoka-company/jsfit-helpdesk-rag_mcp_server_http_02",
+    "html_url": "https://github.com/sasaoka-company/jsfit-helpdesk-rag_mcp_server_http_02",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "theraaz",
+    "name": "code-context-manager-mcp",
+    "full_name": "theraaz/code-context-manager-mcp",
+    "html_url": "https://github.com/theraaz/code-context-manager-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "jl0703",
+    "name": "yfinance-mcp",
+    "full_name": "jl0703/yfinance-mcp",
+    "html_url": "https://github.com/jl0703/yfinance-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Leopaexd",
+    "name": "smhi-mcp",
+    "full_name": "Leopaexd/smhi-mcp",
+    "html_url": "https://github.com/Leopaexd/smhi-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "zendrix396",
+    "name": "trainbooking-mcp",
+    "full_name": "zendrix396/trainbooking-mcp",
+    "html_url": "https://github.com/zendrix396/trainbooking-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "scottlaw1",
+    "name": "mcp-client",
+    "full_name": "scottlaw1/mcp-client",
+    "html_url": "https://github.com/scottlaw1/mcp-client",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "apkotl",
+    "name": "synology-n8n",
+    "full_name": "apkotl/synology-n8n",
+    "html_url": "https://github.com/apkotl/synology-n8n",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "CaseyRo",
+    "name": "mac_shortcuts_mcp",
+    "full_name": "CaseyRo/mac_shortcuts_mcp",
+    "html_url": "https://github.com/CaseyRo/mac_shortcuts_mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "asabla",
+    "name": "mcp-dataportal",
+    "full_name": "asabla/mcp-dataportal",
+    "html_url": "https://github.com/asabla/mcp-dataportal",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "seagram",
+    "name": "typst-mcp",
+    "full_name": "seagram/typst-mcp",
+    "html_url": "https://github.com/seagram/typst-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "KeMaSF",
+    "name": "RAG_k8s",
+    "full_name": "KeMaSF/RAG_k8s",
+    "html_url": "https://github.com/KeMaSF/RAG_k8s",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "suryaashish130703",
+    "name": "powerpoint-automation-agent",
+    "full_name": "suryaashish130703/powerpoint-automation-agent",
+    "html_url": "https://github.com/suryaashish130703/powerpoint-automation-agent",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "s-morgan-jeffries",
+    "name": "omnifocus-mcp",
+    "full_name": "s-morgan-jeffries/omnifocus-mcp",
+    "html_url": "https://github.com/s-morgan-jeffries/omnifocus-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "SurriyaGokul",
+    "name": "SysMCP",
+    "full_name": "SurriyaGokul/SysMCP",
+    "html_url": "https://github.com/SurriyaGokul/SysMCP",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "anuibm25",
+    "name": "aws-terraform-rules-mcp",
+    "full_name": "anuibm25/aws-terraform-rules-mcp",
+    "html_url": "https://github.com/anuibm25/aws-terraform-rules-mcp",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "codeprimate",
+    "name": "searxng_docker",
+    "full_name": "codeprimate/searxng_docker",
+    "html_url": "https://github.com/codeprimate/searxng_docker",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "bibiibjorn-Finvision",
+    "name": "MCP-PowerBi_Finvision",
+    "full_name": "bibiibjorn-Finvision/MCP-PowerBi_Finvision",
+    "html_url": "https://github.com/bibiibjorn-Finvision/MCP-PowerBi_Finvision",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "lava",
+    "name": "mcp-spawn-agent",
+    "full_name": "lava/mcp-spawn-agent",
+    "html_url": "https://github.com/lava/mcp-spawn-agent",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "junkreef",
+    "name": "mcp-manual-walker",
+    "full_name": "junkreef/mcp-manual-walker",
+    "html_url": "https://github.com/junkreef/mcp-manual-walker",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "jayeshchowdary",
+    "name": "lifi-mcp",
+    "full_name": "jayeshchowdary/lifi-mcp",
+    "html_url": "https://github.com/jayeshchowdary/lifi-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "getjotsu",
+    "name": "google_calendar_mcp",
+    "full_name": "getjotsu/google_calendar_mcp",
+    "html_url": "https://github.com/getjotsu/google_calendar_mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "acapuccio-2303",
+    "name": "mcp_file_explorer",
+    "full_name": "acapuccio-2303/mcp_file_explorer",
+    "html_url": "https://github.com/acapuccio-2303/mcp_file_explorer",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "jacklatrobe",
+    "name": "ASX_MCP",
+    "full_name": "jacklatrobe/ASX_MCP",
+    "html_url": "https://github.com/jacklatrobe/ASX_MCP",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Spinnable-AI",
+    "name": "publer-mcp",
+    "full_name": "Spinnable-AI/publer-mcp",
+    "html_url": "https://github.com/Spinnable-AI/publer-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "magnusmccune",
+    "name": "FastMCP_ContextLayer",
+    "full_name": "magnusmccune/FastMCP_ContextLayer",
+    "html_url": "https://github.com/magnusmccune/FastMCP_ContextLayer",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "reagent-systems",
+    "name": "mcp-x-posting",
+    "full_name": "reagent-systems/mcp-x-posting",
+    "html_url": "https://github.com/reagent-systems/mcp-x-posting",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "gloveboxes",
+    "name": "Ignite-Zava-MCP-Server-and-PostgreSQL-Sample",
+    "full_name": "gloveboxes/Ignite-Zava-MCP-Server-and-PostgreSQL-Sample",
+    "html_url": "https://github.com/gloveboxes/Ignite-Zava-MCP-Server-and-PostgreSQL-Sample",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "lofyer",
+    "name": "mcp-proxy-in-docker",
+    "full_name": "lofyer/mcp-proxy-in-docker",
+    "html_url": "https://github.com/lofyer/mcp-proxy-in-docker",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "cockroach-eater",
+    "name": "mm-mcp",
+    "full_name": "cockroach-eater/mm-mcp",
+    "html_url": "https://github.com/cockroach-eater/mm-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "sasaoka-company",
+    "name": "jsfit-helpdesk-poc-sample_rag_mcp_server_http",
+    "full_name": "sasaoka-company/jsfit-helpdesk-poc-sample_rag_mcp_server_http",
+    "html_url": "https://github.com/sasaoka-company/jsfit-helpdesk-poc-sample_rag_mcp_server_http",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "cerby0n",
+    "name": "volatility-mcp",
+    "full_name": "cerby0n/volatility-mcp",
+    "html_url": "https://github.com/cerby0n/volatility-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "DarienSirius",
+    "name": "mcp-gh-project",
+    "full_name": "DarienSirius/mcp-gh-project",
+    "html_url": "https://github.com/DarienSirius/mcp-gh-project",
+    "stargazers_count": 0,
+    "default_branch": "refactor/resource-crud-architecture"
+  },
+  {
+    "owner": "vemonet",
+    "name": "openroute-mcp",
+    "full_name": "vemonet/openroute-mcp",
+    "html_url": "https://github.com/vemonet/openroute-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "sasaoka-company",
+    "name": "jsfit-helpdesk-poc-sample_rag_mcp_server_stdio",
+    "full_name": "sasaoka-company/jsfit-helpdesk-poc-sample_rag_mcp_server_stdio",
+    "html_url": "https://github.com/sasaoka-company/jsfit-helpdesk-poc-sample_rag_mcp_server_stdio",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "GyanPrakash2483",
+    "name": "CryptoMCP",
+    "full_name": "GyanPrakash2483/CryptoMCP",
+    "html_url": "https://github.com/GyanPrakash2483/CryptoMCP",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "fredrik-hultin",
+    "name": "cwayMCP",
+    "full_name": "fredrik-hultin/cwayMCP",
+    "html_url": "https://github.com/fredrik-hultin/cwayMCP",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "MaxBush6299",
+    "name": "semantic-kernel-mcp",
+    "full_name": "MaxBush6299/semantic-kernel-mcp",
+    "html_url": "https://github.com/MaxBush6299/semantic-kernel-mcp",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "jayeshchowdary",
+    "name": "defillama-mcp",
+    "full_name": "jayeshchowdary/defillama-mcp",
+    "html_url": "https://github.com/jayeshchowdary/defillama-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "DJ-no1",
+    "name": "expense-tracker-mcp",
+    "full_name": "DJ-no1/expense-tracker-mcp",
+    "html_url": "https://github.com/DJ-no1/expense-tracker-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "inmydata",
+    "name": "AgentMCP",
+    "full_name": "inmydata/AgentMCP",
+    "html_url": "https://github.com/inmydata/AgentMCP",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Clement-Okolo",
+    "name": "Weather-MCP",
+    "full_name": "Clement-Okolo/Weather-MCP",
+    "html_url": "https://github.com/Clement-Okolo/Weather-MCP",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "kartik0905",
+    "name": "mcp-agent",
+    "full_name": "kartik0905/mcp-agent",
+    "html_url": "https://github.com/kartik0905/mcp-agent",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "diffbot",
+    "name": "diffbot-mcp",
+    "full_name": "diffbot/diffbot-mcp",
+    "html_url": "https://github.com/diffbot/diffbot-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "junnaisystems",
+    "name": "Zoho-CRM-MCP",
+    "full_name": "junnaisystems/Zoho-CRM-MCP",
+    "html_url": "https://github.com/junnaisystems/Zoho-CRM-MCP",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "heysanjeev1110",
+    "name": "GMAIL_MCP_Usage",
+    "full_name": "heysanjeev1110/GMAIL_MCP_Usage",
+    "html_url": "https://github.com/heysanjeev1110/GMAIL_MCP_Usage",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "sdnovation",
+    "name": "simple_MCP",
+    "full_name": "sdnovation/simple_MCP",
+    "html_url": "https://github.com/sdnovation/simple_MCP",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "pro-vi",
+    "name": "mcp-filter",
+    "full_name": "pro-vi/mcp-filter",
+    "html_url": "https://github.com/pro-vi/mcp-filter",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "thomaschi78",
+    "name": "datacommons-mcp",
+    "full_name": "thomaschi78/datacommons-mcp",
+    "html_url": "https://github.com/thomaschi78/datacommons-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Arbyam",
+    "name": "powerbi-mcp-ai-connector",
+    "full_name": "Arbyam/powerbi-mcp-ai-connector",
+    "html_url": "https://github.com/Arbyam/powerbi-mcp-ai-connector",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "stanta",
+    "name": "multisearch-mcp",
+    "full_name": "stanta/multisearch-mcp",
+    "html_url": "https://github.com/stanta/multisearch-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "cakemail",
+    "name": "cakemail-api-documentation-mcp",
+    "full_name": "cakemail/cakemail-api-documentation-mcp",
+    "html_url": "https://github.com/cakemail/cakemail-api-documentation-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "KenkoGeek",
+    "name": "mcp-gh-code-review",
+    "full_name": "KenkoGeek/mcp-gh-code-review",
+    "html_url": "https://github.com/KenkoGeek/mcp-gh-code-review",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "stephaneberle9",
+    "name": "authful-mcp-proxy",
+    "full_name": "stephaneberle9/authful-mcp-proxy",
+    "html_url": "https://github.com/stephaneberle9/authful-mcp-proxy",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "fredac100",
+    "name": "elasticsearch-memory-mcp",
+    "full_name": "fredac100/elasticsearch-memory-mcp",
+    "html_url": "https://github.com/fredac100/elasticsearch-memory-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "eesb99",
+    "name": "monte-carlo-mcp",
+    "full_name": "eesb99/monte-carlo-mcp",
+    "html_url": "https://github.com/eesb99/monte-carlo-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "snapby",
+    "name": "snapture-quickdata-mcp",
+    "full_name": "snapby/snapture-quickdata-mcp",
+    "html_url": "https://github.com/snapby/snapture-quickdata-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "ajitnk-lab",
+    "name": "aws-mcp-browser-free",
+    "full_name": "ajitnk-lab/aws-mcp-browser-free",
+    "html_url": "https://github.com/ajitnk-lab/aws-mcp-browser-free",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "TheWhykiki",
+    "name": "whykiki-anything-world-mcp",
+    "full_name": "TheWhykiki/whykiki-anything-world-mcp",
+    "html_url": "https://github.com/TheWhykiki/whykiki-anything-world-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "InteractionCo",
+    "name": "poke-mcp-examples",
+    "full_name": "InteractionCo/poke-mcp-examples",
+    "html_url": "https://github.com/InteractionCo/poke-mcp-examples",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "23Maestro",
+    "name": "prospect-pipeline",
+    "full_name": "23Maestro/prospect-pipeline",
+    "html_url": "https://github.com/23Maestro/prospect-pipeline",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "hqtrung",
+    "name": "finizi-mcp",
+    "full_name": "hqtrung/finizi-mcp",
+    "html_url": "https://github.com/hqtrung/finizi-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "askui",
+    "name": "idb-mcp",
+    "full_name": "askui/idb-mcp",
+    "html_url": "https://github.com/askui/idb-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Li-zhaoxue",
+    "name": "mcp-streaming-analytics",
+    "full_name": "Li-zhaoxue/mcp-streaming-analytics",
+    "html_url": "https://github.com/Li-zhaoxue/mcp-streaming-analytics",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "daniel-eder",
+    "name": "leantime-mcp",
+    "full_name": "daniel-eder/leantime-mcp",
+    "html_url": "https://github.com/daniel-eder/leantime-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "cbinckly",
+    "name": "jnpr-pathfinder-mcp",
+    "full_name": "cbinckly/jnpr-pathfinder-mcp",
+    "html_url": "https://github.com/cbinckly/jnpr-pathfinder-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "giussepe198",
+    "name": "trademe-mcp",
+    "full_name": "giussepe198/trademe-mcp",
+    "html_url": "https://github.com/giussepe198/trademe-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Ch00k",
+    "name": "claude-journal",
+    "full_name": "Ch00k/claude-journal",
+    "html_url": "https://github.com/Ch00k/claude-journal",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "t-neumann",
+    "name": "GenomicOps-MCP",
+    "full_name": "t-neumann/GenomicOps-MCP",
+    "html_url": "https://github.com/t-neumann/GenomicOps-MCP",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "unni2888",
+    "name": "Travel-Planning-Agent-with-MCP-Servers-and-PraisonAI",
+    "full_name": "unni2888/Travel-Planning-Agent-with-MCP-Servers-and-PraisonAI",
+    "html_url": "https://github.com/unni2888/Travel-Planning-Agent-with-MCP-Servers-and-PraisonAI",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "jonzo97",
+    "name": "mchp-mcp-core",
+    "full_name": "jonzo97/mchp-mcp-core",
+    "html_url": "https://github.com/jonzo97/mchp-mcp-core",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "junkreef",
+    "name": "mcp-zosmf",
+    "full_name": "junkreef/mcp-zosmf",
+    "html_url": "https://github.com/junkreef/mcp-zosmf",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "cmingou",
+    "name": "MCP-allowlist",
+    "full_name": "cmingou/MCP-allowlist",
+    "html_url": "https://github.com/cmingou/MCP-allowlist",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "vermadev54",
+    "name": "MCP_OKTA_INTERATION",
+    "full_name": "vermadev54/MCP_OKTA_INTERATION",
+    "html_url": "https://github.com/vermadev54/MCP_OKTA_INTERATION",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "s-morgan-jeffries",
+    "name": "apple-mail-mcp",
+    "full_name": "s-morgan-jeffries/apple-mail-mcp",
+    "html_url": "https://github.com/s-morgan-jeffries/apple-mail-mcp",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "deshitha-github",
+    "name": "property-document-classifier-mcp",
+    "full_name": "deshitha-github/property-document-classifier-mcp",
+    "html_url": "https://github.com/deshitha-github/property-document-classifier-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "MagicTurtle-s",
+    "name": "neo4j-mcp-railway-v2",
+    "full_name": "MagicTurtle-s/neo4j-mcp-railway-v2",
+    "html_url": "https://github.com/MagicTurtle-s/neo4j-mcp-railway-v2",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "sourav-83",
+    "name": "mcp-todo-reminder",
+    "full_name": "sourav-83/mcp-todo-reminder",
+    "html_url": "https://github.com/sourav-83/mcp-todo-reminder",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "LucFauvel",
+    "name": "youtube-transcript-mcp",
+    "full_name": "LucFauvel/youtube-transcript-mcp",
+    "html_url": "https://github.com/LucFauvel/youtube-transcript-mcp",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "szge",
+    "name": "lolwiki-mcp",
+    "full_name": "szge/lolwiki-mcp",
+    "html_url": "https://github.com/szge/lolwiki-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Coldplay-now",
+    "name": "llms-mcp",
+    "full_name": "Coldplay-now/llms-mcp",
+    "html_url": "https://github.com/Coldplay-now/llms-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "LoicSteve",
+    "name": "End-to-End-MCP-Application",
+    "full_name": "LoicSteve/End-to-End-MCP-Application",
+    "html_url": "https://github.com/LoicSteve/End-to-End-MCP-Application",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "ravigunasekara",
+    "name": "mpc-server",
+    "full_name": "ravigunasekara/mpc-server",
+    "html_url": "https://github.com/ravigunasekara/mpc-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "raihan0824",
+    "name": "mcp-http-template",
+    "full_name": "raihan0824/mcp-http-template",
+    "html_url": "https://github.com/raihan0824/mcp-http-template",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "billdeitrick",
+    "name": "pcomcp",
+    "full_name": "billdeitrick/pcomcp",
+    "html_url": "https://github.com/billdeitrick/pcomcp",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "ComputerClubDCPS",
+    "name": "hackboxmcp",
+    "full_name": "ComputerClubDCPS/hackboxmcp",
+    "html_url": "https://github.com/ComputerClubDCPS/hackboxmcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "valeri1383",
+    "name": "ai-nutritionist",
+    "full_name": "valeri1383/ai-nutritionist",
+    "html_url": "https://github.com/valeri1383/ai-nutritionist",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "sengokusal2025",
+    "name": "f0_20251002",
+    "full_name": "sengokusal2025/f0_20251002",
+    "html_url": "https://github.com/sengokusal2025/f0_20251002",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "moinsen-dev",
+    "name": "mcp-package-hero",
+    "full_name": "moinsen-dev/mcp-package-hero",
+    "html_url": "https://github.com/moinsen-dev/mcp-package-hero",
+    "stargazers_count": 0,
+    "default_branch": "develop"
+  },
+  {
+    "owner": "kkken2002",
+    "name": "claude-code-mcp-test",
+    "full_name": "kkken2002/claude-code-mcp-test",
+    "html_url": "https://github.com/kkken2002/claude-code-mcp-test",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "eijifuku",
+    "name": "agent-ethan-guide-mcp",
+    "full_name": "eijifuku/agent-ethan-guide-mcp",
+    "html_url": "https://github.com/eijifuku/agent-ethan-guide-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "kjpou1",
+    "name": "forexfactory-mcp",
+    "full_name": "kjpou1/forexfactory-mcp",
+    "html_url": "https://github.com/kjpou1/forexfactory-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Mohamed-Wehba",
+    "name": "seo-project-manager-mcp",
+    "full_name": "Mohamed-Wehba/seo-project-manager-mcp",
+    "html_url": "https://github.com/Mohamed-Wehba/seo-project-manager-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "AlteredCraft",
+    "name": "mcp_visualizer",
+    "full_name": "AlteredCraft/mcp_visualizer",
+    "html_url": "https://github.com/AlteredCraft/mcp_visualizer",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "JaineelPandya",
+    "name": "anthropic_course",
+    "full_name": "JaineelPandya/anthropic_course",
+    "html_url": "https://github.com/JaineelPandya/anthropic_course",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Pierre-Clayton",
+    "name": "langchain-agent-demo",
+    "full_name": "Pierre-Clayton/langchain-agent-demo",
+    "html_url": "https://github.com/Pierre-Clayton/langchain-agent-demo",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "elementary-data",
+    "name": "elementary-mcp-client",
+    "full_name": "elementary-data/elementary-mcp-client",
+    "html_url": "https://github.com/elementary-data/elementary-mcp-client",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Shankarganesh127",
+    "name": "TSAI_EAG_v2_basic_email_agent_using_mcp_server_S4",
+    "full_name": "Shankarganesh127/TSAI_EAG_v2_basic_email_agent_using_mcp_server_S4",
+    "html_url": "https://github.com/Shankarganesh127/TSAI_EAG_v2_basic_email_agent_using_mcp_server_S4",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "vrushabh05",
+    "name": "mealpilot-mcp",
+    "full_name": "vrushabh05/mealpilot-mcp",
+    "html_url": "https://github.com/vrushabh05/mealpilot-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "stevenyu113228",
+    "name": "Meta-MCP",
+    "full_name": "stevenyu113228/Meta-MCP",
+    "html_url": "https://github.com/stevenyu113228/Meta-MCP",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "snowprint",
+    "name": "weather-briefing-mcp",
+    "full_name": "snowprint/weather-briefing-mcp",
+    "html_url": "https://github.com/snowprint/weather-briefing-mcp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Anshumaan031",
+    "name": "docling-parser-Agent-and-MCP",
+    "full_name": "Anshumaan031/docling-parser-Agent-and-MCP",
+    "html_url": "https://github.com/Anshumaan031/docling-parser-Agent-and-MCP",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "amannhq",
+    "name": "observatory-python-sdk",
+    "full_name": "amannhq/observatory-python-sdk",
+    "html_url": "https://github.com/amannhq/observatory-python-sdk",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "elbosp",
+    "name": "claude-mcp-mysql",
+    "full_name": "elbosp/claude-mcp-mysql",
+    "html_url": "https://github.com/elbosp/claude-mcp-mysql",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "rswingle",
+    "name": "custom-rag-server",
+    "full_name": "rswingle/custom-rag-server",
+    "html_url": "https://github.com/rswingle/custom-rag-server",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "frotaadriano",
+    "name": "NutriAI",
+    "full_name": "frotaadriano/NutriAI",
+    "html_url": "https://github.com/frotaadriano/NutriAI",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "aygp-dr",
+    "name": "boston-harbor-ferries",
+    "full_name": "aygp-dr/boston-harbor-ferries",
+    "html_url": "https://github.com/aygp-dr/boston-harbor-ferries",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "m-indsRefuge",
+    "name": "hermes-agent",
+    "full_name": "m-indsRefuge/hermes-agent",
+    "html_url": "https://github.com/m-indsRefuge/hermes-agent",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "bananbenbadr",
+    "name": "Parrot-OS-MCP-",
+    "full_name": "bananbenbadr/Parrot-OS-MCP-",
+    "html_url": "https://github.com/bananbenbadr/Parrot-OS-MCP-",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Lambda123Design",
+    "name": "Building-MCP-Server-With-Tools-And-Client-From-Scratch-Using-LangChain-AgenticAI-Project",
+    "full_name": "Lambda123Design/Building-MCP-Server-With-Tools-And-Client-From-Scratch-Using-LangChain-AgenticAI-Project",
+    "html_url": "https://github.com/Lambda123Design/Building-MCP-Server-With-Tools-And-Client-From-Scratch-Using-LangChain-AgenticAI-Project",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "bmahabirbu",
+    "name": "ramalama-demo-tools",
+    "full_name": "bmahabirbu/ramalama-demo-tools",
+    "html_url": "https://github.com/bmahabirbu/ramalama-demo-tools",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Pritz395",
+    "name": "l1mbo",
+    "full_name": "Pritz395/l1mbo",
+    "html_url": "https://github.com/Pritz395/l1mbo",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "BrynRamirez",
+    "name": "Agentic-Fruad-Detection-System-with-RL-and-MCP",
+    "full_name": "BrynRamirez/Agentic-Fruad-Detection-System-with-RL-and-MCP",
+    "html_url": "https://github.com/BrynRamirez/Agentic-Fruad-Detection-System-with-RL-and-MCP",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Muadkh",
+    "name": "YouTube_Video_Summarizer",
+    "full_name": "Muadkh/YouTube_Video_Summarizer",
+    "html_url": "https://github.com/Muadkh/YouTube_Video_Summarizer",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "boecht",
+    "name": "birre",
+    "full_name": "boecht/birre",
+    "html_url": "https://github.com/boecht/birre",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Chelu97",
+    "name": "claude-local-control",
+    "full_name": "Chelu97/claude-local-control",
+    "html_url": "https://github.com/Chelu97/claude-local-control",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "zv-louis",
+    "name": "updsts",
+    "full_name": "zv-louis/updsts",
+    "html_url": "https://github.com/zv-louis/updsts",
+    "stargazers_count": 0,
+    "default_branch": "master"
+  },
+  {
+    "owner": "dataartist-og",
+    "name": "overlord-python",
+    "full_name": "dataartist-og/overlord-python",
+    "html_url": "https://github.com/dataartist-og/overlord-python",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Ivan2993",
+    "name": "markitdown",
+    "full_name": "Ivan2993/markitdown",
+    "html_url": "https://github.com/Ivan2993/markitdown",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "RobertRotaru",
+    "name": "SoccerPedia",
+    "full_name": "RobertRotaru/SoccerPedia",
+    "html_url": "https://github.com/RobertRotaru/SoccerPedia",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "maroun2",
+    "name": "pdf-spread-viewer",
+    "full_name": "maroun2/pdf-spread-viewer",
+    "html_url": "https://github.com/maroun2/pdf-spread-viewer",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Mark-AImagineers",
+    "name": "anvil",
+    "full_name": "Mark-AImagineers/anvil",
+    "html_url": "https://github.com/Mark-AImagineers/anvil",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "mootoo4499",
+    "name": "KS_Screenwriter",
+    "full_name": "mootoo4499/KS_Screenwriter",
+    "html_url": "https://github.com/mootoo4499/KS_Screenwriter",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "manutej",
+    "name": "ai-stock-research",
+    "full_name": "manutej/ai-stock-research",
+    "html_url": "https://github.com/manutej/ai-stock-research",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "gpraveen253",
+    "name": "copilot-agent",
+    "full_name": "gpraveen253/copilot-agent",
+    "html_url": "https://github.com/gpraveen253/copilot-agent",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "praneethravuri",
+    "name": "pitstop",
+    "full_name": "praneethravuri/pitstop",
+    "html_url": "https://github.com/praneethravuri/pitstop",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "SnehithDev1",
+    "name": "NASA-Space-Biology-Agent---ultimate",
+    "full_name": "SnehithDev1/NASA-Space-Biology-Agent---ultimate",
+    "html_url": "https://github.com/SnehithDev1/NASA-Space-Biology-Agent---ultimate",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "sahilmhatr3",
+    "name": "ml-experimenter-microservice",
+    "full_name": "sahilmhatr3/ml-experimenter-microservice",
+    "html_url": "https://github.com/sahilmhatr3/ml-experimenter-microservice",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "repolhomp3",
+    "name": "agentic-azure",
+    "full_name": "repolhomp3/agentic-azure",
+    "html_url": "https://github.com/repolhomp3/agentic-azure",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "simplemindedbot",
+    "name": "stm-research",
+    "full_name": "simplemindedbot/stm-research",
+    "html_url": "https://github.com/simplemindedbot/stm-research",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "klogins-hash",
+    "name": "magentic-ui-comprehensive",
+    "full_name": "klogins-hash/magentic-ui-comprehensive",
+    "html_url": "https://github.com/klogins-hash/magentic-ui-comprehensive",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "dongwoosuk",
+    "name": "grasshopper-quality-analyzer",
+    "full_name": "dongwoosuk/grasshopper-quality-analyzer",
+    "html_url": "https://github.com/dongwoosuk/grasshopper-quality-analyzer",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "Lone-Star-AI",
+    "name": "nexus-prime-warp",
+    "full_name": "Lone-Star-AI/nexus-prime-warp",
+    "html_url": "https://github.com/Lone-Star-AI/nexus-prime-warp",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "prakharpandey32",
+    "name": "Canvas_to_Calendar_Sync",
+    "full_name": "prakharpandey32/Canvas_to_Calendar_Sync",
+    "html_url": "https://github.com/prakharpandey32/Canvas_to_Calendar_Sync",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "SohamChaudhari2004",
+    "name": "MOSAIC",
+    "full_name": "SohamChaudhari2004/MOSAIC",
+    "html_url": "https://github.com/SohamChaudhari2004/MOSAIC",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  },
+  {
+    "owner": "pratikmakune3",
+    "name": "travel-agent",
+    "full_name": "pratikmakune3/travel-agent",
+    "html_url": "https://github.com/pratikmakune3/travel-agent",
+    "stargazers_count": 0,
+    "default_branch": "main"
+  }
+]

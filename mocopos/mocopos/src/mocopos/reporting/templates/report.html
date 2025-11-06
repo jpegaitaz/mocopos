@@ -1,0 +1,77 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <title>{{ meta.title or "Security Report" }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <style>
+    @page {
+      size: A4;
+      margin: 20mm 16mm 22mm 16mm;
+      @top-left {
+        content: "{{ meta.company or 'MOCOPOS Security' }}";
+        font-size: 10pt;
+        color: #6b7280;
+      }
+      @top-right {
+        content: "{{ meta.report_type or 'Report' }}";
+        font-size: 10pt;
+        color: #6b7280;
+      }
+      @bottom-left {
+        content: "{{ meta.timestamp or '' }}  •  {{ meta.session_id or '' }}";
+        font-size: 9pt;
+        color: #9ca3af;
+      }
+      @bottom-right {
+        content: "Page " counter(page) " of " counter(pages);
+        font-size: 9pt;
+        color: #9ca3af;
+      }
+    }
+  </style>
+ <!-- <link rel="stylesheet" href="../assets/report.css"/> -->
+<style>
+  /* Minimal, self-contained table styles for debugging */
+  .content { color:#111827 !important; font-family: "DejaVu Sans", Arial, sans-serif; }
+  .content table { width:100%; border-collapse: collapse; margin:12px 0 16px; border:1px solid #999; }
+  .content th, .content td { border:1px solid #999; padding:8px 10px; text-align:left; vertical-align:top; background:#fff; }
+  .content th { background:#eee; font-weight:600; }
+  .content table, .content table * { color:#111827 !important; }
+  /* ensure numerals render even if a weird font gets picked */
+  .content table, .content table * { font-family: "DejaVu Sans", Arial, sans-serif !important; }
+  /* avoid splitting rows across pages */
+  thead, tfoot { display: table-row-group; }
+  tr, th, td { page-break-inside: avoid; }
+  /* Force numeric glyphs to render */
+  .content table, .content table * {
+  font-family: "DejaVu Sans", Arial, sans-serif !important;
+}
+</style>
+
+
+</head>
+<body>
+  <!-- Cover -->
+  <section class="cover">
+    {% if meta.logo_path %}
+      <img class="logo" src="{{ meta.logo_path }}" alt="Logo"/>
+    {% endif %}
+    <h1>{{ meta.title or "Security Report" }}</h1>
+    <p class="subtitle">{{ meta.subtitle or "Automated Repository Security Analysis" }}</p>
+    <div class="meta">
+      <div><strong>Company:</strong> {{ meta.company or "MOCOPOS Security" }}</div>
+      <div><strong>Report Type:</strong> {{ meta.report_type or "Per-Repository" }}</div>
+      <div><strong>Timestamp:</strong> {{ meta.timestamp or "" }}</div>
+      <div><strong>Session:</strong> {{ meta.session_id or "" }}</div>
+    </div>
+  </section>
+
+  <div class="pagebreak"></div>
+
+  <!-- Content -->
+  <main class="content">
+    {{ body_html | safe }}
+  </main>
+</body>
+</html>

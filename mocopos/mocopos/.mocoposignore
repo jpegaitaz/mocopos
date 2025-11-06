@@ -1,0 +1,38 @@
+# lockfiles
+**/package-lock.json
+**/yarn.lock
+**/pnpm-lock.yaml
+
+# docs & sites
+docs/**
+website/**
+web/**
+webchat/**
+
+# samples / tests / benches
+examples/**
+e2e_tests/**
+test/**
+tests/**
+**/test_results/**
+
+# known noisy data fixtures
+**/repo_db_mapping.json
+tools/schema/*.json
+
+# project-specific spikes from your jq sample
+frontend_nextjs/pnpm-lock.yaml
+ui/pnpm-lock.yaml
+sdk/js/pnpm-lock.yaml
+extension/package-lock.json
+typescript/package-lock.json
+dashboard/**/package-lock.json
+flexible-graphrag-ui/frontend-react/package-lock.json
+
+# noisy data / lockfiles / test artifacts
+**/*.json
+**/*.yaml
+**/*.yml
+**/test_results/**    # if applicable
+**/*lock*.json
+**/*.lock
