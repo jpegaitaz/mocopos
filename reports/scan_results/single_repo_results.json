@@ -1,0 +1,27 @@
+{
+  "session_id": "edf70692-9197-4147-b273-34fbdc25a90c",
+  "started_at": "2025-11-06T17:56:24.213440+00:00",
+  "finished_at": "2025-11-06T17:56:34.427349+00:00",
+  "repo": {
+    "owner": "jpegaitaz",
+    "name": "jox",
+    "ref": "main",
+    "commit": "e4cecb441bda87d15d6275ca69015bcc10714a0e"
+  },
+  "stats": {
+    "files_scanned": 83,
+    "bytes_scanned": 238051,
+    "scanners_used": [
+      "secrets",
+      "entropy_secrets",
+      "static_risk",
+      "taint_risk",
+      "deps_audit",
+      "github_actions"
+    ]
+  },
+  "findings": [],
+  "classification": "Safe",
+  "summary": "No findings detected.",
+  "policy_flags": []
+}
