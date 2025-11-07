@@ -1,26 +1,64 @@
 import os
 import time
+from pathlib import Path
 from typing import Dict, Any, Optional
-from openai import OpenAI
-from httpx import HTTPError
 
-_DEFAULT_MODEL = os.getenv("OPENAI_MODEL", "gpt-4o")
+from httpx import HTTPError
+from openai import OpenAI
+from dotenv import load_dotenv, find_dotenv
+
+# -------------------- Environment helpers --------------------
+
+def _load_env_once() -> None:
+    # Load .env from the nearest parent; do not overwrite real env vars
+    load_dotenv(find_dotenv(), override=False)
+
+def _resolve_api_key() -> Optional[str]:
+    api_key = os.getenv("OPENAI_API_KEY")
+    if api_key:
+        return api_key
+
+    # Optional: read from a file path if provided
+    key_file = os.getenv("OPENAI_API_KEY_FILE")
+    if key_file and Path(key_file).exists():
+        return Path(key_file).read_text(encoding="utf-8").strip()
+
+    return None
+
+def _default_model() -> str:
+    # Read dynamically so .env changes are respected without restart
+    return os.getenv("OPENAI_MODEL", "gpt-4o")
+
 _MAX_RETRIES = int(os.getenv("OPENAI_MAX_RETRIES", "5"))
 
 _client: Optional[OpenAI] = None
 
+# -------------------- Client factory --------------------
+
 def get_client() -> OpenAI:
     global _client
     if _client is None:
-        # Uses OPENAI_API_KEY from the environment
-        _client = OpenAI()
+        _load_env_once()
+
+        api_key = _resolve_api_key()
+        if not api_key:
+            raise RuntimeError(
+                "Missing OPENAI_API_KEY. Set it in your environment or provide OPENAI_API_KEY_FILE."
+            )
+
+        base_url = os.getenv("OPENAI_BASE_URL")
+        _client = OpenAI(api_key=api_key, base_url=base_url) if base_url else OpenAI(api_key=api_key)
     return _client
+
+# -------------------- Utils --------------------
 
 def _prune_none(d: Dict[str, Any]) -> Dict[str, Any]:
     return {k: v for k, v in d.items() if v is not None}
 
+# -------------------- Responses wrapper --------------------
+
 def call_openai_responses(
-    model: str,
+    model: Optional[str],
     instructions: str,
     input_obj: Any,
     *,
@@ -30,16 +68,17 @@ def call_openai_responses(
     max_output_tokens: Optional[int] = None,
 ) -> str:
     """
-    Wraps Responses API with retries and compatibility fallbacks.
-    Some SDK versions don't support 'seed' or use 'max_tokens' instead of 'max_output_tokens'.
-    We try the most modern signature first, then progressively fall back.
+    Wraps the Responses API with retries and compatibility fallbacks.
+    - Tries modern signature first.
+    - If TypeError mentions unsupported fields, falls back by removing them
+      or swapping 'max_output_tokens' -> 'max_tokens'.
     """
     client = get_client()
     delay = 1.0
 
     # Build the most up-to-date parameter set
     base_params: Dict[str, Any] = {
-        "model": model or _DEFAULT_MODEL,
+        "model": model or _default_model(),
         "instructions": instructions,
         "input": input_obj,
         "temperature": temperature,
@@ -70,16 +109,20 @@ def call_openai_responses(
                         fallback_params["max_tokens"] = fallback_params.pop("max_output_tokens")
                     resp = client.responses.create(**fallback_params)
                     return getattr(resp, "output_text", None) or str(resp)
+
         except HTTPError:
-            if attempt == _MAX_RETRIES - 1:
-                raise
-            time.sleep(delay)
-            delay = min(delay * 2, 20.0)
-        except Exception:
+            # Network/HTTP transport error from httpx
             if attempt == _MAX_RETRIES - 1:
                 raise
             time.sleep(delay)
             delay = min(delay * 2, 20.0)
 
-    # Should never get here due to raises on last attempt
+        except Exception:
+            # Any other SDK/runtime error; backoff and retry
+            if attempt == _MAX_RETRIES - 1:
+                raise
+            time.sleep(delay)
+            delay = min(delay * 2, 20.0)
+
+    # Should never reach here because we raise on the last attempt
     raise RuntimeError("Failed to obtain response from OpenAI after retries.")
