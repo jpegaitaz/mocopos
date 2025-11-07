@@ -1,0 +1,196 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"/>
+  <title>Portfolio Security Report</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1"/>
+  <style>
+    @page {
+      size: A4;
+      margin: 20mm 16mm 22mm 16mm;
+      @top-left {
+        content: "ACME Cyber Risk";
+        font-size: 10pt;
+        color: #6b7280;
+      }
+      @top-right {
+        content: "Consolidated";
+        font-size: 10pt;
+        color: #6b7280;
+      }
+      @bottom-left {
+        content: "20251107_123851Z  •  6FQ2JW";
+        font-size: 9pt;
+        color: #9ca3af;
+      }
+      @bottom-right {
+        content: "Page " counter(page) " of " counter(pages);
+        font-size: 9pt;
+        color: #9ca3af;
+      }
+    }
+  </style>
+ <!-- <link rel="stylesheet" href="../assets/report.css"/> -->
+<style>
+  /* Minimal, self-contained table styles for debugging */
+  .content { color:#111827 !important; font-family: "DejaVu Sans", Arial, sans-serif; }
+  .content table { width:100%; border-collapse: collapse; margin:12px 0 16px; border:1px solid #999; }
+  .content th, .content td { border:1px solid #999; padding:8px 10px; text-align:left; vertical-align:top; background:#fff; }
+  .content th { background:#eee; font-weight:600; }
+  .content table, .content table * { color:#111827 !important; }
+  /* ensure numerals render even if a weird font gets picked */
+  .content table, .content table * { font-family: "DejaVu Sans", Arial, sans-serif !important; }
+  /* avoid splitting rows across pages */
+  thead, tfoot { display: table-row-group; }
+  tr, th, td { page-break-inside: avoid; }
+  /* Force numeric glyphs to render */
+  .content table, .content table * {
+  font-family: "DejaVu Sans", Arial, sans-serif !important;
+}
+</style>
+
+
+</head>
+<body>
+  <!-- Cover -->
+  <section class="cover">
+    
+    <h1>Portfolio Security Report</h1>
+    <p class="subtitle">Consolidated Batch Summary</p>
+    <div class="meta">
+      <div><strong>Company:</strong> ACME Cyber Risk</div>
+      <div><strong>Report Type:</strong> Consolidated</div>
+      <div><strong>Timestamp:</strong> 20251107_123851Z</div>
+      <div><strong>Session:</strong> 6FQ2JW</div>
+    </div>
+  </section>
+
+  <div class="pagebreak"></div>
+
+  <!-- Content -->
+  <main class="content">
+    <h1 id="executive-summary">Executive Summary</h1>
+<p>The recent security analysis of our repositories indicates a moderate risk posture, with a focus on high-severity findings. The majority of issues are concentrated in a few repositories, suggesting targeted remediation could significantly reduce overall risk.</p>
+<ul>
+<li><strong>13</strong> repositories scanned</li>
+<li><strong>238</strong> total files analyzed</li>
+<li><strong>10</strong> files flagged, representing <strong>4.20%</strong> of total files</li>
+<li><strong>23.08%</strong> of repositories contain findings</li>
+<li>Top categories: <strong>py_file_op_tainted</strong> (7), <strong>py_subprocess_tainted</strong> (2), <strong>high_entropy_candidate</strong> (1)</li>
+<li><strong>69.23%</strong> of findings are high severity</li>
+<li>Median flagged files per repo: <strong>0.0</strong>; 95th percentile: <strong>6.0</strong></li>
+</ul>
+<h1 id="portfolio-level-statistics">Portfolio-Level Statistics</h1>
+<table>
+<thead>
+<tr>
+<th>Metric</th>
+<th>Total</th>
+<th>Rate (%)</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Repositories</td>
+<td><span style="color:#111827 !important;-webkit-text-fill-color:#111827 !important;opacity:1 !important;visibility:visible !important;mix-blend-mode:normal !important;filter:none !important;">13</span></td>
+<td>N/A</td>
+</tr>
+<tr>
+<td>Files Scanned</td>
+<td><span style="color:#111827 !important;-webkit-text-fill-color:#111827 !important;opacity:1 !important;visibility:visible !important;mix-blend-mode:normal !important;filter:none !important;">238</span></td>
+<td>N/A</td>
+</tr>
+<tr>
+<td>Flagged Files</td>
+<td><span style="color:#111827 !important;-webkit-text-fill-color:#111827 !important;opacity:1 !important;visibility:visible !important;mix-blend-mode:normal !important;filter:none !important;">10</span></td>
+<td><span style="color:#111827 !important;-webkit-text-fill-color:#111827 !important;opacity:1 !important;visibility:visible !important;mix-blend-mode:normal !important;filter:none !important;">4.20</span></td>
+</tr>
+<tr>
+<td>Repos with Findings</td>
+<td><span style="color:#111827 !important;-webkit-text-fill-color:#111827 !important;opacity:1 !important;visibility:visible !important;mix-blend-mode:normal !important;filter:none !important;">3</span></td>
+<td><span style="color:#111827 !important;-webkit-text-fill-color:#111827 !important;opacity:1 !important;visibility:visible !important;mix-blend-mode:normal !important;filter:none !important;">23.08</span></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Category</th>
+<th>Count</th>
+<th>% of Total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>py_file_op_tainted</td>
+<td><span style="color:#111827 !important;-webkit-text-fill-color:#111827 !important;opacity:1 !important;visibility:visible !important;mix-blend-mode:normal !important;filter:none !important;">7</span></td>
+<td><span style="color:#111827 !important;-webkit-text-fill-color:#111827 !important;opacity:1 !important;visibility:visible !important;mix-blend-mode:normal !important;filter:none !important;">70.00</span></td>
+</tr>
+<tr>
+<td>py_subprocess_tainted</td>
+<td><span style="color:#111827 !important;-webkit-text-fill-color:#111827 !important;opacity:1 !important;visibility:visible !important;mix-blend-mode:normal !important;filter:none !important;">2</span></td>
+<td><span style="color:#111827 !important;-webkit-text-fill-color:#111827 !important;opacity:1 !important;visibility:visible !important;mix-blend-mode:normal !important;filter:none !important;">20.00</span></td>
+</tr>
+<tr>
+<td>high_entropy_candidate</td>
+<td><span style="color:#111827 !important;-webkit-text-fill-color:#111827 !important;opacity:1 !important;visibility:visible !important;mix-blend-mode:normal !important;filter:none !important;">1</span></td>
+<td><span style="color:#111827 !important;-webkit-text-fill-color:#111827 !important;opacity:1 !important;visibility:visible !important;mix-blend-mode:normal !important;filter:none !important;">10.00</span></td>
+</tr>
+</tbody>
+</table>
+<table>
+<thead>
+<tr>
+<th>Severity</th>
+<th>Count</th>
+<th>% of Total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>High</td>
+<td><span style="color:#111827 !important;-webkit-text-fill-color:#111827 !important;opacity:1 !important;visibility:visible !important;mix-blend-mode:normal !important;filter:none !important;">9</span></td>
+<td><span style="color:#111827 !important;-webkit-text-fill-color:#111827 !important;opacity:1 !important;visibility:visible !important;mix-blend-mode:normal !important;filter:none !important;">90.00</span></td>
+</tr>
+<tr>
+<td>Medium</td>
+<td><span style="color:#111827 !important;-webkit-text-fill-color:#111827 !important;opacity:1 !important;visibility:visible !important;mix-blend-mode:normal !important;filter:none !important;">1</span></td>
+<td><span style="color:#111827 !important;-webkit-text-fill-color:#111827 !important;opacity:1 !important;visibility:visible !important;mix-blend-mode:normal !important;filter:none !important;">10.00</span></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Distribution Highlights:</strong></p>
+<ul>
+<li>Top 5 Repos by Flagged Count:</li>
+<li>JamesonRGrieve/ServerFramework: 6</li>
+<li>Lekssays/joern-mcp: 2</li>
+<li>aparsoft/kokoro-mcp-server: 2</li>
+<li>aryaminus/h1b-job-search-mcp: 0</li>
+<li>ohnicholas93/payload-mcp-server: 0</li>
+</ul>
+<h1 id="systemic-risks-themes">Systemic Risks &amp; Themes</h1>
+<ul>
+<li><strong>File Operation Tainting</strong>: Predominantly in JamesonRGrieve/ServerFramework.</li>
+<li><strong>Subprocess Tainting</strong>: Detected in Lekssays/joern-mcp and aparsoft/kokoro-mcp-server.</li>
+<li><strong>High Entropy Strings</strong>: Potential secrets in JamesonRGrieve/ServerFramework.</li>
+</ul>
+<h1 id="prioritized-recommendations">Prioritized Recommendations</h1>
+<ul>
+<li><strong>P0</strong>: Immediate review and remediation of high-severity findings in JamesonRGrieve/ServerFramework (Owner: JamesonRGrieve; Success: No high-severity findings post-remediation).</li>
+<li><strong>P1</strong>: Implement automated secret scanning in CI/CD pipelines.</li>
+<li><strong>P2</strong>: Enhance training on secure coding practices, focusing on file and subprocess handling.</li>
+</ul>
+<h1 id="notable-repositories">Notable Repositories</h1>
+<ul>
+<li><strong>Standout-Safe</strong>: aryaminus/h1b-job-search-mcp and ohnicholas93/payload-mcp-server (No findings).</li>
+<li><strong>Higher-Risk</strong>: JamesonRGrieve/ServerFramework (High concentration of high-severity findings).</li>
+</ul>
+<h1 id="methodology-notes">Methodology Notes</h1>
+<ul>
+<li><strong>Scope</strong>: Static analysis of 13 repositories.</li>
+<li><strong>Exclusions</strong>: Dynamic analysis not performed; evidence excerpts are redacted.</li>
+<li><strong>Caveats</strong>: Assumptions made when findings data was incomplete, relying on flagged counts.</li>
+</ul>
+  </main>
+</body>
+</html>
